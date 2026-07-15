@@ -128,16 +128,8 @@ function buildVariantTitle(productName, variant) {
 
   if (Array.isArray(variant?.values)) {
     for (const value of variant.values) {
-      if (typeof value === "string") parts.push(value);
-      else if (value?.value) parts.push(value.value);
-      else if (value?.name) parts.push(value.name);
-    }
-  }
-
-  if (Array.isArray(variant?.attributes)) {
-    for (const attr of variant.attributes) {
-      const value = firstDefined(attr?.value, attr?.name);
-      if (value) parts.push(value);
+      const localized = getLocalizedValue(value);
+      if (localized) parts.push(localized);
     }
   }
 

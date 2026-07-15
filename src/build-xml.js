@@ -22,7 +22,7 @@ function itemToXml(item) {
       <g:title>${escapeXml(item.title)}</g:title>
       <g:description>${escapeXml(item.description || "")}</g:description>
       <g:availability>${escapeXml(item.availability)}</g:availability>
-      <g:quantity>${escapeXml(String(item.quantity ?? 0))}</g:quantity>
+      <g:quantity_to_sell_on_facebook>${escapeXml(String(item.quantity ?? 0))}</g:quantity_to_sell_on_facebook>
       <g:condition>${escapeXml(item.condition)}</g:condition>
       <g:price>${escapeXml(`${item.price} ${currency}`)}</g:price>
       ${item.salePrice ? `<g:sale_price>${escapeXml(`${item.salePrice} ${currency}`)}</g:sale_price>` : ""}

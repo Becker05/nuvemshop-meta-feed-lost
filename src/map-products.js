@@ -123,6 +123,28 @@ function getAdditionalImageLinks(product, variant, mainImage) {
   return collectAllImages(product, variant).filter((image) => image !== mainImage);
 }
 
+const SIZE_ATTRIBUTE_REGEX = /tamanho|tamaño|talla|talle|\bsize\b/i;
+
+function getAttributeLocalizedStrings(attr) {
+  if (!attr) return [];
+  if (typeof attr === "string") return [attr];
+  if (typeof attr === "object") return Object.values(attr).filter((v) => typeof v === "string");
+  return [];
+}
+
+function findSizeAttributeIndex(product) {
+  if (!Array.isArray(product?.attributes)) return -1;
+  return product.attributes.findIndex((attr) =>
+    getAttributeLocalizedStrings(attr).some((str) => SIZE_ATTRIBUTE_REGEX.test(str))
+  );
+}
+
+function getVariantSize(product, variant) {
+  const index = findSizeAttributeIndex(product);
+  if (index === -1 || !Array.isArray(variant?.values)) return null;
+  return getLocalizedValue(variant.values[index]) || null;
+}
+
 function buildVariantTitle(productName, variant) {
   const parts = [];
 
@@ -208,6 +230,7 @@ function mapSimpleProduct(product, baseItem) {
     title: baseItem.title,
     description: baseItem.description,
     availability: normalizeAvailability(stock),
+    quantity: Number(stock) || 0,
     condition: baseItem.condition,
     price,
     salePrice: product.promotional_price ? normalizePrice(product.promotional_price) : null,
@@ -235,6 +258,8 @@ function mapVariantProduct(product, baseItem, variant) {
     title: buildVariantTitle(baseItem.title, variant),
     description: baseItem.description,
     availability: normalizeAvailability(stock),
+    quantity: Number(stock) || 0,
+    size: getVariantSize(product, variant),
     condition: baseItem.condition,
     price,
     salePrice: variant.promotional_price ? normalizePrice(variant.promotional_price) : null,

@@ -22,6 +22,7 @@ function itemToXml(item) {
       <g:title>${escapeXml(item.title)}</g:title>
       <g:description>${escapeXml(item.description || "")}</g:description>
       <g:availability>${escapeXml(item.availability)}</g:availability>
+      <g:quantity>${escapeXml(String(item.quantity ?? 0))}</g:quantity>
       <g:condition>${escapeXml(item.condition)}</g:condition>
       <g:price>${escapeXml(`${item.price} ${currency}`)}</g:price>
       ${item.salePrice ? `<g:sale_price>${escapeXml(`${item.salePrice} ${currency}`)}</g:sale_price>` : ""}
@@ -29,6 +30,7 @@ function itemToXml(item) {
       <g:image_link>${escapeXml(item.imageLink)}</g:image_link>
       <g:brand>${escapeXml(item.brand || "")}</g:brand>
       ${item.itemGroupId ? `<g:item_group_id>${escapeXml(item.itemGroupId)}</g:item_group_id>` : ""}
+      ${item.size ? `<g:size>${escapeXml(item.size)}</g:size>` : ""}
       ${productTypeLines}
     </item>
   `.trim();

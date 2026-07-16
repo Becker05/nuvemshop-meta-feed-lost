@@ -5005,6 +5005,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Moletom</g:product_type>
       <g:product_type>Calças</g:product_type>
+      <g:product_type>Moletom</g:product_type>
       <g:product_type>Outlet</g:product_type>
     </item>
     <item>
@@ -5028,6 +5029,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Moletom</g:product_type>
       <g:product_type>Calças</g:product_type>
+      <g:product_type>Moletom</g:product_type>
       <g:product_type>Outlet</g:product_type>
     </item>
     <item>
@@ -5051,6 +5053,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Moletom</g:product_type>
       <g:product_type>Calças</g:product_type>
+      <g:product_type>Moletom</g:product_type>
       <g:product_type>Outlet</g:product_type>
     </item>
     <item>
@@ -5074,6 +5077,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Moletom</g:product_type>
       <g:product_type>Calças</g:product_type>
+      <g:product_type>Moletom</g:product_type>
       <g:product_type>Outlet</g:product_type>
     </item>
     <item>
@@ -11304,6 +11308,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Jeans</g:product_type>
       <g:product_type>Calças</g:product_type>
+      <g:product_type>Jeans</g:product_type>
       <g:product_type>Outlet</g:product_type>
     </item>
     <item>
@@ -11327,14 +11332,15 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Jeans</g:product_type>
       <g:product_type>Calças</g:product_type>
+      <g:product_type>Jeans</g:product_type>
       <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555423108</g:id>
       <g:title>Calça Denim Work Indigo (40 / Indigo)</g:title>
       <g:description>Ref.: 22413905-III Para quem busca conforto e liberdade de movimento para mandar as tricks a calça work é a escolha ideal. Depois de muita pesquisa a Lost desenvolveu a modelagem perfeita para todos os rolês possíveis, desde um festival ou role de skate até uma trip insana pelo mundo. A lavagem marmorizada e os diversos bolsos a tornam uma calça contemporânea e diferente de tudo que você já viu. Uma peça única e style que só a Lost tem, desenvolvida em jeans de alta qualidade, é um produto com superior e extremamente durável e versátil. Especificações do produto: · Modelagem Carpinteira, ampla para mais liberdade de movimento. · Lavagem marmorizada. · Bolsos frontais embutidos com bolso relógio e bolso isqueiro interno. · Bolsos laterais recortados. · Bolsos traseiros. · Cós com passantes para cinto. · Fechamento e</g:description>
-      <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
+      <g:availability>out of stock</g:availability>
+      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>429.00 BRL</g:price>
       
@@ -11350,6 +11356,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Jeans</g:product_type>
       <g:product_type>Calças</g:product_type>
+      <g:product_type>Jeans</g:product_type>
       <g:product_type>Outlet</g:product_type>
     </item>
     <item>
@@ -11373,6 +11380,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Jeans</g:product_type>
       <g:product_type>Calças</g:product_type>
+      <g:product_type>Jeans</g:product_type>
       <g:product_type>Outlet</g:product_type>
     </item>
     <item>
@@ -11396,6 +11404,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Jeans</g:product_type>
       <g:product_type>Calças</g:product_type>
+      <g:product_type>Jeans</g:product_type>
       <g:product_type>Outlet</g:product_type>
     </item>
     <item>
@@ -11419,6 +11428,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Jeans</g:product_type>
       <g:product_type>Calças</g:product_type>
+      <g:product_type>Jeans</g:product_type>
       <g:product_type>Outlet</g:product_type>
     </item>
     <item>
@@ -11442,6 +11452,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Jeans</g:product_type>
       <g:product_type>Calças</g:product_type>
+      <g:product_type>Jeans</g:product_type>
       <g:product_type>Outlet</g:product_type>
     </item>
     <item>
@@ -12128,6 +12139,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Moletom</g:product_type>
       <g:product_type>Calças</g:product_type>
+      <g:product_type>Moletom</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Lost Enterprises</g:product_type>
@@ -12153,6 +12165,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Moletom</g:product_type>
       <g:product_type>Calças</g:product_type>
+      <g:product_type>Moletom</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Lost Enterprises</g:product_type>
@@ -12178,6 +12191,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Moletom</g:product_type>
       <g:product_type>Calças</g:product_type>
+      <g:product_type>Moletom</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Lost Enterprises</g:product_type>
@@ -12203,6 +12217,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Moletom</g:product_type>
       <g:product_type>Calças</g:product_type>
+      <g:product_type>Moletom</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Lost Enterprises</g:product_type>
@@ -14724,7 +14739,7 @@
       <g:title>Boné Fitão Lost California Blue (Azul) (U / Blue (Azul) Azul)</g:title>
       <g:description>Ref.: 22626511-DDD Especificações do produto: · Modelagem Fitão. · Estampa Lost Saturno + Califórnia. · Aba reta. · Fechamento em fivela de metal personalizada + fita em couro. · Etiqueta Lost embutida no fechamento. · Tag personalizado Lost. Composição: Aba: 100% Poliéster. Corpo: 82% Poliamida / 14% Algodão / 3% Elastano. Linha Lost / Acessórios</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>112</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>111</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>389.00 BRL</g:price>
       
@@ -24034,7 +24049,7 @@
       <g:title>T-Shirt Lost Enterprises Amarelo Azeite (G / Amarelo Azeite Most)</g:title>
       <g:description>Ref.: 22622818-AAZ Especificações do produto: · Linha Lost Branding. · Modelagem regular. · Estampa Lost Inc localizada no peito. · Reforço de gola. · Estampa etiqueta aplicada na barra frontal. · Tag personalizado Lost. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>13</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>12</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>149.00 BRL</g:price>
       
@@ -32556,6 +32571,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Jeans</g:product_type>
       <g:product_type>Calças</g:product_type>
+      <g:product_type>Jeans</g:product_type>
       <g:product_type>Outlet</g:product_type>
     </item>
     <item>
@@ -32579,6 +32595,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Jeans</g:product_type>
       <g:product_type>Calças</g:product_type>
+      <g:product_type>Jeans</g:product_type>
       <g:product_type>Outlet</g:product_type>
     </item>
     <item>
@@ -32602,6 +32619,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Jeans</g:product_type>
       <g:product_type>Calças</g:product_type>
+      <g:product_type>Jeans</g:product_type>
       <g:product_type>Outlet</g:product_type>
     </item>
     <item>
@@ -32625,6 +32643,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Jeans</g:product_type>
       <g:product_type>Calças</g:product_type>
+      <g:product_type>Jeans</g:product_type>
       <g:product_type>Outlet</g:product_type>
     </item>
     <item>
@@ -32648,6 +32667,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Jeans</g:product_type>
       <g:product_type>Calças</g:product_type>
+      <g:product_type>Jeans</g:product_type>
       <g:product_type>Outlet</g:product_type>
     </item>
     <item>
@@ -32671,6 +32691,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Jeans</g:product_type>
       <g:product_type>Calças</g:product_type>
+      <g:product_type>Jeans</g:product_type>
       <g:product_type>Outlet</g:product_type>
     </item>
     <item>
@@ -33845,7 +33866,7 @@
       <g:title>Canguru 4:20 Preto (GG / Preto Mostruario)</g:title>
       <g:description>Ref.: 22613620-PPP Linha 4:20. Especificações do produto: · Modelagem regular. · Estampa frontal Lost smoke peito lateral. · Técnica especial brilha no escuro. · Etiqueta 4:20 saturno acima da barra. · Estampa grande lost 4:20 nas costas. · Tag personalizado LOST X 4:20. · Reforço de gola. · Tag com técnica especial do fogo. Composição: 72% CO 28% PES. A Lost apresenta o drop 4:20 uma coleção inspirada na cultura canábica, trazendo peças com atitude, identidade e estética urbana. Um lançamento pensado para quem vive o lifestyle.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>4</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>3</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>499.00 BRL</g:price>
       
@@ -36639,7 +36660,7 @@
       <g:title>Boné Fitão Flames Preto (U / Preto Preto)</g:title>
       <g:description>Ref.: 22626514-PPP Especificações do produto: · Modelagem Fitão. · Estampa Saturno Fire no centro. · Aba reta. · Fechamento em fivela de metal personalizada + fita em couro. · Estampa Lost Fire na parte de trás. · Tag personalizado Lost. Composição: Aba: 100% Couro Sintético. Corpo: 83% Poliamida / 14% Algodão / 3% Elastano. Linha Lost / Acessórios</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>15</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>16</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>409.00 BRL</g:price>
       
@@ -41042,6 +41063,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Jeans</g:product_type>
       <g:product_type>Calças</g:product_type>
+      <g:product_type>Jeans</g:product_type>
     </item>
     <item>
       <g:id>1555560146</g:id>
@@ -41064,6 +41086,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Jeans</g:product_type>
       <g:product_type>Calças</g:product_type>
+      <g:product_type>Jeans</g:product_type>
     </item>
     <item>
       <g:id>1555560147</g:id>
@@ -41086,6 +41109,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Jeans</g:product_type>
       <g:product_type>Calças</g:product_type>
+      <g:product_type>Jeans</g:product_type>
     </item>
     <item>
       <g:id>1555560159</g:id>
@@ -41108,6 +41132,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Jeans</g:product_type>
       <g:product_type>Calças</g:product_type>
+      <g:product_type>Jeans</g:product_type>
     </item>
     <item>
       <g:id>1555560165</g:id>
@@ -41130,6 +41155,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Jeans</g:product_type>
       <g:product_type>Calças</g:product_type>
+      <g:product_type>Jeans</g:product_type>
     </item>
     <item>
       <g:id>1555560179</g:id>
@@ -41152,6 +41178,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Jeans</g:product_type>
       <g:product_type>Calças</g:product_type>
+      <g:product_type>Jeans</g:product_type>
     </item>
     <item>
       <g:id>1555560228</g:id>
@@ -42301,6 +42328,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Sarja</g:product_type>
       <g:product_type>Outlet</g:product_type>
     </item>
     <item>
@@ -42323,6 +42351,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Sarja</g:product_type>
       <g:product_type>Outlet</g:product_type>
     </item>
     <item>
@@ -42345,6 +42374,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Sarja</g:product_type>
       <g:product_type>Outlet</g:product_type>
     </item>
     <item>
@@ -42367,6 +42397,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Sarja</g:product_type>
       <g:product_type>Outlet</g:product_type>
     </item>
     <item>
@@ -45967,6 +45998,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Sarja</g:product_type>
       <g:product_type>Outlet</g:product_type>
     </item>
     <item>
@@ -45989,6 +46021,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Sarja</g:product_type>
       <g:product_type>Outlet</g:product_type>
     </item>
     <item>
@@ -46011,6 +46044,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Sarja</g:product_type>
       <g:product_type>Outlet</g:product_type>
     </item>
     <item>
@@ -46033,6 +46067,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Sarja</g:product_type>
       <g:product_type>Outlet</g:product_type>
     </item>
     <item>
@@ -46055,6 +46090,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Sarja</g:product_type>
       <g:product_type>Outlet</g:product_type>
     </item>
     <item>
@@ -46077,6 +46113,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Sarja</g:product_type>
       <g:product_type>Outlet</g:product_type>
     </item>
     <item>
@@ -46099,6 +46136,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Sarja</g:product_type>
       <g:product_type>Outlet</g:product_type>
     </item>
     <item>
@@ -51168,7 +51206,7 @@
       <g:title>Calça Track Lost Preto (G / Preto Mostruario)</g:title>
       <g:description>Ref.: 22624501-PPP Especificações do produto: · Linha Branding. · Modelagem track pants. · Cadarço ajustador + ilhós liso. · Bolso embutido nas laterais. · Estampa …Lost + Saturno abaixo do bolso frontal. · Cós com elástico. · Detalhe marrom nas laterais. · Etiqueta Lost aplicada abaixo do cós traseiro. · Barra com elástico. · Tag personalizado Lost. Composição: 100% Poliéster. Linha Branding</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>13</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>14</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>399.00 BRL</g:price>
       
@@ -52907,6 +52945,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Jeans</g:product_type>
       <g:product_type>Calças</g:product_type>
+      <g:product_type>Jeans</g:product_type>
       <g:product_type>Outlet</g:product_type>
     </item>
     <item>
@@ -52930,6 +52969,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Jeans</g:product_type>
       <g:product_type>Calças</g:product_type>
+      <g:product_type>Jeans</g:product_type>
       <g:product_type>Outlet</g:product_type>
     </item>
     <item>
@@ -52953,6 +52993,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Jeans</g:product_type>
       <g:product_type>Calças</g:product_type>
+      <g:product_type>Jeans</g:product_type>
       <g:product_type>Outlet</g:product_type>
     </item>
     <item>
@@ -52976,6 +53017,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Jeans</g:product_type>
       <g:product_type>Calças</g:product_type>
+      <g:product_type>Jeans</g:product_type>
       <g:product_type>Outlet</g:product_type>
     </item>
     <item>
@@ -52999,6 +53041,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Jeans</g:product_type>
       <g:product_type>Calças</g:product_type>
+      <g:product_type>Jeans</g:product_type>
       <g:product_type>Outlet</g:product_type>
     </item>
     <item>
@@ -53022,6 +53065,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Jeans</g:product_type>
       <g:product_type>Calças</g:product_type>
+      <g:product_type>Jeans</g:product_type>
       <g:product_type>Outlet</g:product_type>
     </item>
     <item>
@@ -56999,6 +57043,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Sarja</g:product_type>
     </item>
     <item>
       <g:id>1555583256</g:id>
@@ -57020,6 +57065,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Sarja</g:product_type>
     </item>
     <item>
       <g:id>1555583257</g:id>
@@ -57041,6 +57087,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Sarja</g:product_type>
     </item>
     <item>
       <g:id>1555583258</g:id>
@@ -57062,6 +57109,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Sarja</g:product_type>
     </item>
     <item>
       <g:id>1555583259</g:id>
@@ -57083,6 +57131,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Sarja</g:product_type>
     </item>
     <item>
       <g:id>1555583260</g:id>
@@ -57104,6 +57153,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Sarja</g:product_type>
     </item>
     <item>
       <g:id>1555583264</g:id>
@@ -57125,6 +57175,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Sarja</g:product_type>
       <g:product_type>Outlet</g:product_type>
     </item>
     <item>
@@ -57147,6 +57198,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Sarja</g:product_type>
       <g:product_type>Outlet</g:product_type>
     </item>
     <item>
@@ -57169,6 +57221,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Sarja</g:product_type>
       <g:product_type>Outlet</g:product_type>
     </item>
     <item>
@@ -57191,6 +57244,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Sarja</g:product_type>
       <g:product_type>Outlet</g:product_type>
     </item>
     <item>
@@ -57213,6 +57267,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Sarja</g:product_type>
       <g:product_type>Outlet</g:product_type>
     </item>
     <item>
@@ -57235,6 +57290,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Sarja</g:product_type>
       <g:product_type>Outlet</g:product_type>
     </item>
     <item>
@@ -62913,7 +62969,7 @@
       <g:title>Walk Chino Azul Maresia (38 / Azul Maresia Mostruário)</g:title>
       <g:description>Ref.: 22414202-AZS Especificações do produto: · Modelagem chino. · Sarja com elastano. · Bolsos laterais. · Bolsos faca traseiros. · Cós com passantes para cinto. · Fechamento em zíper e botão. · Patch Lost lateral. Composição: 98% algodão, 2% elastano</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>2</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>389.00 BRL</g:price>
       
@@ -63192,6 +63248,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Sarja</g:product_type>
     </item>
     <item>
       <g:id>1555588512</g:id>
@@ -63213,6 +63270,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Sarja</g:product_type>
     </item>
     <item>
       <g:id>1555588513</g:id>
@@ -63234,6 +63292,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Sarja</g:product_type>
     </item>
     <item>
       <g:id>1555588514</g:id>
@@ -63255,6 +63314,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Sarja</g:product_type>
     </item>
     <item>
       <g:id>1555588515</g:id>
@@ -63276,6 +63336,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Sarja</g:product_type>
     </item>
     <item>
       <g:id>1555588516</g:id>
@@ -63297,6 +63358,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Sarja</g:product_type>
     </item>
     <item>
       <g:id>1555589042</g:id>

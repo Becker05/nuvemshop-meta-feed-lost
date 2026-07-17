@@ -6555,7 +6555,7 @@
       <g:title>Boardshorts Functional Preto (42 / Preto)</g:title>
       <g:description>Ref.: 22624001-PPP Especificações do produto: · Modelagem boardshort 48cm. · Cadarço ajustador. · Bolso lateral aplicado com termocolante. · Termocolante etiqueta aplicada acima da barra. · Tag personalizado Lost. · Recorte lateral. Composição: %95% Poliéster 5% Elastano.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>2</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>3</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>399.00 BRL</g:price>
       
@@ -28617,8 +28617,8 @@
       <g:id>1555521202</g:id>
       <g:title>Canguru Lost Logo Fire Preto (G / Preto Mostruario)</g:title>
       <g:description>Ref.: 22513601-PPP Especificações do produto: · Modelagem Canguru. · Linha Lost Branding. · Cordão ajustador . · Estampa frontal Lost institucional no peito. · Etiqueta clips embutida na lateral da barra frontal. · Tag personalizado Lost. Composição: 72% Algodão. 28% Poliéster. Moletom felpado.</g:description>
-      <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>3</g:quantity_to_sell_on_facebook>
+      <g:availability>out of stock</g:availability>
+      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>449.00 BRL</g:price>
       
@@ -36692,7 +36692,7 @@
       <g:title>Boné Fitão Flames Preto (U / Preto Preto)</g:title>
       <g:description>Ref.: 22626514-PPP Especificações do produto: · Modelagem Fitão. · Estampa Saturno Fire no centro. · Aba reta. · Fechamento em fivela de metal personalizada + fita em couro. · Estampa Lost Fire na parte de trás. · Tag personalizado Lost. Composição: Aba: 100% Couro Sintético. Corpo: 83% Poliamida / 14% Algodão / 3% Elastano. Linha Lost / Acessórios</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>16</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>15</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>409.00 BRL</g:price>
       
@@ -37776,7 +37776,7 @@
       <g:title>T-Shirt 4:20 Box Preto (G / Preto Mostruario)</g:title>
       <g:description>Ref.: 22612613-PPP Linha 4:20. Especificações do produto: · Modelagem box fit. · Estampa 4:20 saturno no peito lateral. · Etiqueta 4:20 saturno acima da barra. · Tag personalizado LOST X 4:20. · Reforço de gola. · Tag com técnica especial do fogo. Composição: 100% Algodão. A Lost apresenta o drop 4:20 uma coleção inspirada na cultura canábica, trazendo peças com atitude, identidade e estética urbana. Um lançamento pensado para quem vive o lifestyle.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>17</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>16</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>229.00 BRL</g:price>
       
@@ -45459,7 +45459,7 @@
       <g:title>T-Shirt Lost Good Look Preto (G / Preto)</g:title>
       <g:description>Ref.: 22512609-PPP Especificações do produto: · Modelagem box fit. · Linha Lost Funny. · Bordado trevo localizado no peito lateral. · Reforço de gola. · Etiqueta bandeira embutida na lateral. · Tag personalizado Lost. Composição: Malhão eco 250Grs Fibras Diversas.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>13</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>12</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>289.00 BRL</g:price>
       
@@ -48364,6 +48364,8 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Especiais</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Zumbis</g:product_type>
     </item>
     <item>
       <g:id>1555573376</g:id>
@@ -48385,6 +48387,8 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Especiais</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Zumbis</g:product_type>
     </item>
     <item>
       <g:id>1555573380</g:id>
@@ -48406,6 +48410,8 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Especiais</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Zumbis</g:product_type>
     </item>
     <item>
       <g:id>1555573381</g:id>
@@ -48427,6 +48433,8 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Especiais</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Zumbis</g:product_type>
     </item>
     <item>
       <g:id>1555573390</g:id>
@@ -48448,6 +48456,8 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Especiais</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Zumbis</g:product_type>
     </item>
     <item>
       <g:id>1555573394</g:id>
@@ -48469,6 +48479,8 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Especiais</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Zumbis</g:product_type>
     </item>
     <item>
       <g:id>1555573406</g:id>
@@ -48490,6 +48502,8 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Especiais</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Zumbis</g:product_type>
     </item>
     <item>
       <g:id>1555573408</g:id>
@@ -48511,6 +48525,8 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Especiais</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Zumbis</g:product_type>
     </item>
     <item>
       <g:id>1555573595</g:id>
@@ -53733,7 +53749,7 @@
       <g:title>T-Shirt Magic Pocket Preto (G / Preto Mostruario)</g:title>
       <g:description>Ref.: 22612014-PPP Linha 4:20. Especificações do produto: · Modelagem especial. · Estampa 4:20 no peito lateral. · Estampa elementos 4:20 caindo do bolso frontal. · Etiqueta 4:20 saturno acima da barra. · Tag personalizado LOST X 4:20. · Reforço de gola. · Tag com técnica especial do fogo. Composição: 100% Algodão. A Lost apresenta o drop 420: uma coleção inspirada na cultura canábica, trazendo peças com atitude, identidade e estética urbana. Um lançamento pensado para quem vive o lifestyle.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>12</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>11</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>219.00 BRL</g:price>
       
@@ -57170,7 +57186,7 @@
       <g:title>Calça Sarja Skateboard Fit Bege (44 / Bege)</g:title>
       <g:description>Ref.: 22624602-KKK Especificações do produto: · Modelagem Skateboard Fit. · Vista com zíper metálico médio / Abertura. · Bordado Lost aplicado no bolso frontal. · Bolsos traseiros. · Passantes + Botão flexível personalizado Lost. · Etiqueta Zetex costurada no cós na parte de trás. · Testeira Skateboard Fit aplicada no bolso traseiro. · Tag personalizado Lost. Composição: 70% Algodão, 30% Poliéster. Lost Summer Verão 25.26 / Linha Get Lost</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>4</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>3</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>399.00 BRL</g:price>
       
@@ -59078,8 +59094,8 @@
       <g:id>1555585190</g:id>
       <g:title>Canguru Lost Saturn Tapioca (G / Tapioca Mostruário)</g:title>
       <g:description>Ref.: 22513602-TAP Especificações do produto: · Modelagem Canguru. · Linha Lost Branding. · Cordão ajustador . · Estampa frontal Lost saturno acima do bolso. · Etiqueta clips embutida na lateral da barra frontal. · Tag personalizado Lost. Composição: 72% Algodão. 28% Poliéster. Moletom felpado.</g:description>
-      <g:availability>out of stock</g:availability>
-      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
+      <g:availability>in stock</g:availability>
+      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>449.00 BRL</g:price>
       
@@ -60036,7 +60052,7 @@
       <g:title>Boardwalk Texture Navy (42 / Navy)</g:title>
       <g:description>Ref.: 22627103-NVY Especificações do produto: · Linha Lost Branding. · Modelagem boardwalk. · Bolso traseiro embutido. · Etiqueta Lost embutida acima do bolso. · Passantes + botão caseador. · Fechamento em zíper. · Etiqueta termocolante Saturno acima da barra frontal. · Bolso lateral aplicado com termocolante. · Forro do bolso personalizado. · Tag personalizado Lost. Composição: 92% Poliéster 8% Elastano. Boardwalk com 51cm.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>7</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>6</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>399.00 BRL</g:price>
       

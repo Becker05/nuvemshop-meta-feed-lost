@@ -8,13 +8,6 @@ async function main() {
   const products = await fetchProducts();
   console.log(`Produtos recebidos: ${products.length}`);
 
-  const debugProduct = products.find((p) => String(p.id) === "354463425");
-  if (debugProduct) {
-    console.log("DEBUG_PRODUCT_JSON_START");
-    console.log(JSON.stringify(debugProduct, null, 2));
-    console.log("DEBUG_PRODUCT_JSON_END");
-  }
-
   console.log("Mapeando produtos para o feed...");
   const items = mapProductsToFeedItems(products);
   console.log(`Itens válidos para o feed: ${items.length}`);

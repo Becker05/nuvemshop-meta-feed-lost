@@ -65609,7 +65609,7 @@
       <g:title>Calça De Veludo Lost Preto (P / Preto Mostruario)</g:title>
       <g:description>Ref.: 22614902-PPP Especificações do produto: · Modelagem calça veludo lost. · Bordado saturno + Lost ent. · Bolso embutido com forro do próprio tecido. · Cadarço ajustador. · Cós com elástico. · Bolso traseiro. · Etiqueta acima do bolso traseiro. · Tag personalizado LOST. Composição: 50% Co 50% PES.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>2</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>579.00 BRL</g:price>
       
@@ -66131,6 +66131,48 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Acessórios</g:product_type>
+    </item>
+    <item>
+      <g:id>1579113482</g:id>
+      <g:title>Boné Flexfit Aba Curva Classic Navy (U / Navy Mostruário)</g:title>
+      <g:description>Ref.: 22616514-NVY Especificações do produto: · Modelagem aba curva. · Bordado lost. · Bordado saturno parte de trás. · Tag personalizado LOST. Composição: Sarja sintética 84% Poliamida 13% Algodão 3% Elastano.</g:description>
+      <g:availability>in stock</g:availability>
+      <g:quantity_to_sell_on_facebook>10</g:quantity_to_sell_on_facebook>
+      <g:condition>new</g:condition>
+      <g:price>339.00 BRL</g:price>
+      
+      <g:link>https://www.lost.com.br/produtos/bone-flexfit-aba-curva-classic-navy?variant=1579113482</g:link>
+      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/22616514_navy_1-7439fb93f1395edb8517870760878860-1024-1024.jpg</g:image_link>
+      <g:brand>Lost</g:brand>
+      <g:item_group_id>361686120</g:item_group_id>
+      <g:size>U</g:size>
+      <g:color>Navy Mostruário</g:color>
+      <g:gtin>7900121080260</g:gtin>
+      
+      <g:product_type>Shop</g:product_type>
+      <g:product_type>Acessórios</g:product_type>
+      <g:product_type>Boné</g:product_type>
+    </item>
+    <item>
+      <g:id>1579113910</g:id>
+      <g:title>Boné Flexfit Dont Follow Me Black (Preto) (U / Black (Preto) Mostruário)</g:title>
+      <g:description>Ref.: 22616515-BLK Especificações do produto: · Modelagem aba reta. · Bordado lost Lost Ball 8. · Fecho snapback. · Etiqueta bandeira embutida no fecho. · Bordado saturno na lateral. · Tag personalizado LOST. Composição: 97% Poliéster 3% Elastano.</g:description>
+      <g:availability>in stock</g:availability>
+      <g:quantity_to_sell_on_facebook>10</g:quantity_to_sell_on_facebook>
+      <g:condition>new</g:condition>
+      <g:price>389.00 BRL</g:price>
+      
+      <g:link>https://www.lost.com.br/produtos/bone-flexfit-dont-follow-me-black-preto?variant=1579113910</g:link>
+      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/22616515_blackpreto_1-719c5a0a693867af0c17870761097940-1024-1024.jpg</g:image_link>
+      <g:brand>Lost</g:brand>
+      <g:item_group_id>361686252</g:item_group_id>
+      <g:size>U</g:size>
+      <g:color>Black (Preto) Mostruário</g:color>
+      <g:gtin>7900121080277</g:gtin>
+      
+      <g:product_type>Shop</g:product_type>
+      <g:product_type>Acessórios</g:product_type>
+      <g:product_type>Boné</g:product_type>
     </item>
   </channel>
 </rss>

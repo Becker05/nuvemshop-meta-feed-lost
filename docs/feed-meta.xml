@@ -5928,6 +5928,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>OVERSIZE</g:product_type>
     </item>
     <item>
       <g:id>1555363304</g:id>
@@ -5949,6 +5950,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>OVERSIZE</g:product_type>
     </item>
     <item>
       <g:id>1555363314</g:id>
@@ -5970,6 +5972,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>OVERSIZE</g:product_type>
     </item>
     <item>
       <g:id>1555363870</g:id>
@@ -5992,6 +5995,8 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Especiais</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>CAMISETAS</g:product_type>
+      <g:product_type>Especiais</g:product_type>
     </item>
     <item>
       <g:id>1555363876</g:id>
@@ -6014,6 +6019,8 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Especiais</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>CAMISETAS</g:product_type>
+      <g:product_type>Especiais</g:product_type>
     </item>
     <item>
       <g:id>1555363894</g:id>
@@ -6036,6 +6043,8 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Especiais</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>CAMISETAS</g:product_type>
+      <g:product_type>Especiais</g:product_type>
     </item>
     <item>
       <g:id>1555363908</g:id>
@@ -6058,6 +6067,8 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Especiais</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>CAMISETAS</g:product_type>
+      <g:product_type>Especiais</g:product_type>
     </item>
     <item>
       <g:id>1555364345</g:id>
@@ -19986,6 +19997,8 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>BLUSAS</g:product_type>
+      <g:product_type>Moletons</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Lost Enterprises</g:product_type>
     </item>
@@ -20010,6 +20023,8 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>BLUSAS</g:product_type>
+      <g:product_type>Moletons</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Lost Enterprises</g:product_type>
     </item>
@@ -20034,6 +20049,8 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>BLUSAS</g:product_type>
+      <g:product_type>Moletons</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Lost Enterprises</g:product_type>
     </item>
@@ -20058,6 +20075,8 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>BLUSAS</g:product_type>
+      <g:product_type>Moletons</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Lost Enterprises</g:product_type>
     </item>
@@ -33958,6 +33977,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>OVERSIZE</g:product_type>
     </item>
     <item>
       <g:id>1555538061</g:id>
@@ -33979,6 +33999,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>OVERSIZE</g:product_type>
     </item>
     <item>
       <g:id>1555538064</g:id>
@@ -34000,6 +34021,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>OVERSIZE</g:product_type>
     </item>
     <item>
       <g:id>1555538276</g:id>
@@ -35959,6 +35981,8 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Especiais</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>CAMISETAS</g:product_type>
+      <g:product_type>Especiais</g:product_type>
     </item>
     <item>
       <g:id>1555542410</g:id>
@@ -35981,6 +36005,8 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Especiais</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>CAMISETAS</g:product_type>
+      <g:product_type>Especiais</g:product_type>
     </item>
     <item>
       <g:id>1555542413</g:id>
@@ -36003,6 +36029,8 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Especiais</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>CAMISETAS</g:product_type>
+      <g:product_type>Especiais</g:product_type>
     </item>
     <item>
       <g:id>1555542415</g:id>
@@ -36025,6 +36053,8 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Especiais</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>CAMISETAS</g:product_type>
+      <g:product_type>Especiais</g:product_type>
     </item>
     <item>
       <g:id>1555542861</g:id>
@@ -41007,6 +41037,8 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Especiais</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>CAMISETAS</g:product_type>
+      <g:product_type>T-shirts</g:product_type>
     </item>
     <item>
       <g:id>1555558146</g:id>
@@ -41029,6 +41061,8 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Especiais</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>CAMISETAS</g:product_type>
+      <g:product_type>T-shirts</g:product_type>
     </item>
     <item>
       <g:id>1555558156</g:id>
@@ -41051,6 +41085,8 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Especiais</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>CAMISETAS</g:product_type>
+      <g:product_type>T-shirts</g:product_type>
     </item>
     <item>
       <g:id>1555558161</g:id>
@@ -41073,6 +41109,8 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Especiais</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>CAMISETAS</g:product_type>
+      <g:product_type>T-shirts</g:product_type>
     </item>
     <item>
       <g:id>1555558498</g:id>
@@ -45248,6 +45286,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>OVERSIZE</g:product_type>
     </item>
     <item>
       <g:id>1555567081</g:id>
@@ -45269,6 +45308,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>OVERSIZE</g:product_type>
     </item>
     <item>
       <g:id>1555567091</g:id>
@@ -45290,6 +45330,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>OVERSIZE</g:product_type>
     </item>
     <item>
       <g:id>1555567097</g:id>
@@ -45311,6 +45352,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>OVERSIZE</g:product_type>
     </item>
     <item>
       <g:id>1555567163</g:id>
@@ -45332,6 +45374,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>OVERSIZE</g:product_type>
     </item>
     <item>
       <g:id>1555567164</g:id>
@@ -45353,6 +45396,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>OVERSIZE</g:product_type>
     </item>
     <item>
       <g:id>1555567167</g:id>
@@ -45374,6 +45418,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>OVERSIZE</g:product_type>
     </item>
     <item>
       <g:id>1555567175</g:id>
@@ -45395,6 +45440,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>OVERSIZE</g:product_type>
     </item>
     <item>
       <g:id>1555567414</g:id>
@@ -51472,6 +51518,8 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Especiais</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>CAMISETAS</g:product_type>
+      <g:product_type>Especiais</g:product_type>
     </item>
     <item>
       <g:id>1555575241</g:id>
@@ -51494,6 +51542,8 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Especiais</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>CAMISETAS</g:product_type>
+      <g:product_type>Especiais</g:product_type>
     </item>
     <item>
       <g:id>1555575242</g:id>
@@ -51516,6 +51566,8 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Especiais</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>CAMISETAS</g:product_type>
+      <g:product_type>Especiais</g:product_type>
     </item>
     <item>
       <g:id>1555575243</g:id>
@@ -51538,6 +51590,8 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Especiais</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>CAMISETAS</g:product_type>
+      <g:product_type>Especiais</g:product_type>
     </item>
     <item>
       <g:id>1555575260</g:id>
@@ -51560,6 +51614,8 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Especiais</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>CAMISETAS</g:product_type>
+      <g:product_type>Especiais</g:product_type>
     </item>
     <item>
       <g:id>1555575262</g:id>
@@ -51582,6 +51638,8 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Especiais</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>CAMISETAS</g:product_type>
+      <g:product_type>Especiais</g:product_type>
     </item>
     <item>
       <g:id>1555575265</g:id>
@@ -51604,6 +51662,8 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Especiais</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>CAMISETAS</g:product_type>
+      <g:product_type>Especiais</g:product_type>
     </item>
     <item>
       <g:id>1555575267</g:id>
@@ -51626,6 +51686,8 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Especiais</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>CAMISETAS</g:product_type>
+      <g:product_type>Especiais</g:product_type>
     </item>
     <item>
       <g:id>1555575436</g:id>
@@ -52814,6 +52876,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>OVERSIZE</g:product_type>
     </item>
     <item>
       <g:id>1555576270</g:id>
@@ -52835,6 +52898,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>OVERSIZE</g:product_type>
     </item>
     <item>
       <g:id>1555576275</g:id>
@@ -52856,6 +52920,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>OVERSIZE</g:product_type>
     </item>
     <item>
       <g:id>1555576507</g:id>
@@ -53109,6 +53174,8 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>CAMISETAS</g:product_type>
+      <g:product_type>T-shirts</g:product_type>
     </item>
     <item>
       <g:id>1555576619</g:id>
@@ -53131,6 +53198,8 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>CAMISETAS</g:product_type>
+      <g:product_type>T-shirts</g:product_type>
     </item>
     <item>
       <g:id>1555576625</g:id>
@@ -53153,6 +53222,8 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>CAMISETAS</g:product_type>
+      <g:product_type>T-shirts</g:product_type>
     </item>
     <item>
       <g:id>1555576642</g:id>
@@ -53175,6 +53246,8 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>CAMISETAS</g:product_type>
+      <g:product_type>T-shirts</g:product_type>
     </item>
     <item>
       <g:id>1555576811</g:id>
@@ -56734,7 +56807,7 @@
       <g:title>T-Shirt Death Lost Enterprises Branco (G / Branco)</g:title>
       <g:description>Ref.: 22612820-BBB Linha Lost Enterprises. Especificações do produto: Modelagem regular. Estampa frontal Lost enterprises peito lateral. · Reforço de gola. · Etiqueta Lost aplicada na barra frontal. · Estampa death lost enterprises nas costas. · Tag personalizado Lost. Composição: 100% Algodão. .</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>4</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>3</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>169.00 BRL</g:price>
       
@@ -60122,6 +60195,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>OVERSIZE</g:product_type>
     </item>
     <item>
       <g:id>1555585018</g:id>
@@ -60143,6 +60217,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>OVERSIZE</g:product_type>
     </item>
     <item>
       <g:id>1555585019</g:id>
@@ -60164,6 +60239,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>OVERSIZE</g:product_type>
     </item>
     <item>
       <g:id>1555585082</g:id>
@@ -61307,6 +61383,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>OVERSIZE</g:product_type>
     </item>
     <item>
       <g:id>1555586258</g:id>
@@ -63366,6 +63443,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>OVERSIZE</g:product_type>
     </item>
     <item>
       <g:id>1555587940</g:id>
@@ -63387,6 +63465,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>OVERSIZE</g:product_type>
     </item>
     <item>
       <g:id>1555587949</g:id>
@@ -63408,6 +63487,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>OVERSIZE</g:product_type>
     </item>
     <item>
       <g:id>1555587955</g:id>
@@ -63429,6 +63509,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>OVERSIZE</g:product_type>
     </item>
     <item>
       <g:id>1555588006</g:id>

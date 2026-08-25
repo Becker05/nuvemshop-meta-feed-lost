@@ -29555,7 +29555,7 @@
       <g:title>T-Shirt Dj Sounds Cropped Preto (G / Preto)</g:title>
       <g:description>Ref.: 22513005C-PPP Especificações do produto: · Linha Lost Sounds. · Modelagem cropped. · Estampa frontal Sounds localizada no peito lateral. · Etiqueta lateral Lost Sounds. · Reforço de gola. · Etiqueta Clips na barra costas. · Tag personalizado LOST. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>6</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>5</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>139.00 BRL</g:price>
       
@@ -54307,7 +54307,7 @@
       <g:title>Meia Alien Zone Preto (39/43 / Preto Mostr)</g:title>
       <g:description>Ref.: 22626602-PPP Especificações do produto: · Modelagem cano longo. · Bordado Lost Alien. · Cano 20cm em jacquard. · Sem atoalhado. Composição: 78% Algodão 16% Poliamida.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>11</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>10</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>69.00 BRL</g:price>
       
@@ -69923,7 +69923,7 @@
       <g:title>T-Shirt Brass Knuckles Preto (G / Preto)</g:title>
       <g:description>Ref.: 22722815-PPP Linha Lost Enterprises. Especificações do produto: · Modelagem regular. · Estampa frontal Brass Knuckles ...Lost. · Reforço de gola. · Etiqueta aplicada na barra. · Tag personalizado LOST. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>4</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>3</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>149.00 BRL</g:price>
       
@@ -70412,8 +70412,8 @@
       <g:id>1580230515</g:id>
       <g:title>T-Shirt College Lost Tapioca (G / Tapioca)</g:title>
       <g:description>Ref.: 22723001-TAP Linha We are lost. Especificações do produto: · Modelagem regular. · Estampa frontal Lost California. · Reforço de gola. · Etiqueta azul aplicada acima da barra frontal. · Tag personalizado LOST. Composição: 100% Algodão.</g:description>
-      <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
+      <g:availability>out of stock</g:availability>
+      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>179.00 BRL</g:price>
       
@@ -70627,6 +70627,27 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Lost Hours</g:product_type>
+    </item>
+    <item>
+      <g:id>1584299835</g:id>
+      <g:title>Wallet Balada Preto (U / Preto Mostruario)</g:title>
+      <g:description>Ref.: 22726303-PPP Linha Lost Branding Especificações do produto: · Estampa Lost na parte exterior em baixo relevo. · Fechamento em Zíper. · Porta cartão. · Estampa em relevo Saturno na parte de trás. · Tag personalizado Lost. Composição: 100% Poliéster</g:description>
+      <g:availability>in stock</g:availability>
+      <g:quantity_to_sell_on_facebook>9</g:quantity_to_sell_on_facebook>
+      <g:condition>new</g:condition>
+      <g:price>149.00 BRL</g:price>
+      
+      <g:link>https://www.lost.com.br/produtos/wallet-balada-preto?variant=1584299835</g:link>
+      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/22726303_preto_1-4e25a4fb226d6aa93917876970778081-1024-1024.jpg</g:image_link>
+      <g:brand>Lost</g:brand>
+      <g:item_group_id>363242861</g:item_group_id>
+      <g:size>U</g:size>
+      <g:color>Preto Mostruario</g:color>
+      <g:gtin>7900121117294</g:gtin>
+      
+      <g:product_type>Shop</g:product_type>
+      <g:product_type>Acessórios</g:product_type>
+      <g:product_type>Carteira</g:product_type>
     </item>
   </channel>
 </rss>

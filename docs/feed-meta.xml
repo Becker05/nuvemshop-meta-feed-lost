@@ -3468,6 +3468,9 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Jaquetas</g:product_type>
+      <g:product_type>Outlet</g:product_type>
+      <g:product_type>BLUSAS</g:product_type>
+      <g:product_type>Jaquetas</g:product_type>
     </item>
     <item>
       <g:id>1555336809</g:id>
@@ -3488,6 +3491,9 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Blusas</g:product_type>
+      <g:product_type>Jaquetas</g:product_type>
+      <g:product_type>Outlet</g:product_type>
+      <g:product_type>BLUSAS</g:product_type>
       <g:product_type>Jaquetas</g:product_type>
     </item>
     <item>
@@ -3510,6 +3516,9 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Jaquetas</g:product_type>
+      <g:product_type>Outlet</g:product_type>
+      <g:product_type>BLUSAS</g:product_type>
+      <g:product_type>Jaquetas</g:product_type>
     </item>
     <item>
       <g:id>1555336859</g:id>
@@ -3530,6 +3539,9 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Blusas</g:product_type>
+      <g:product_type>Jaquetas</g:product_type>
+      <g:product_type>Outlet</g:product_type>
+      <g:product_type>BLUSAS</g:product_type>
       <g:product_type>Jaquetas</g:product_type>
     </item>
     <item>
@@ -24951,6 +24963,9 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Jaquetas</g:product_type>
+      <g:product_type>Outlet</g:product_type>
+      <g:product_type>BLUSAS</g:product_type>
+      <g:product_type>Jaquetas</g:product_type>
     </item>
     <item>
       <g:id>1555506596</g:id>
@@ -24971,6 +24986,9 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Blusas</g:product_type>
+      <g:product_type>Jaquetas</g:product_type>
+      <g:product_type>Outlet</g:product_type>
+      <g:product_type>BLUSAS</g:product_type>
       <g:product_type>Jaquetas</g:product_type>
     </item>
     <item>
@@ -24993,6 +25011,9 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Jaquetas</g:product_type>
+      <g:product_type>Outlet</g:product_type>
+      <g:product_type>BLUSAS</g:product_type>
+      <g:product_type>Jaquetas</g:product_type>
     </item>
     <item>
       <g:id>1555506601</g:id>
@@ -25013,6 +25034,9 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Blusas</g:product_type>
+      <g:product_type>Jaquetas</g:product_type>
+      <g:product_type>Outlet</g:product_type>
+      <g:product_type>BLUSAS</g:product_type>
       <g:product_type>Jaquetas</g:product_type>
     </item>
     <item>
@@ -31721,8 +31745,8 @@
       <g:id>1555528556</g:id>
       <g:title>T-Shirt Shit Done Branco (GG / Branco Mostruário)</g:title>
       <g:description>Ref.: 22512811-BBB Especificações do produto: · Modelagem regular. · Linha Lost funny. · Reforço de gola. · Estampa frontal Lost localizada no peito. · Etiqueta bandeira embutida na lateral. · Tag personalizado Lost. Composição: 100% Algodão.</g:description>
-      <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>3</g:quantity_to_sell_on_facebook>
+      <g:availability>out of stock</g:availability>
+      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>139.00 BRL</g:price>
       
@@ -53986,6 +54010,9 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Jaquetas</g:product_type>
+      <g:product_type>Outlet</g:product_type>
+      <g:product_type>BLUSAS</g:product_type>
+      <g:product_type>Jaquetas</g:product_type>
     </item>
     <item>
       <g:id>1555576144</g:id>
@@ -54006,6 +54033,9 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Blusas</g:product_type>
+      <g:product_type>Jaquetas</g:product_type>
+      <g:product_type>Outlet</g:product_type>
+      <g:product_type>BLUSAS</g:product_type>
       <g:product_type>Jaquetas</g:product_type>
     </item>
     <item>
@@ -54028,6 +54058,9 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Jaquetas</g:product_type>
+      <g:product_type>Outlet</g:product_type>
+      <g:product_type>BLUSAS</g:product_type>
+      <g:product_type>Jaquetas</g:product_type>
     </item>
     <item>
       <g:id>1555576147</g:id>
@@ -54048,6 +54081,9 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Blusas</g:product_type>
+      <g:product_type>Jaquetas</g:product_type>
+      <g:product_type>Outlet</g:product_type>
+      <g:product_type>BLUSAS</g:product_type>
       <g:product_type>Jaquetas</g:product_type>
     </item>
     <item>

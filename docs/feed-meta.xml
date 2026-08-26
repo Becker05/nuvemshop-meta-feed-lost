@@ -1663,6 +1663,8 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Acessórios</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>ACESSÓRIOS</g:product_type>
+      <g:product_type>Boné</g:product_type>
     </item>
     <item>
       <g:id>1555323827</g:id>
@@ -14733,6 +14735,9 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Acessórios</g:product_type>
+      <g:product_type>Boné</g:product_type>
+      <g:product_type>Outlet</g:product_type>
+      <g:product_type>ACESSÓRIOS</g:product_type>
       <g:product_type>Boné</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>4:20</g:product_type>
@@ -28080,7 +28085,7 @@
       <g:price>239.00 BRL</g:price>
       
       <g:link>https://www.lost.com.br/produtos/t-shirt-lost-enterprises-elements-blue-azul?variant=1555517423</g:link>
-      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/2251_2010_azul_2-bc44ea32e199a4f1d817840673171603-1024-1024.jpg</g:image_link>
+      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/2251_2010_azul_1-cf084e93469c62fed017840673166463-1024-1024.jpg</g:image_link>
       <g:brand>Lost</g:brand>
       <g:item_group_id>354443088</g:item_group_id>
       <g:size>P</g:size>
@@ -28106,7 +28111,7 @@
       <g:price>239.00 BRL</g:price>
       
       <g:link>https://www.lost.com.br/produtos/t-shirt-lost-enterprises-elements-blue-azul?variant=1555517426</g:link>
-      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/2251_2010_azul_2-bc44ea32e199a4f1d817840673171603-1024-1024.jpg</g:image_link>
+      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/2251_2010_azul_1-cf084e93469c62fed017840673166463-1024-1024.jpg</g:image_link>
       <g:brand>Lost</g:brand>
       <g:item_group_id>354443088</g:item_group_id>
       <g:size>M</g:size>
@@ -28132,7 +28137,7 @@
       <g:price>239.00 BRL</g:price>
       
       <g:link>https://www.lost.com.br/produtos/t-shirt-lost-enterprises-elements-blue-azul?variant=1555517429</g:link>
-      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/2251_2010_azul_2-bc44ea32e199a4f1d817840673171603-1024-1024.jpg</g:image_link>
+      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/2251_2010_azul_1-cf084e93469c62fed017840673166463-1024-1024.jpg</g:image_link>
       <g:brand>Lost</g:brand>
       <g:item_group_id>354443088</g:item_group_id>
       <g:size>G</g:size>
@@ -28158,7 +28163,7 @@
       <g:price>239.00 BRL</g:price>
       
       <g:link>https://www.lost.com.br/produtos/t-shirt-lost-enterprises-elements-blue-azul?variant=1555517431</g:link>
-      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/2251_2010_azul_2-bc44ea32e199a4f1d817840673171603-1024-1024.jpg</g:image_link>
+      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/2251_2010_azul_1-cf084e93469c62fed017840673166463-1024-1024.jpg</g:image_link>
       <g:brand>Lost</g:brand>
       <g:item_group_id>354443088</g:item_group_id>
       <g:size>GG</g:size>
@@ -37645,13 +37650,16 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardwalk</g:product_type>
+      <g:product_type>Outlet</g:product_type>
+      <g:product_type>BERMUDAS</g:product_type>
+      <g:product_type>Boardwalk</g:product_type>
     </item>
     <item>
       <g:id>1555544071</g:id>
       <g:title>Walk Chino Chumbo (40 / Chumbo Most)</g:title>
       <g:description>Ref.: 22524201-CHB Especificações do produto: · Modelagem Chino. · Zíper metal médio fixo. · Botão flexível lost . · Etiqueta bandeira embutida no cós. · Bolso traseiro embutido e vista dupla. · Etiqueta since embutida na lateral. · Tag personalizado Lost. Composição: 40% Algodão 28% viscose 20% Liocel 12% Linho</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>9</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>8</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>349.00 BRL</g:price>
       
@@ -37665,6 +37673,9 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
+      <g:product_type>Boardwalk</g:product_type>
+      <g:product_type>Outlet</g:product_type>
+      <g:product_type>BERMUDAS</g:product_type>
       <g:product_type>Boardwalk</g:product_type>
     </item>
     <item>
@@ -37687,6 +37698,9 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardwalk</g:product_type>
+      <g:product_type>Outlet</g:product_type>
+      <g:product_type>BERMUDAS</g:product_type>
+      <g:product_type>Boardwalk</g:product_type>
     </item>
     <item>
       <g:id>1555544101</g:id>
@@ -37707,6 +37721,9 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
+      <g:product_type>Boardwalk</g:product_type>
+      <g:product_type>Outlet</g:product_type>
+      <g:product_type>BERMUDAS</g:product_type>
       <g:product_type>Boardwalk</g:product_type>
     </item>
     <item>
@@ -37729,6 +37746,9 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardwalk</g:product_type>
+      <g:product_type>Outlet</g:product_type>
+      <g:product_type>BERMUDAS</g:product_type>
+      <g:product_type>Boardwalk</g:product_type>
     </item>
     <item>
       <g:id>1555544107</g:id>
@@ -37749,6 +37769,9 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
+      <g:product_type>Boardwalk</g:product_type>
+      <g:product_type>Outlet</g:product_type>
+      <g:product_type>BERMUDAS</g:product_type>
       <g:product_type>Boardwalk</g:product_type>
     </item>
     <item>
@@ -46021,6 +46044,9 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Jaquetas</g:product_type>
+      <g:product_type>Outlet</g:product_type>
+      <g:product_type>BLUSAS</g:product_type>
+      <g:product_type>Jaquetas</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>4:20</g:product_type>
     </item>
@@ -46043,6 +46069,9 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Blusas</g:product_type>
+      <g:product_type>Jaquetas</g:product_type>
+      <g:product_type>Outlet</g:product_type>
+      <g:product_type>BLUSAS</g:product_type>
       <g:product_type>Jaquetas</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>4:20</g:product_type>
@@ -46067,6 +46096,9 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Jaquetas</g:product_type>
+      <g:product_type>Outlet</g:product_type>
+      <g:product_type>BLUSAS</g:product_type>
+      <g:product_type>Jaquetas</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>4:20</g:product_type>
     </item>
@@ -46089,6 +46121,9 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Blusas</g:product_type>
+      <g:product_type>Jaquetas</g:product_type>
+      <g:product_type>Outlet</g:product_type>
+      <g:product_type>BLUSAS</g:product_type>
       <g:product_type>Jaquetas</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>4:20</g:product_type>
@@ -46392,7 +46427,7 @@
       <g:title>T-Shirt Basics Lost Preto (G / Preto)</g:title>
       <g:description>Ref.: 22622802-PPP Especificações do produto: · Modelagem regular. · Estampa Lost localizada no peito lateral. · Reforço de gola. · Etiqueta aplicada na barra frontal. · Tag personalizado Lost. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>2</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>119.00 BRL</g:price>
       
@@ -67224,6 +67259,9 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Acessórios</g:product_type>
+      <g:product_type>Boné</g:product_type>
+      <g:product_type>Outlet</g:product_type>
+      <g:product_type>ACESSÓRIOS</g:product_type>
       <g:product_type>Boné</g:product_type>
     </item>
     <item>

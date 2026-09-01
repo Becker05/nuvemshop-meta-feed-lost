@@ -2143,8 +2143,8 @@
       <g:id>1555327431</g:id>
       <g:title>Track Pants Lost Preto (M / Preto)</g:title>
       <g:description>Ref.: 22514506-PPP Especificações do produto: · Modelagem track pants. · Etiqueta frente quadrada aplicada na lateral do bolso. · Bolsos nas laterais embutidos com forro em malha furadinha. · Cós com elástico embutido. · Cadarço ajustador. · Bolsos aplicados com lapela + velcro para fechamento. · Etiqueta LOST na lateral do bolso traseiro. · Barras com elástico ajustadores. · Tag personalizado LOST. Composição: 90% Poliéster. 10% Poliamida.</g:description>
-      <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
+      <g:availability>out of stock</g:availability>
+      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>379.00 BRL</g:price>
       
@@ -17304,8 +17304,8 @@
       <g:id>1555461625</g:id>
       <g:title>T-Shirt Especial Lost And Sheep Coral Biarritz (P / Coral Biarritz Mostruário)</g:title>
       <g:description>Ref.: 22522601-CRB Especificações do produto: · Linha Especial lost branding. · Modelagem Box fit. · Estampa Lost frontal alto relevo. · Estampa ovelha costas lateral. · Etiqueta bandeira lost embutida na lateral. · Reforço de gola. · Estampa barra. · Tag personalizado lost. · Meia malha 30/1. Composição: 100% Algodão</g:description>
-      <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
+      <g:availability>out of stock</g:availability>
+      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>189.00 BRL</g:price>
       
@@ -50687,6 +50687,90 @@
       <g:product_type>Zumbis</g:product_type>
     </item>
     <item>
+      <g:id>1555573454</g:id>
+      <g:title>T-Shirt Infinity Sheep Gray (P / Gray)</g:title>
+      <g:description>Ref.: LOST2002-CCC Camiseta Lost Infinity Sheep. 100% Algodão.</g:description>
+      <g:availability>in stock</g:availability>
+      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
+      <g:condition>new</g:condition>
+      <g:price>179.90 BRL</g:price>
+      
+      <g:link>https://www.lost.com.br/produtos/t-shirt-infinity-sheep-gray?variant=1555573454</g:link>
+      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/lost2002-ccc-2-83d3a1b46291df0ff817882118853835-1024-1024.jpg</g:image_link>
+      <g:brand>Lost</g:brand>
+      <g:item_group_id>354461410</g:item_group_id>
+      <g:size>P</g:size>
+      <g:color>Gray</g:color>
+      <g:gtin>7908512938305</g:gtin>
+      
+      <g:product_type>Shop</g:product_type>
+      <g:product_type>Camisetas</g:product_type>
+      <g:product_type>Especiais</g:product_type>
+    </item>
+    <item>
+      <g:id>1555573458</g:id>
+      <g:title>T-Shirt Infinity Sheep Gray (M / Gray)</g:title>
+      <g:description>Ref.: LOST2002-CCC Camiseta Lost Infinity Sheep. 100% Algodão.</g:description>
+      <g:availability>in stock</g:availability>
+      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
+      <g:condition>new</g:condition>
+      <g:price>179.90 BRL</g:price>
+      
+      <g:link>https://www.lost.com.br/produtos/t-shirt-infinity-sheep-gray?variant=1555573458</g:link>
+      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/lost2002-ccc-2-83d3a1b46291df0ff817882118853835-1024-1024.jpg</g:image_link>
+      <g:brand>Lost</g:brand>
+      <g:item_group_id>354461410</g:item_group_id>
+      <g:size>M</g:size>
+      <g:color>Gray</g:color>
+      <g:gtin>7908512938312</g:gtin>
+      
+      <g:product_type>Shop</g:product_type>
+      <g:product_type>Camisetas</g:product_type>
+      <g:product_type>Especiais</g:product_type>
+    </item>
+    <item>
+      <g:id>1555573459</g:id>
+      <g:title>T-Shirt Infinity Sheep Gray (G / Gray)</g:title>
+      <g:description>Ref.: LOST2002-CCC Camiseta Lost Infinity Sheep. 100% Algodão.</g:description>
+      <g:availability>out of stock</g:availability>
+      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
+      <g:condition>new</g:condition>
+      <g:price>179.90 BRL</g:price>
+      
+      <g:link>https://www.lost.com.br/produtos/t-shirt-infinity-sheep-gray?variant=1555573459</g:link>
+      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/lost2002-ccc-2-83d3a1b46291df0ff817882118853835-1024-1024.jpg</g:image_link>
+      <g:brand>Lost</g:brand>
+      <g:item_group_id>354461410</g:item_group_id>
+      <g:size>G</g:size>
+      <g:color>Gray</g:color>
+      <g:gtin>7908512938329</g:gtin>
+      
+      <g:product_type>Shop</g:product_type>
+      <g:product_type>Camisetas</g:product_type>
+      <g:product_type>Especiais</g:product_type>
+    </item>
+    <item>
+      <g:id>1555573460</g:id>
+      <g:title>T-Shirt Infinity Sheep Gray (GG / Gray)</g:title>
+      <g:description>Ref.: LOST2002-CCC Camiseta Lost Infinity Sheep. 100% Algodão.</g:description>
+      <g:availability>in stock</g:availability>
+      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
+      <g:condition>new</g:condition>
+      <g:price>179.90 BRL</g:price>
+      
+      <g:link>https://www.lost.com.br/produtos/t-shirt-infinity-sheep-gray?variant=1555573460</g:link>
+      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/lost2002-ccc-2-83d3a1b46291df0ff817882118853835-1024-1024.jpg</g:image_link>
+      <g:brand>Lost</g:brand>
+      <g:item_group_id>354461410</g:item_group_id>
+      <g:size>GG</g:size>
+      <g:color>Gray</g:color>
+      <g:gtin>7908512938336</g:gtin>
+      
+      <g:product_type>Shop</g:product_type>
+      <g:product_type>Camisetas</g:product_type>
+      <g:product_type>Especiais</g:product_type>
+    </item>
+    <item>
       <g:id>1555573595</g:id>
       <g:title>Boarshorts After Domination 52cm Longo Preto (38 / Preto Most)</g:title>
       <g:description>Ref.: 22624101L-PPP Especificações do produto: · Linha Lost Funny. · Modelagem boardshort. · Cadarço ajustador + ilhós. · Fechamento em velcro. · Estampa full print After Domination. · Etiqueta termocolante Saturno acima da barra frontal. · Bolso traseiro + rolete e velcro na lapela. · Etiqueta Lost centralizada no bolso traseiro. · Tag personalizado Lost. Composição: Microfibra com Elastano – 93% Poliéster 7% Elastano.</g:description>
@@ -52136,7 +52220,7 @@
       <g:title>T-Shirt Shiny Skull Preto (G / Preto)</g:title>
       <g:description>Ref.: 22613017-PPP Linha 4:20. Especificações do produto: · Modelagem regular. · Estampa frontal Lost 4:20. · Técnica especial brilha no escuro. · Etiqueta 4:20 saturno acima da barra. · Tag personalizado LOST X 4:20. · Reforço de gola. · Tag com técnica especial do fogo. Composição: 100% Algodão. A Lost apresenta o drop 4:20 uma coleção inspirada na cultura canábica, trazendo peças com atitude, identidade e estética urbana. Um lançamento pensado para quem vive o lifestyle.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>15</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>17</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>149.00 BRL</g:price>
       
@@ -62753,7 +62837,7 @@
       <g:title>Boné 5 Pannel Lost Branding Refletivo Preto (U / Preto Mostr)</g:title>
       <g:description>Ref.: 22626505-PPP Especificações do produto: · Linha Lost Funny. · Modelagem 5 panel. · Estampa silk refletivo Lost. · Fita personalizada Lost. · Aba curva. · Etiqueta interna Lost Since ‘91 or 93’. · Etiqueta embutida Lost no regulador. · Regulador funcional com fecho tic tac. · Tag personalizada Lost. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>29</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>28</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>189.00 BRL</g:price>
       
@@ -64421,8 +64505,92 @@
       <g:product_type>T-Shirts</g:product_type>
     </item>
     <item>
+      <g:id>1555587451</g:id>
+      <g:title>T-Shirt Basics Lost Amarelo Azeite (P / Amarelo Azeite)</g:title>
+      <g:description>Ref.: 21112802-AAZ Camiseta Lost Essencials. O básico nada básico que só a Lost sabe fazer Para qualquer que seja o sua atividade e sua rotina, nossas camisetas são produzidas visando o conforto. Passam por testes de qualidade para termos certeza que estamos entregando o melhor produto aos nossos clientes. São produzidas 100% no Brasil, valorizando empresas nacionais. Especificações do produto: · Modelagem regular. · Meia malha penteada. · Silk Institucional Lost no peito. Composição: 100% Algodão.</g:description>
+      <g:availability>in stock</g:availability>
+      <g:quantity_to_sell_on_facebook>2</g:quantity_to_sell_on_facebook>
+      <g:condition>new</g:condition>
+      <g:price>129.00 BRL</g:price>
+      
+      <g:link>https://www.lost.com.br/produtos/t-shirt-basics-lost-amarelo-azeite?variant=1555587451</g:link>
+      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/21112802-aaz-1-8c9f7bdc05ccf42bef17882106823049-1024-1024.jpg</g:image_link>
+      <g:brand>Lost</g:brand>
+      <g:item_group_id>354464678</g:item_group_id>
+      <g:size>P</g:size>
+      <g:color>Amarelo Azeite</g:color>
+      <g:gtin>7900121131962</g:gtin>
+      
+      <g:product_type>Shop</g:product_type>
+      <g:product_type>Camisetas</g:product_type>
+      <g:product_type>T-Shirts</g:product_type>
+    </item>
+    <item>
+      <g:id>1555587452</g:id>
+      <g:title>T-Shirt Basics Lost Amarelo Azeite (M / Amarelo Azeite)</g:title>
+      <g:description>Ref.: 21112802-AAZ Camiseta Lost Essencials. O básico nada básico que só a Lost sabe fazer Para qualquer que seja o sua atividade e sua rotina, nossas camisetas são produzidas visando o conforto. Passam por testes de qualidade para termos certeza que estamos entregando o melhor produto aos nossos clientes. São produzidas 100% no Brasil, valorizando empresas nacionais. Especificações do produto: · Modelagem regular. · Meia malha penteada. · Silk Institucional Lost no peito. Composição: 100% Algodão.</g:description>
+      <g:availability>in stock</g:availability>
+      <g:quantity_to_sell_on_facebook>4</g:quantity_to_sell_on_facebook>
+      <g:condition>new</g:condition>
+      <g:price>129.00 BRL</g:price>
+      
+      <g:link>https://www.lost.com.br/produtos/t-shirt-basics-lost-amarelo-azeite?variant=1555587452</g:link>
+      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/21112802-aaz-1-8c9f7bdc05ccf42bef17882106823049-1024-1024.jpg</g:image_link>
+      <g:brand>Lost</g:brand>
+      <g:item_group_id>354464678</g:item_group_id>
+      <g:size>M</g:size>
+      <g:color>Amarelo Azeite</g:color>
+      <g:gtin>7900121131979</g:gtin>
+      
+      <g:product_type>Shop</g:product_type>
+      <g:product_type>Camisetas</g:product_type>
+      <g:product_type>T-Shirts</g:product_type>
+    </item>
+    <item>
+      <g:id>1555587453</g:id>
+      <g:title>T-Shirt Basics Lost Amarelo Azeite (G / Amarelo Azeite)</g:title>
+      <g:description>Ref.: 21112802-AAZ Camiseta Lost Essencials. O básico nada básico que só a Lost sabe fazer Para qualquer que seja o sua atividade e sua rotina, nossas camisetas são produzidas visando o conforto. Passam por testes de qualidade para termos certeza que estamos entregando o melhor produto aos nossos clientes. São produzidas 100% no Brasil, valorizando empresas nacionais. Especificações do produto: · Modelagem regular. · Meia malha penteada. · Silk Institucional Lost no peito. Composição: 100% Algodão.</g:description>
+      <g:availability>in stock</g:availability>
+      <g:quantity_to_sell_on_facebook>5</g:quantity_to_sell_on_facebook>
+      <g:condition>new</g:condition>
+      <g:price>129.00 BRL</g:price>
+      
+      <g:link>https://www.lost.com.br/produtos/t-shirt-basics-lost-amarelo-azeite?variant=1555587453</g:link>
+      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/21112802-aaz-1-8c9f7bdc05ccf42bef17882106823049-1024-1024.jpg</g:image_link>
+      <g:brand>Lost</g:brand>
+      <g:item_group_id>354464678</g:item_group_id>
+      <g:size>G</g:size>
+      <g:color>Amarelo Azeite</g:color>
+      <g:gtin>7900121131986</g:gtin>
+      
+      <g:product_type>Shop</g:product_type>
+      <g:product_type>Camisetas</g:product_type>
+      <g:product_type>T-Shirts</g:product_type>
+    </item>
+    <item>
+      <g:id>1555587454</g:id>
+      <g:title>T-Shirt Basics Lost Amarelo Azeite (GG / Amarelo Azeite)</g:title>
+      <g:description>Ref.: 21112802-AAZ Camiseta Lost Essencials. O básico nada básico que só a Lost sabe fazer Para qualquer que seja o sua atividade e sua rotina, nossas camisetas são produzidas visando o conforto. Passam por testes de qualidade para termos certeza que estamos entregando o melhor produto aos nossos clientes. São produzidas 100% no Brasil, valorizando empresas nacionais. Especificações do produto: · Modelagem regular. · Meia malha penteada. · Silk Institucional Lost no peito. Composição: 100% Algodão.</g:description>
+      <g:availability>out of stock</g:availability>
+      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
+      <g:condition>new</g:condition>
+      <g:price>129.00 BRL</g:price>
+      
+      <g:link>https://www.lost.com.br/produtos/t-shirt-basics-lost-amarelo-azeite?variant=1555587454</g:link>
+      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/21112802-aaz-1-8c9f7bdc05ccf42bef17882106823049-1024-1024.jpg</g:image_link>
+      <g:brand>Lost</g:brand>
+      <g:item_group_id>354464678</g:item_group_id>
+      <g:size>GG</g:size>
+      <g:color>Amarelo Azeite</g:color>
+      <g:gtin>7900121131993</g:gtin>
+      
+      <g:product_type>Shop</g:product_type>
+      <g:product_type>Camisetas</g:product_type>
+      <g:product_type>T-Shirts</g:product_type>
+    </item>
+    <item>
       <g:id>1555587456</g:id>
-      <g:title>T-Shirt Basics Lost Azul Hossegor (P / Azul Hossegor Ver25 - Vr26)</g:title>
+      <g:title>T-Shirt Basics Lost Azul Hossegor (P / Azul Hossegor)</g:title>
       <g:description>Ref.: 21112802-AZH Camiseta Lost Essencials. O básico nada básico que só a Lost sabe fazer Para qualquer que seja o sua atividade e sua rotina, nossas camisetas são produzidas visando o conforto. Passam por testes de qualidade para termos certeza que estamos entregando o melhor produto aos nossos clientes. São produzidas 100% no Brasil, valorizando empresas nacionais. Especificações do produto: · Modelagem regular. · Meia malha penteada. · Silk Institucional Lost no peito. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
       <g:quantity_to_sell_on_facebook>4</g:quantity_to_sell_on_facebook>
@@ -64434,7 +64602,7 @@
       <g:brand>Lost</g:brand>
       <g:item_group_id>354464679</g:item_group_id>
       <g:size>P</g:size>
-      <g:color>Azul Hossegor Ver25 - Vr26</g:color>
+      <g:color>Azul Hossegor</g:color>
       <g:gtin>7900121005256</g:gtin>
       
       <g:product_type>Shop</g:product_type>
@@ -64443,7 +64611,7 @@
     </item>
     <item>
       <g:id>1555587457</g:id>
-      <g:title>T-Shirt Basics Lost Azul Hossegor (M / Azul Hossegor Ver25 - Vr26)</g:title>
+      <g:title>T-Shirt Basics Lost Azul Hossegor (M / Azul Hossegor)</g:title>
       <g:description>Ref.: 21112802-AZH Camiseta Lost Essencials. O básico nada básico que só a Lost sabe fazer Para qualquer que seja o sua atividade e sua rotina, nossas camisetas são produzidas visando o conforto. Passam por testes de qualidade para termos certeza que estamos entregando o melhor produto aos nossos clientes. São produzidas 100% no Brasil, valorizando empresas nacionais. Especificações do produto: · Modelagem regular. · Meia malha penteada. · Silk Institucional Lost no peito. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
       <g:quantity_to_sell_on_facebook>2</g:quantity_to_sell_on_facebook>
@@ -64455,7 +64623,7 @@
       <g:brand>Lost</g:brand>
       <g:item_group_id>354464679</g:item_group_id>
       <g:size>M</g:size>
-      <g:color>Azul Hossegor Ver25 - Vr26</g:color>
+      <g:color>Azul Hossegor</g:color>
       <g:gtin>7900121005263</g:gtin>
       
       <g:product_type>Shop</g:product_type>
@@ -64464,7 +64632,7 @@
     </item>
     <item>
       <g:id>1555587458</g:id>
-      <g:title>T-Shirt Basics Lost Azul Hossegor (G / Azul Hossegor Ver25 - Vr26)</g:title>
+      <g:title>T-Shirt Basics Lost Azul Hossegor (G / Azul Hossegor)</g:title>
       <g:description>Ref.: 21112802-AZH Camiseta Lost Essencials. O básico nada básico que só a Lost sabe fazer Para qualquer que seja o sua atividade e sua rotina, nossas camisetas são produzidas visando o conforto. Passam por testes de qualidade para termos certeza que estamos entregando o melhor produto aos nossos clientes. São produzidas 100% no Brasil, valorizando empresas nacionais. Especificações do produto: · Modelagem regular. · Meia malha penteada. · Silk Institucional Lost no peito. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
       <g:quantity_to_sell_on_facebook>6</g:quantity_to_sell_on_facebook>
@@ -64476,7 +64644,7 @@
       <g:brand>Lost</g:brand>
       <g:item_group_id>354464679</g:item_group_id>
       <g:size>G</g:size>
-      <g:color>Azul Hossegor Ver25 - Vr26</g:color>
+      <g:color>Azul Hossegor</g:color>
       <g:gtin>7900121005270</g:gtin>
       
       <g:product_type>Shop</g:product_type>
@@ -64485,7 +64653,7 @@
     </item>
     <item>
       <g:id>1555587459</g:id>
-      <g:title>T-Shirt Basics Lost Azul Hossegor (GG / Azul Hossegor Ver25 - Vr26)</g:title>
+      <g:title>T-Shirt Basics Lost Azul Hossegor (GG / Azul Hossegor)</g:title>
       <g:description>Ref.: 21112802-AZH Camiseta Lost Essencials. O básico nada básico que só a Lost sabe fazer Para qualquer que seja o sua atividade e sua rotina, nossas camisetas são produzidas visando o conforto. Passam por testes de qualidade para termos certeza que estamos entregando o melhor produto aos nossos clientes. São produzidas 100% no Brasil, valorizando empresas nacionais. Especificações do produto: · Modelagem regular. · Meia malha penteada. · Silk Institucional Lost no peito. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
       <g:quantity_to_sell_on_facebook>2</g:quantity_to_sell_on_facebook>
@@ -64497,7 +64665,7 @@
       <g:brand>Lost</g:brand>
       <g:item_group_id>354464679</g:item_group_id>
       <g:size>GG</g:size>
-      <g:color>Azul Hossegor Ver25 - Vr26</g:color>
+      <g:color>Azul Hossegor</g:color>
       <g:gtin>7900121005287</g:gtin>
       
       <g:product_type>Shop</g:product_type>
@@ -64506,7 +64674,7 @@
     </item>
     <item>
       <g:id>1555587497</g:id>
-      <g:title>T-Shirt Basics Lost Coral Biarritz (P / Coral Biarritz Ver25)</g:title>
+      <g:title>T-Shirt Basics Lost Coral Biarritz (P / Coral Biarritz)</g:title>
       <g:description>Ref.: 21112802-CRB Camiseta Lost Essencials. O básico nada básico que só a Lost sabe fazer Para qualquer que seja o sua atividade e sua rotina, nossas camisetas são produzidas visando o conforto. Passam por testes de qualidade para termos certeza que estamos entregando o melhor produto aos nossos clientes. São produzidas 100% no Brasil, valorizando empresas nacionais. Especificações do produto: · Modelagem regular. · Meia malha penteada. · Silk Institucional Lost no peito. Composição: 100% Algodão.</g:description>
       <g:availability>out of stock</g:availability>
       <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
@@ -64518,7 +64686,7 @@
       <g:brand>Lost</g:brand>
       <g:item_group_id>354464694</g:item_group_id>
       <g:size>P</g:size>
-      <g:color>Coral Biarritz Ver25</g:color>
+      <g:color>Coral Biarritz</g:color>
       <g:gtin>7900121005058</g:gtin>
       
       <g:product_type>Shop</g:product_type>
@@ -64527,7 +64695,7 @@
     </item>
     <item>
       <g:id>1555587498</g:id>
-      <g:title>T-Shirt Basics Lost Coral Biarritz (M / Coral Biarritz Ver25)</g:title>
+      <g:title>T-Shirt Basics Lost Coral Biarritz (M / Coral Biarritz)</g:title>
       <g:description>Ref.: 21112802-CRB Camiseta Lost Essencials. O básico nada básico que só a Lost sabe fazer Para qualquer que seja o sua atividade e sua rotina, nossas camisetas são produzidas visando o conforto. Passam por testes de qualidade para termos certeza que estamos entregando o melhor produto aos nossos clientes. São produzidas 100% no Brasil, valorizando empresas nacionais. Especificações do produto: · Modelagem regular. · Meia malha penteada. · Silk Institucional Lost no peito. Composição: 100% Algodão.</g:description>
       <g:availability>out of stock</g:availability>
       <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
@@ -64539,7 +64707,7 @@
       <g:brand>Lost</g:brand>
       <g:item_group_id>354464694</g:item_group_id>
       <g:size>M</g:size>
-      <g:color>Coral Biarritz Ver25</g:color>
+      <g:color>Coral Biarritz</g:color>
       <g:gtin>7900121005065</g:gtin>
       
       <g:product_type>Shop</g:product_type>
@@ -64548,7 +64716,7 @@
     </item>
     <item>
       <g:id>1555587499</g:id>
-      <g:title>T-Shirt Basics Lost Coral Biarritz (G / Coral Biarritz Ver25)</g:title>
+      <g:title>T-Shirt Basics Lost Coral Biarritz (G / Coral Biarritz)</g:title>
       <g:description>Ref.: 21112802-CRB Camiseta Lost Essencials. O básico nada básico que só a Lost sabe fazer Para qualquer que seja o sua atividade e sua rotina, nossas camisetas são produzidas visando o conforto. Passam por testes de qualidade para termos certeza que estamos entregando o melhor produto aos nossos clientes. São produzidas 100% no Brasil, valorizando empresas nacionais. Especificações do produto: · Modelagem regular. · Meia malha penteada. · Silk Institucional Lost no peito. Composição: 100% Algodão.</g:description>
       <g:availability>out of stock</g:availability>
       <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
@@ -64560,7 +64728,7 @@
       <g:brand>Lost</g:brand>
       <g:item_group_id>354464694</g:item_group_id>
       <g:size>G</g:size>
-      <g:color>Coral Biarritz Ver25</g:color>
+      <g:color>Coral Biarritz</g:color>
       <g:gtin>7900121005072</g:gtin>
       
       <g:product_type>Shop</g:product_type>
@@ -64569,7 +64737,7 @@
     </item>
     <item>
       <g:id>1555587501</g:id>
-      <g:title>T-Shirt Basics Lost Coral Biarritz (GG / Coral Biarritz Ver25)</g:title>
+      <g:title>T-Shirt Basics Lost Coral Biarritz (GG / Coral Biarritz)</g:title>
       <g:description>Ref.: 21112802-CRB Camiseta Lost Essencials. O básico nada básico que só a Lost sabe fazer Para qualquer que seja o sua atividade e sua rotina, nossas camisetas são produzidas visando o conforto. Passam por testes de qualidade para termos certeza que estamos entregando o melhor produto aos nossos clientes. São produzidas 100% no Brasil, valorizando empresas nacionais. Especificações do produto: · Modelagem regular. · Meia malha penteada. · Silk Institucional Lost no peito. Composição: 100% Algodão.</g:description>
       <g:availability>out of stock</g:availability>
       <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
@@ -64581,7 +64749,7 @@
       <g:brand>Lost</g:brand>
       <g:item_group_id>354464694</g:item_group_id>
       <g:size>GG</g:size>
-      <g:color>Coral Biarritz Ver25</g:color>
+      <g:color>Coral Biarritz</g:color>
       <g:gtin>7900121005089</g:gtin>
       
       <g:product_type>Shop</g:product_type>
@@ -64590,7 +64758,7 @@
     </item>
     <item>
       <g:id>1555587524</g:id>
-      <g:title>T-Shirt Basics Lost Lilas Lilac (P / Lilas Lilac Vr27)</g:title>
+      <g:title>T-Shirt Basics Lost Lilas Lilac (P / Lilas Lilac)</g:title>
       <g:description>Ref.: 21112802-LLC Camiseta Lost Essencials. O básico nada básico que só a Lost sabe fazer Para qualquer que seja o sua atividade e sua rotina, nossas camisetas são produzidas visando o conforto. Passam por testes de qualidade para termos certeza que estamos entregando o melhor produto aos nossos clientes. São produzidas 100% no Brasil, valorizando empresas nacionais. Especificações do produto: · Modelagem regular. · Meia malha penteada. · Silk Institucional Lost no peito. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
       <g:quantity_to_sell_on_facebook>2</g:quantity_to_sell_on_facebook>
@@ -64602,7 +64770,7 @@
       <g:brand>Lost</g:brand>
       <g:item_group_id>354464700</g:item_group_id>
       <g:size>P</g:size>
-      <g:color>Lilas Lilac Vr27</g:color>
+      <g:color>Lilas Lilac</g:color>
       <g:gtin>7900121131924</g:gtin>
       
       <g:product_type>Shop</g:product_type>
@@ -64611,7 +64779,7 @@
     </item>
     <item>
       <g:id>1555587525</g:id>
-      <g:title>T-Shirt Basics Lost Lilas Lilac (M / Lilas Lilac Vr27)</g:title>
+      <g:title>T-Shirt Basics Lost Lilas Lilac (M / Lilas Lilac)</g:title>
       <g:description>Ref.: 21112802-LLC Camiseta Lost Essencials. O básico nada básico que só a Lost sabe fazer Para qualquer que seja o sua atividade e sua rotina, nossas camisetas são produzidas visando o conforto. Passam por testes de qualidade para termos certeza que estamos entregando o melhor produto aos nossos clientes. São produzidas 100% no Brasil, valorizando empresas nacionais. Especificações do produto: · Modelagem regular. · Meia malha penteada. · Silk Institucional Lost no peito. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
       <g:quantity_to_sell_on_facebook>4</g:quantity_to_sell_on_facebook>
@@ -64623,7 +64791,7 @@
       <g:brand>Lost</g:brand>
       <g:item_group_id>354464700</g:item_group_id>
       <g:size>M</g:size>
-      <g:color>Lilas Lilac Vr27</g:color>
+      <g:color>Lilas Lilac</g:color>
       <g:gtin>7900121131931</g:gtin>
       
       <g:product_type>Shop</g:product_type>
@@ -64632,7 +64800,7 @@
     </item>
     <item>
       <g:id>1555587526</g:id>
-      <g:title>T-Shirt Basics Lost Lilas Lilac (G / Lilas Lilac Vr27)</g:title>
+      <g:title>T-Shirt Basics Lost Lilas Lilac (G / Lilas Lilac)</g:title>
       <g:description>Ref.: 21112802-LLC Camiseta Lost Essencials. O básico nada básico que só a Lost sabe fazer Para qualquer que seja o sua atividade e sua rotina, nossas camisetas são produzidas visando o conforto. Passam por testes de qualidade para termos certeza que estamos entregando o melhor produto aos nossos clientes. São produzidas 100% no Brasil, valorizando empresas nacionais. Especificações do produto: · Modelagem regular. · Meia malha penteada. · Silk Institucional Lost no peito. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
       <g:quantity_to_sell_on_facebook>4</g:quantity_to_sell_on_facebook>
@@ -64644,7 +64812,7 @@
       <g:brand>Lost</g:brand>
       <g:item_group_id>354464700</g:item_group_id>
       <g:size>G</g:size>
-      <g:color>Lilas Lilac Vr27</g:color>
+      <g:color>Lilas Lilac</g:color>
       <g:gtin>7900121131948</g:gtin>
       
       <g:product_type>Shop</g:product_type>
@@ -64653,7 +64821,7 @@
     </item>
     <item>
       <g:id>1555587532</g:id>
-      <g:title>T-Shirt Basics Lost Lilas Lilac (GG / Lilas Lilac Vr27)</g:title>
+      <g:title>T-Shirt Basics Lost Lilas Lilac (GG / Lilas Lilac)</g:title>
       <g:description>Ref.: 21112802-LLC Camiseta Lost Essencials. O básico nada básico que só a Lost sabe fazer Para qualquer que seja o sua atividade e sua rotina, nossas camisetas são produzidas visando o conforto. Passam por testes de qualidade para termos certeza que estamos entregando o melhor produto aos nossos clientes. São produzidas 100% no Brasil, valorizando empresas nacionais. Especificações do produto: · Modelagem regular. · Meia malha penteada. · Silk Institucional Lost no peito. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
       <g:quantity_to_sell_on_facebook>3</g:quantity_to_sell_on_facebook>
@@ -64665,7 +64833,7 @@
       <g:brand>Lost</g:brand>
       <g:item_group_id>354464700</g:item_group_id>
       <g:size>GG</g:size>
-      <g:color>Lilas Lilac Vr27</g:color>
+      <g:color>Lilas Lilac</g:color>
       <g:gtin>7900121131955</g:gtin>
       
       <g:product_type>Shop</g:product_type>
@@ -64674,7 +64842,7 @@
     </item>
     <item>
       <g:id>1555587545</g:id>
-      <g:title>T-Shirt Basics Lost Preto (P / Preto Most Ver26)</g:title>
+      <g:title>T-Shirt Basics Lost Preto (P / Preto)</g:title>
       <g:description>Ref.: 21112802-PPP Camiseta Lost Essencials. O básico nada básico que só a Lost sabe fazer Para qualquer que seja o sua atividade e sua rotina, nossas camisetas são produzidas visando o conforto. Passam por testes de qualidade para termos certeza que estamos entregando o melhor produto aos nossos clientes. São produzidas 100% no Brasil, valorizando empresas nacionais. Especificações do produto: · Modelagem regular. · Meia malha penteada. · Silk Institucional Lost no peito. Composição: 100% Algodão.</g:description>
       <g:availability>out of stock</g:availability>
       <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
@@ -64686,7 +64854,7 @@
       <g:brand>Lost</g:brand>
       <g:item_group_id>354464705</g:item_group_id>
       <g:size>P</g:size>
-      <g:color>Preto Most Ver26</g:color>
+      <g:color>Preto</g:color>
       <g:gtin>7908607712834</g:gtin>
       
       <g:product_type>Shop</g:product_type>
@@ -64695,7 +64863,7 @@
     </item>
     <item>
       <g:id>1555587546</g:id>
-      <g:title>T-Shirt Basics Lost Preto (M / Preto Most Ver26)</g:title>
+      <g:title>T-Shirt Basics Lost Preto (M / Preto)</g:title>
       <g:description>Ref.: 21112802-PPP Camiseta Lost Essencials. O básico nada básico que só a Lost sabe fazer Para qualquer que seja o sua atividade e sua rotina, nossas camisetas são produzidas visando o conforto. Passam por testes de qualidade para termos certeza que estamos entregando o melhor produto aos nossos clientes. São produzidas 100% no Brasil, valorizando empresas nacionais. Especificações do produto: · Modelagem regular. · Meia malha penteada. · Silk Institucional Lost no peito. Composição: 100% Algodão.</g:description>
       <g:availability>out of stock</g:availability>
       <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
@@ -64707,7 +64875,7 @@
       <g:brand>Lost</g:brand>
       <g:item_group_id>354464705</g:item_group_id>
       <g:size>M</g:size>
-      <g:color>Preto Most Ver26</g:color>
+      <g:color>Preto</g:color>
       <g:gtin>7908607712841</g:gtin>
       
       <g:product_type>Shop</g:product_type>
@@ -64716,10 +64884,10 @@
     </item>
     <item>
       <g:id>1555587547</g:id>
-      <g:title>T-Shirt Basics Lost Preto (G / Preto Most Ver26)</g:title>
+      <g:title>T-Shirt Basics Lost Preto (G / Preto)</g:title>
       <g:description>Ref.: 21112802-PPP Camiseta Lost Essencials. O básico nada básico que só a Lost sabe fazer Para qualquer que seja o sua atividade e sua rotina, nossas camisetas são produzidas visando o conforto. Passam por testes de qualidade para termos certeza que estamos entregando o melhor produto aos nossos clientes. São produzidas 100% no Brasil, valorizando empresas nacionais. Especificações do produto: · Modelagem regular. · Meia malha penteada. · Silk Institucional Lost no peito. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>3</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>2</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>129.00 BRL</g:price>
       
@@ -64728,7 +64896,7 @@
       <g:brand>Lost</g:brand>
       <g:item_group_id>354464705</g:item_group_id>
       <g:size>G</g:size>
-      <g:color>Preto Most Ver26</g:color>
+      <g:color>Preto</g:color>
       <g:gtin>7908607712858</g:gtin>
       
       <g:product_type>Shop</g:product_type>
@@ -64737,7 +64905,7 @@
     </item>
     <item>
       <g:id>1555587549</g:id>
-      <g:title>T-Shirt Basics Lost Preto (GG / Preto Most Ver26)</g:title>
+      <g:title>T-Shirt Basics Lost Preto (GG / Preto)</g:title>
       <g:description>Ref.: 21112802-PPP Camiseta Lost Essencials. O básico nada básico que só a Lost sabe fazer Para qualquer que seja o sua atividade e sua rotina, nossas camisetas são produzidas visando o conforto. Passam por testes de qualidade para termos certeza que estamos entregando o melhor produto aos nossos clientes. São produzidas 100% no Brasil, valorizando empresas nacionais. Especificações do produto: · Modelagem regular. · Meia malha penteada. · Silk Institucional Lost no peito. Composição: 100% Algodão.</g:description>
       <g:availability>out of stock</g:availability>
       <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
@@ -64749,7 +64917,7 @@
       <g:brand>Lost</g:brand>
       <g:item_group_id>354464705</g:item_group_id>
       <g:size>GG</g:size>
-      <g:color>Preto Most Ver26</g:color>
+      <g:color>Preto</g:color>
       <g:gtin>7908607712865</g:gtin>
       
       <g:product_type>Shop</g:product_type>
@@ -64758,7 +64926,7 @@
     </item>
     <item>
       <g:id>1555587562</g:id>
-      <g:title>T-Shirt Basics Lost Tapioca (P / Tapioca Ver25)</g:title>
+      <g:title>T-Shirt Basics Lost Tapioca (P / Tapioca)</g:title>
       <g:description>Ref.: 21112802-TAP Camiseta Lost Essencials. O básico nada básico que só a Lost sabe fazer Para qualquer que seja o sua atividade e sua rotina, nossas camisetas são produzidas visando o conforto. Passam por testes de qualidade para termos certeza que estamos entregando o melhor produto aos nossos clientes. São produzidas 100% no Brasil, valorizando empresas nacionais. Especificações do produto: · Modelagem regular. · Meia malha penteada. · Silk Institucional Lost no peito. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
       <g:quantity_to_sell_on_facebook>2</g:quantity_to_sell_on_facebook>
@@ -64770,7 +64938,7 @@
       <g:brand>Lost</g:brand>
       <g:item_group_id>354464710</g:item_group_id>
       <g:size>P</g:size>
-      <g:color>Tapioca Ver25</g:color>
+      <g:color>Tapioca</g:color>
       <g:gtin>7900121005218</g:gtin>
       
       <g:product_type>Shop</g:product_type>
@@ -64779,7 +64947,7 @@
     </item>
     <item>
       <g:id>1555587563</g:id>
-      <g:title>T-Shirt Basics Lost Tapioca (M / Tapioca Ver25)</g:title>
+      <g:title>T-Shirt Basics Lost Tapioca (M / Tapioca)</g:title>
       <g:description>Ref.: 21112802-TAP Camiseta Lost Essencials. O básico nada básico que só a Lost sabe fazer Para qualquer que seja o sua atividade e sua rotina, nossas camisetas são produzidas visando o conforto. Passam por testes de qualidade para termos certeza que estamos entregando o melhor produto aos nossos clientes. São produzidas 100% no Brasil, valorizando empresas nacionais. Especificações do produto: · Modelagem regular. · Meia malha penteada. · Silk Institucional Lost no peito. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
       <g:quantity_to_sell_on_facebook>4</g:quantity_to_sell_on_facebook>
@@ -64791,7 +64959,7 @@
       <g:brand>Lost</g:brand>
       <g:item_group_id>354464710</g:item_group_id>
       <g:size>M</g:size>
-      <g:color>Tapioca Ver25</g:color>
+      <g:color>Tapioca</g:color>
       <g:gtin>7900121005225</g:gtin>
       
       <g:product_type>Shop</g:product_type>
@@ -64800,7 +64968,7 @@
     </item>
     <item>
       <g:id>1555587564</g:id>
-      <g:title>T-Shirt Basics Lost Tapioca (G / Tapioca Ver25)</g:title>
+      <g:title>T-Shirt Basics Lost Tapioca (G / Tapioca)</g:title>
       <g:description>Ref.: 21112802-TAP Camiseta Lost Essencials. O básico nada básico que só a Lost sabe fazer Para qualquer que seja o sua atividade e sua rotina, nossas camisetas são produzidas visando o conforto. Passam por testes de qualidade para termos certeza que estamos entregando o melhor produto aos nossos clientes. São produzidas 100% no Brasil, valorizando empresas nacionais. Especificações do produto: · Modelagem regular. · Meia malha penteada. · Silk Institucional Lost no peito. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
       <g:quantity_to_sell_on_facebook>4</g:quantity_to_sell_on_facebook>
@@ -64812,7 +64980,7 @@
       <g:brand>Lost</g:brand>
       <g:item_group_id>354464710</g:item_group_id>
       <g:size>G</g:size>
-      <g:color>Tapioca Ver25</g:color>
+      <g:color>Tapioca</g:color>
       <g:gtin>7900121005232</g:gtin>
       
       <g:product_type>Shop</g:product_type>
@@ -64821,7 +64989,7 @@
     </item>
     <item>
       <g:id>1555587565</g:id>
-      <g:title>T-Shirt Basics Lost Tapioca (GG / Tapioca Ver25)</g:title>
+      <g:title>T-Shirt Basics Lost Tapioca (GG / Tapioca)</g:title>
       <g:description>Ref.: 21112802-TAP Camiseta Lost Essencials. O básico nada básico que só a Lost sabe fazer Para qualquer que seja o sua atividade e sua rotina, nossas camisetas são produzidas visando o conforto. Passam por testes de qualidade para termos certeza que estamos entregando o melhor produto aos nossos clientes. São produzidas 100% no Brasil, valorizando empresas nacionais. Especificações do produto: · Modelagem regular. · Meia malha penteada. · Silk Institucional Lost no peito. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
       <g:quantity_to_sell_on_facebook>10</g:quantity_to_sell_on_facebook>
@@ -64833,7 +65001,7 @@
       <g:brand>Lost</g:brand>
       <g:item_group_id>354464710</g:item_group_id>
       <g:size>GG</g:size>
-      <g:color>Tapioca Ver25</g:color>
+      <g:color>Tapioca</g:color>
       <g:gtin>7900121005249</g:gtin>
       
       <g:product_type>Shop</g:product_type>

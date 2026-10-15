@@ -3475,6 +3475,8 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555333656</g:id>
@@ -3497,6 +3499,8 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555333672</g:id>
@@ -3519,6 +3523,8 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555333680</g:id>
@@ -3541,6 +3547,8 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555333966</g:id>
@@ -3563,6 +3571,8 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555333981</g:id>
@@ -3585,6 +3595,8 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555333991</g:id>
@@ -3607,6 +3619,8 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555334012</g:id>
@@ -3629,6 +3643,8 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555334466</g:id>
@@ -16028,6 +16044,7 @@
       <g:product_type>Boné</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>4:20</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555445826</g:id>
@@ -16876,7 +16893,7 @@
       <g:title>Meia Brand Lost Tapioca (39/43 / Tapioca Inv25)</g:title>
       <g:description>Ref.: 22516601-TAP Especificações do produto: · Modelagem cano longo. · Estampa lost enterprises + saturno. · Cano 20cm em jacquard. · sem atoalhado. Composição: 85% Algodão. 09% Elastano. 02% Poliamida. 02% Elastodieno. 02% Outras fibras.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>5</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>4</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>59.00 BRL</g:price>
       
@@ -20586,7 +20603,7 @@
       <g:title>T-Shirt Breaking Traditions Preto (P / Preto Mostruário)</g:title>
       <g:description>Ref.: 22512605-PPP Especificações do produto: · Linha lost sounds. · Modelagem boxfit. · Estampa frontal localizada no peito. · Etiqueta sounds na lateral. · Estampa grande costas lost sounds. · Etiqueta quadrada localizada acima da barra frontal. · Reforço de gola. · Etiqueta clips grande embutida na barra frontal. · tag personalizado lost. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>11</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>10</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>259.00 BRL</g:price>
       
@@ -21968,6 +21985,7 @@
       <g:product_type>Especiais</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>4:20</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555483310</g:id>
@@ -21991,6 +22009,7 @@
       <g:product_type>Especiais</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>4:20</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555483313</g:id>
@@ -22014,6 +22033,7 @@
       <g:product_type>Especiais</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>4:20</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555483315</g:id>
@@ -22037,6 +22057,7 @@
       <g:product_type>Especiais</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>4:20</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555483665</g:id>
@@ -22060,6 +22081,7 @@
       <g:product_type>Especiais</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>4:20</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555483744</g:id>
@@ -22083,6 +22105,7 @@
       <g:product_type>Especiais</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>4:20</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555483833</g:id>
@@ -22106,6 +22129,7 @@
       <g:product_type>Especiais</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>4:20</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555483891</g:id>
@@ -22129,6 +22153,7 @@
       <g:product_type>Especiais</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>4:20</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555485303</g:id>
@@ -25932,7 +25957,7 @@
       <g:title>Shoulder Mini Verde Militar (U / Verde Militar Mostruário)</g:title>
       <g:description>Ref.: 211110504-VMT Compacta, útil e pequena pra não dar pala né? Uma Bag basica e discreta, ideal para levar somente o necessário em qualquer rolê. Carregue menos, curta mais, eles disseram. Especificações do produto: · Bolso frontal e traseiro. · Alça removível. · Fecho de encaixe com possibilidade de ser usado como pochete. · Etiqueta frontal emborrachada. Dimensões: 18,5cm x 12cm x 3cm. Composição: 100% poliéster.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>5</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>4</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>189.00 BRL</g:price>
       
@@ -37016,6 +37041,7 @@
       <g:product_type>Shoulders e Bags</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>4:20</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555535579</g:id>
@@ -37708,6 +37734,7 @@
       <g:product_type>Moletom</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>4:20</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555537986</g:id>
@@ -37731,6 +37758,7 @@
       <g:product_type>Moletom</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>4:20</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555537991</g:id>
@@ -37754,6 +37782,7 @@
       <g:product_type>Moletom</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>4:20</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555537993</g:id>
@@ -37777,6 +37806,7 @@
       <g:product_type>Moletom</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>4:20</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555538052</g:id>
@@ -38320,6 +38350,7 @@
       <g:product_type>Moletons</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>4:20</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555538604</g:id>
@@ -38343,6 +38374,7 @@
       <g:product_type>Moletons</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>4:20</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555538606</g:id>
@@ -38366,6 +38398,7 @@
       <g:product_type>Moletons</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>4:20</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555538608</g:id>
@@ -38389,6 +38422,7 @@
       <g:product_type>Moletons</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>4:20</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555539008</g:id>
@@ -38520,8 +38554,8 @@
       <g:id>1555539262</g:id>
       <g:title>T-Shirt Sword Swallower Branco (G / Branco)</g:title>
       <g:description>Ref.: 22513011-BBB Especificações do produto: · Linha Psycho Circus. · Modelagem regular fit. · Estampa frontal Lost Saturno Freak Show. · Reforço de gola. · Etiqueta costurada na barra frontal a 1 cm. · Etiqueta Lost Psycho aplicada na barra costas. · Tag personalizado Psycho Circus X …Lost. Composição: 100% Algodão. O circo sempre foi um lugar de fascínio e mistério, onde o riso se mistura ao assombro e cada espetáculo pode ser tão mágico quanto caótico. Inspirada nesse universo de exageros, ilusões e personagens icônicos, a Lost apresenta a linha especial Psycho Circus — uma coleção que transforma o bizarro em arte, o surreal em estilo e o desconhecido em desejo. Cores vibrantes, estampas impactantes e um toque sombrio criam o equilíbrio perfeito entre o espetáculo e a rebeldia. Aq</g:description>
-      <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
+      <g:availability>out of stock</g:availability>
+      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>159.00 BRL</g:price>
       
@@ -41953,6 +41987,7 @@
       <g:product_type>T-Shirts</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Zumbis</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555545419</g:id>
@@ -41976,6 +42011,7 @@
       <g:product_type>T-Shirts</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Zumbis</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555545425</g:id>
@@ -41999,6 +42035,7 @@
       <g:product_type>T-Shirts</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Zumbis</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555545429</g:id>
@@ -42022,6 +42059,7 @@
       <g:product_type>T-Shirts</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Zumbis</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555545462</g:id>
@@ -42045,6 +42083,7 @@
       <g:product_type>T-Shirts</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Zumbis</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555545469</g:id>
@@ -42068,6 +42107,7 @@
       <g:product_type>T-Shirts</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Zumbis</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555545480</g:id>
@@ -42091,6 +42131,7 @@
       <g:product_type>T-Shirts</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Zumbis</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555545482</g:id>
@@ -42114,6 +42155,7 @@
       <g:product_type>T-Shirts</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Zumbis</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555545527</g:id>
@@ -42521,8 +42563,8 @@
       <g:id>1555546741</g:id>
       <g:title>T-Shirt Wizard Skull Verde Floresta (M / Verde Floresta Mostruário)</g:title>
       <g:description>Ref.: 22612602-VDF Especificações do produto: · Modelagem box fit. · Estampa frontal saturno. · Reforço de gola. · Etiqueta Lost embutida na lateral. · Estampa grande costas. · Técnica especial brilha no escuro. · Tag personalizado Lost. Composição: 100% Algodão. .</g:description>
-      <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
+      <g:availability>out of stock</g:availability>
+      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>289.00 BRL</g:price>
       
@@ -42878,6 +42920,7 @@
       <g:product_type>Especiais</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>4:20</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555547022</g:id>
@@ -42901,6 +42944,7 @@
       <g:product_type>Especiais</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>4:20</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555547028</g:id>
@@ -42924,6 +42968,7 @@
       <g:product_type>Especiais</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>4:20</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555547033</g:id>
@@ -42947,6 +42992,7 @@
       <g:product_type>Especiais</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>4:20</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555547399</g:id>
@@ -42970,6 +43016,7 @@
       <g:product_type>Especiais</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>4:20</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555547410</g:id>
@@ -42993,6 +43040,7 @@
       <g:product_type>Especiais</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>4:20</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555547415</g:id>
@@ -43016,6 +43064,7 @@
       <g:product_type>Especiais</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>4:20</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555547420</g:id>
@@ -43039,6 +43088,7 @@
       <g:product_type>Especiais</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>4:20</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555548673</g:id>
@@ -44260,7 +44310,7 @@
       <g:title>Meia Strip Lost Branco (39/43 / Branco)</g:title>
       <g:description>Ref.: 21116601-BBB Trazendo conforto para qualquer atividade do seu dia a dia, desde o trampo até a sessão de skate, as meias LOST são desenvolvidas em tecido leve e elástico de altíssima qualidade para serem duráveis e flexíveis. A qualidade de nossos produtos é testada e aprovada!. Especificações do produto: · Meia cano alto com 20cm. · Logo Lost na parte traseira. · Listra bicolor superior.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>10</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>9</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>39.00 BRL</g:price>
       
@@ -49995,6 +50045,7 @@
       <g:product_type>Jaquetas</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>4:20</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555566085</g:id>
@@ -50021,6 +50072,7 @@
       <g:product_type>Jaquetas</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>4:20</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555566087</g:id>
@@ -50047,6 +50099,7 @@
       <g:product_type>Jaquetas</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>4:20</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555566089</g:id>
@@ -50073,6 +50126,7 @@
       <g:product_type>Jaquetas</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>4:20</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555566244</g:id>
@@ -51219,6 +51273,7 @@
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Lost Enterprises</g:product_type>
       <g:product_type>Zumbis</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555568762</g:id>
@@ -51243,6 +51298,7 @@
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Lost Enterprises</g:product_type>
       <g:product_type>Zumbis</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555568763</g:id>
@@ -51267,6 +51323,7 @@
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Lost Enterprises</g:product_type>
       <g:product_type>Zumbis</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555568765</g:id>
@@ -51291,6 +51348,7 @@
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Lost Enterprises</g:product_type>
       <g:product_type>Zumbis</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555568794</g:id>
@@ -51315,6 +51373,7 @@
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Lost Enterprises</g:product_type>
       <g:product_type>Zumbis</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555568795</g:id>
@@ -51339,6 +51398,7 @@
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Lost Enterprises</g:product_type>
       <g:product_type>Zumbis</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555568797</g:id>
@@ -51363,6 +51423,7 @@
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Lost Enterprises</g:product_type>
       <g:product_type>Zumbis</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555568798</g:id>
@@ -51387,6 +51448,7 @@
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Lost Enterprises</g:product_type>
       <g:product_type>Zumbis</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555568881</g:id>
@@ -51411,6 +51473,7 @@
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Lost Enterprises</g:product_type>
       <g:product_type>Zumbis</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555568887</g:id>
@@ -51435,6 +51498,7 @@
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Lost Enterprises</g:product_type>
       <g:product_type>Zumbis</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555568892</g:id>
@@ -51459,6 +51523,7 @@
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Lost Enterprises</g:product_type>
       <g:product_type>Zumbis</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555568901</g:id>
@@ -51483,6 +51548,7 @@
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Lost Enterprises</g:product_type>
       <g:product_type>Zumbis</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555568970</g:id>
@@ -54756,6 +54822,7 @@
       <g:product_type>Especiais</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Zumbis</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555573376</g:id>
@@ -54779,6 +54846,7 @@
       <g:product_type>Especiais</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Zumbis</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555573380</g:id>
@@ -54802,6 +54870,7 @@
       <g:product_type>Especiais</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Zumbis</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555573381</g:id>
@@ -54825,6 +54894,7 @@
       <g:product_type>Especiais</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Zumbis</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555573390</g:id>
@@ -54848,6 +54918,7 @@
       <g:product_type>Especiais</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Zumbis</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555573394</g:id>
@@ -54871,6 +54942,7 @@
       <g:product_type>Especiais</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Zumbis</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555573406</g:id>
@@ -54894,6 +54966,7 @@
       <g:product_type>Especiais</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Zumbis</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555573408</g:id>
@@ -54917,6 +54990,7 @@
       <g:product_type>Especiais</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Zumbis</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555573454</g:id>
@@ -57872,6 +57946,8 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555575357</g:id>
@@ -57894,6 +57970,8 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555575359</g:id>
@@ -57916,6 +57994,8 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555575360</g:id>
@@ -57938,6 +58018,8 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555575388</g:id>
@@ -57960,6 +58042,8 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555575393</g:id>
@@ -57982,6 +58066,8 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555575395</g:id>
@@ -58004,6 +58090,8 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555575397</g:id>
@@ -58026,6 +58114,8 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555575436</g:id>
@@ -62651,7 +62741,7 @@
       <g:title>T-Shirt Wizard Chumbo Estanho (G / Chumbo Estanho Most)</g:title>
       <g:description>Ref.: 22622808-CBE Especificações do produto: · Linha Lost Funny. · Modelagem regular. · Estampa Lost Funny no peito lateral. · Reforço de gola. · Etiqueta aplicada na barra frontal. · Tag personalizado Lost. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>6</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>5</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>139.00 BRL</g:price>
       
@@ -69320,8 +69410,8 @@
       <g:id>1555586498</g:id>
       <g:title>Bone 5 Pannels Lost Up Tapioca (U / Tapioca)</g:title>
       <g:description>Ref.: 22516504-TAP Especificações do produto: · Linha lost Branding. · Modelagem five pannel aba flexível. · Estampa na parte superior. · Aba curva aberto. · Etiqueta caps lateral a 2cm da abertura. · fechamento em velcro. · Tag personalizado LOST. Composição: 100% Algodão.</g:description>
-      <g:availability>out of stock</g:availability>
-      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
+      <g:availability>in stock</g:availability>
+      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>149.00 BRL</g:price>
       
@@ -78786,6 +78876,94 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+    </item>
+    <item>
+      <g:id>1618600135</g:id>
+      <g:title>Tshirt Liberdade Desconhece Destino Xeque Preto (P / Preto)</g:title>
+      <g:description>Ref.: 22723014-PPP SUMMER 26/27 - LOST X XEQUE MATE LOST e Xeque Mate se unem pela conexão entre duas marcas que nasceram de movimentos autênticos e compartilham os mesmos valores: liberdade, criatividade e atitude. Presentes nas ruas, nas praias e nos encontros que movimentam a cultura, a parceria conecta música, esporte e entretenimento para criar novas experiências. Mais do que uma collab, LOST X Xeque Mate celebra a cultura e o lifestyle que conectam suas comunidades. Linha LOST X Xeque Mate Modelagem regular Estampa Sheep Mate no peito lateral Reforço de gola do próprio tecido de ombro a ombro Gola 2 cm Laterais com overloque interno Etiqueta LOST XM aplicada acima da barra nas costas Estampa Sheep LOST Lifestyle nas costas Tag descansa-copo LOST X Xeque Mate Composição: 100% algodão Meia malha penteada 30/1</g:description>
+      <g:availability>in stock</g:availability>
+      <g:quantity_to_sell_on_facebook>3</g:quantity_to_sell_on_facebook>
+      <g:condition>new</g:condition>
+      <g:price>159.00 BRL</g:price>
+      
+      <g:link>https://www.lost.com.br/produtos/tshirt-liberdade-desconhece-destino-xequ-preto?variant=1618600135</g:link>
+      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/22723014_preto_1-13477589114ae9210b17919820099566-1024-1024.jpg</g:image_link>
+      <g:brand>Lost</g:brand>
+      <g:item_group_id>374118997</g:item_group_id>
+      <g:size>P</g:size>
+      <g:color>Preto</g:color>
+      <g:gtin>7900121147833</g:gtin>
+      
+      <g:product_type>Shop</g:product_type>
+      <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Xeque Mate</g:product_type>
+    </item>
+    <item>
+      <g:id>1618600146</g:id>
+      <g:title>Tshirt Liberdade Desconhece Destino Xeque Preto (M / Preto)</g:title>
+      <g:description>Ref.: 22723014-PPP SUMMER 26/27 - LOST X XEQUE MATE LOST e Xeque Mate se unem pela conexão entre duas marcas que nasceram de movimentos autênticos e compartilham os mesmos valores: liberdade, criatividade e atitude. Presentes nas ruas, nas praias e nos encontros que movimentam a cultura, a parceria conecta música, esporte e entretenimento para criar novas experiências. Mais do que uma collab, LOST X Xeque Mate celebra a cultura e o lifestyle que conectam suas comunidades. Linha LOST X Xeque Mate Modelagem regular Estampa Sheep Mate no peito lateral Reforço de gola do próprio tecido de ombro a ombro Gola 2 cm Laterais com overloque interno Etiqueta LOST XM aplicada acima da barra nas costas Estampa Sheep LOST Lifestyle nas costas Tag descansa-copo LOST X Xeque Mate Composição: 100% algodão Meia malha penteada 30/1</g:description>
+      <g:availability>in stock</g:availability>
+      <g:quantity_to_sell_on_facebook>6</g:quantity_to_sell_on_facebook>
+      <g:condition>new</g:condition>
+      <g:price>159.00 BRL</g:price>
+      
+      <g:link>https://www.lost.com.br/produtos/tshirt-liberdade-desconhece-destino-xequ-preto?variant=1618600146</g:link>
+      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/22723014_preto_1-13477589114ae9210b17919820099566-1024-1024.jpg</g:image_link>
+      <g:brand>Lost</g:brand>
+      <g:item_group_id>374118997</g:item_group_id>
+      <g:size>M</g:size>
+      <g:color>Preto</g:color>
+      <g:gtin>7900121147840</g:gtin>
+      
+      <g:product_type>Shop</g:product_type>
+      <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Xeque Mate</g:product_type>
+    </item>
+    <item>
+      <g:id>1618600155</g:id>
+      <g:title>Tshirt Liberdade Desconhece Destino Xeque Preto (G / Preto)</g:title>
+      <g:description>Ref.: 22723014-PPP SUMMER 26/27 - LOST X XEQUE MATE LOST e Xeque Mate se unem pela conexão entre duas marcas que nasceram de movimentos autênticos e compartilham os mesmos valores: liberdade, criatividade e atitude. Presentes nas ruas, nas praias e nos encontros que movimentam a cultura, a parceria conecta música, esporte e entretenimento para criar novas experiências. Mais do que uma collab, LOST X Xeque Mate celebra a cultura e o lifestyle que conectam suas comunidades. Linha LOST X Xeque Mate Modelagem regular Estampa Sheep Mate no peito lateral Reforço de gola do próprio tecido de ombro a ombro Gola 2 cm Laterais com overloque interno Etiqueta LOST XM aplicada acima da barra nas costas Estampa Sheep LOST Lifestyle nas costas Tag descansa-copo LOST X Xeque Mate Composição: 100% algodão Meia malha penteada 30/1</g:description>
+      <g:availability>in stock</g:availability>
+      <g:quantity_to_sell_on_facebook>8</g:quantity_to_sell_on_facebook>
+      <g:condition>new</g:condition>
+      <g:price>159.00 BRL</g:price>
+      
+      <g:link>https://www.lost.com.br/produtos/tshirt-liberdade-desconhece-destino-xequ-preto?variant=1618600155</g:link>
+      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/22723014_preto_1-13477589114ae9210b17919820099566-1024-1024.jpg</g:image_link>
+      <g:brand>Lost</g:brand>
+      <g:item_group_id>374118997</g:item_group_id>
+      <g:size>G</g:size>
+      <g:color>Preto</g:color>
+      <g:gtin>7900121137049</g:gtin>
+      
+      <g:product_type>Shop</g:product_type>
+      <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Xeque Mate</g:product_type>
+    </item>
+    <item>
+      <g:id>1618600167</g:id>
+      <g:title>Tshirt Liberdade Desconhece Destino Xeque Preto (GG / Preto)</g:title>
+      <g:description>Ref.: 22723014-PPP SUMMER 26/27 - LOST X XEQUE MATE LOST e Xeque Mate se unem pela conexão entre duas marcas que nasceram de movimentos autênticos e compartilham os mesmos valores: liberdade, criatividade e atitude. Presentes nas ruas, nas praias e nos encontros que movimentam a cultura, a parceria conecta música, esporte e entretenimento para criar novas experiências. Mais do que uma collab, LOST X Xeque Mate celebra a cultura e o lifestyle que conectam suas comunidades. Linha LOST X Xeque Mate Modelagem regular Estampa Sheep Mate no peito lateral Reforço de gola do próprio tecido de ombro a ombro Gola 2 cm Laterais com overloque interno Etiqueta LOST XM aplicada acima da barra nas costas Estampa Sheep LOST Lifestyle nas costas Tag descansa-copo LOST X Xeque Mate Composição: 100% algodão Meia malha penteada 30/1</g:description>
+      <g:availability>in stock</g:availability>
+      <g:quantity_to_sell_on_facebook>6</g:quantity_to_sell_on_facebook>
+      <g:condition>new</g:condition>
+      <g:price>159.00 BRL</g:price>
+      
+      <g:link>https://www.lost.com.br/produtos/tshirt-liberdade-desconhece-destino-xequ-preto?variant=1618600167</g:link>
+      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/22723014_preto_1-13477589114ae9210b17919820099566-1024-1024.jpg</g:image_link>
+      <g:brand>Lost</g:brand>
+      <g:item_group_id>374118997</g:item_group_id>
+      <g:size>GG</g:size>
+      <g:color>Preto</g:color>
+      <g:gtin>7900121147857</g:gtin>
+      
+      <g:product_type>Shop</g:product_type>
+      <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Xeque Mate</g:product_type>
     </item>
   </channel>
 </rss>

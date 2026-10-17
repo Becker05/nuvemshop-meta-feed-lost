@@ -14466,7 +14466,7 @@
       <g:title>T-Shirt Rick And Morty Shock Preto (M / Preto Tap)</g:title>
       <g:description>Ref.: 22623008-PPP Especificações do produto: · Linha Rick and Morty. · Modelagem regular fit. · Estampa Rick and Morty no peito lateral. · Reforço de gola. · Estampa Rick and Morty X Lost no peito lateral direito. · Etiqueta clips costurada na barra frontal. · Etiqueta Rick and Morty aplicada acima da barra costas. · Tag personalizado Rick and Morty X Lost. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>41</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>40</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>179.00 BRL</g:price>
       
@@ -80304,7 +80304,8 @@
       <g:color>Preto</g:color>
       <g:gtin>7900121146355</g:gtin>
       
-      
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Lost Hours</g:product_type>
     </item>
     <item>
       <g:id>1620941216</g:id>
@@ -80323,7 +80324,8 @@
       <g:color>Preto</g:color>
       <g:gtin>7900121146362</g:gtin>
       
-      
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Lost Hours</g:product_type>
     </item>
     <item>
       <g:id>1620941217</g:id>
@@ -80342,7 +80344,8 @@
       <g:color>Preto</g:color>
       <g:gtin>7900121115276</g:gtin>
       
-      
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Lost Hours</g:product_type>
     </item>
     <item>
       <g:id>1620941218</g:id>
@@ -80361,7 +80364,8 @@
       <g:color>Preto</g:color>
       <g:gtin>7900121146379</g:gtin>
       
-      
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Lost Hours</g:product_type>
     </item>
     <item>
       <g:id>1620941302</g:id>
@@ -80382,6 +80386,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Lost Hours</g:product_type>
     </item>
     <item>
       <g:id>1620941313</g:id>
@@ -80402,6 +80408,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Lost Hours</g:product_type>
     </item>
     <item>
       <g:id>1620941321</g:id>
@@ -80422,6 +80430,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Lost Hours</g:product_type>
     </item>
     <item>
       <g:id>1620941391</g:id>
@@ -80442,6 +80452,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Lost Hours</g:product_type>
     </item>
     <item>
       <g:id>1620941392</g:id>
@@ -80462,6 +80474,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Lost Hours</g:product_type>
     </item>
     <item>
       <g:id>1620941393</g:id>
@@ -80482,6 +80496,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Lost Hours</g:product_type>
     </item>
     <item>
       <g:id>1620941395</g:id>
@@ -80502,6 +80518,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Lost Hours</g:product_type>
     </item>
     <item>
       <g:id>1620941464</g:id>
@@ -80522,6 +80540,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Lost Hours</g:product_type>
     </item>
     <item>
       <g:id>1620941468</g:id>
@@ -80542,6 +80562,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Lost Hours</g:product_type>
     </item>
     <item>
       <g:id>1620941469</g:id>
@@ -80562,6 +80584,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Lost Hours</g:product_type>
     </item>
     <item>
       <g:id>1620941471</g:id>
@@ -80582,6 +80606,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Lost Hours</g:product_type>
     </item>
     <item>
       <g:id>1620944589</g:id>
@@ -80603,6 +80629,8 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Lost Hours</g:product_type>
     </item>
     <item>
       <g:id>1620944591</g:id>
@@ -80624,6 +80652,8 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Lost Hours</g:product_type>
     </item>
     <item>
       <g:id>1620944593</g:id>
@@ -80645,6 +80675,8 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Lost Hours</g:product_type>
     </item>
     <item>
       <g:id>1620944594</g:id>
@@ -80666,6 +80698,8 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Lost Hours</g:product_type>
     </item>
     <item>
       <g:id>1620944642</g:id>
@@ -80686,6 +80720,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Lost Hours</g:product_type>
     </item>
     <item>
       <g:id>1620944644</g:id>
@@ -80706,6 +80742,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Lost Hours</g:product_type>
     </item>
     <item>
       <g:id>1620944645</g:id>
@@ -80726,6 +80764,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Lost Hours</g:product_type>
     </item>
     <item>
       <g:id>1620944648</g:id>
@@ -80746,6 +80786,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Lost Hours</g:product_type>
     </item>
     <item>
       <g:id>1620944698</g:id>
@@ -80767,6 +80809,8 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Lost Hours</g:product_type>
     </item>
     <item>
       <g:id>1620944699</g:id>
@@ -80788,6 +80832,8 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Lost Hours</g:product_type>
     </item>
     <item>
       <g:id>1620944700</g:id>
@@ -80809,6 +80855,8 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Lost Hours</g:product_type>
     </item>
     <item>
       <g:id>1620944702</g:id>
@@ -80830,6 +80878,8 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Lost Hours</g:product_type>
     </item>
     <item>
       <g:id>1620944843</g:id>
@@ -80849,6 +80899,8 @@
       <g:gtin>7900121148625</g:gtin>
       
       <g:product_type>Shop</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Lost Hours</g:product_type>
     </item>
     <item>
       <g:id>1620944847</g:id>
@@ -80868,6 +80920,8 @@
       <g:gtin>7900121148632</g:gtin>
       
       <g:product_type>Shop</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Lost Hours</g:product_type>
     </item>
     <item>
       <g:id>1620944856</g:id>
@@ -80887,6 +80941,8 @@
       <g:gtin>7900121079547</g:gtin>
       
       <g:product_type>Shop</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Lost Hours</g:product_type>
     </item>
     <item>
       <g:id>1620944869</g:id>
@@ -80906,6 +80962,254 @@
       <g:gtin>7900121148649</g:gtin>
       
       <g:product_type>Shop</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Lost Hours</g:product_type>
+    </item>
+    <item>
+      <g:id>1620946832</g:id>
+      <g:title>Boardshorts Crew Lost Longo Preto (38 / Preto)</g:title>
+      <g:description>Ref.: 22724102L-PPP Boardshort LOST Crew Comprido Verão 26/27 | Drop WE ARE LOST Estampa LOST Crew sobre fundo preto. Tecido Ergonomic Flex New, 93% poliéster e 7% elastano. Cós anatômico com ajustadores e cadarço, vista em neoprene e bolso lateral com zíper e forro em tela. Tamanhos: 38 ao 48. Medidas dos detalhes: cós de 4,5 cm; bolso com 17 cm de largura e zíper de 15 cm. Ref.: 2272.4102L.</g:description>
+      <g:availability>in stock</g:availability>
+      <g:quantity_to_sell_on_facebook>2</g:quantity_to_sell_on_facebook>
+      <g:condition>new</g:condition>
+      <g:price>359.00 BRL</g:price>
+      
+      <g:link>https://www.lost.com.br/produtos/boardshorts-crew-lost-longo-preto?variant=1620946832</g:link>
+      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/22724102l_preto_1-1fca216ea1c2c4ef6f17922150516714-1024-1024.jpg</g:image_link>
+      <g:brand>Lost</g:brand>
+      <g:item_group_id>374822884</g:item_group_id>
+      <g:size>38</g:size>
+      <g:color>Preto</g:color>
+      <g:gtin>7900121145662</g:gtin>
+      
+      <g:product_type>Shop</g:product_type>
+      <g:product_type>Bermudas</g:product_type>
+      <g:product_type>Shorts</g:product_type>
+    </item>
+    <item>
+      <g:id>1620946836</g:id>
+      <g:title>Boardshorts Crew Lost Longo Preto (40 / Preto)</g:title>
+      <g:description>Ref.: 22724102L-PPP Boardshort LOST Crew Comprido Verão 26/27 | Drop WE ARE LOST Estampa LOST Crew sobre fundo preto. Tecido Ergonomic Flex New, 93% poliéster e 7% elastano. Cós anatômico com ajustadores e cadarço, vista em neoprene e bolso lateral com zíper e forro em tela. Tamanhos: 38 ao 48. Medidas dos detalhes: cós de 4,5 cm; bolso com 17 cm de largura e zíper de 15 cm. Ref.: 2272.4102L.</g:description>
+      <g:availability>in stock</g:availability>
+      <g:quantity_to_sell_on_facebook>6</g:quantity_to_sell_on_facebook>
+      <g:condition>new</g:condition>
+      <g:price>359.00 BRL</g:price>
+      
+      <g:link>https://www.lost.com.br/produtos/boardshorts-crew-lost-longo-preto?variant=1620946836</g:link>
+      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/22724102l_preto_1-1fca216ea1c2c4ef6f17922150516714-1024-1024.jpg</g:image_link>
+      <g:brand>Lost</g:brand>
+      <g:item_group_id>374822884</g:item_group_id>
+      <g:size>40</g:size>
+      <g:color>Preto</g:color>
+      <g:gtin>7900121145679</g:gtin>
+      
+      <g:product_type>Shop</g:product_type>
+      <g:product_type>Bermudas</g:product_type>
+      <g:product_type>Shorts</g:product_type>
+    </item>
+    <item>
+      <g:id>1620946841</g:id>
+      <g:title>Boardshorts Crew Lost Longo Preto (42 / Preto)</g:title>
+      <g:description>Ref.: 22724102L-PPP Boardshort LOST Crew Comprido Verão 26/27 | Drop WE ARE LOST Estampa LOST Crew sobre fundo preto. Tecido Ergonomic Flex New, 93% poliéster e 7% elastano. Cós anatômico com ajustadores e cadarço, vista em neoprene e bolso lateral com zíper e forro em tela. Tamanhos: 38 ao 48. Medidas dos detalhes: cós de 4,5 cm; bolso com 17 cm de largura e zíper de 15 cm. Ref.: 2272.4102L.</g:description>
+      <g:availability>in stock</g:availability>
+      <g:quantity_to_sell_on_facebook>18</g:quantity_to_sell_on_facebook>
+      <g:condition>new</g:condition>
+      <g:price>359.00 BRL</g:price>
+      
+      <g:link>https://www.lost.com.br/produtos/boardshorts-crew-lost-longo-preto?variant=1620946841</g:link>
+      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/22724102l_preto_1-1fca216ea1c2c4ef6f17922150516714-1024-1024.jpg</g:image_link>
+      <g:brand>Lost</g:brand>
+      <g:item_group_id>374822884</g:item_group_id>
+      <g:size>42</g:size>
+      <g:color>Preto</g:color>
+      <g:gtin>7900121123684</g:gtin>
+      
+      <g:product_type>Shop</g:product_type>
+      <g:product_type>Bermudas</g:product_type>
+      <g:product_type>Shorts</g:product_type>
+    </item>
+    <item>
+      <g:id>1620946845</g:id>
+      <g:title>Boardshorts Crew Lost Longo Preto (44 / Preto)</g:title>
+      <g:description>Ref.: 22724102L-PPP Boardshort LOST Crew Comprido Verão 26/27 | Drop WE ARE LOST Estampa LOST Crew sobre fundo preto. Tecido Ergonomic Flex New, 93% poliéster e 7% elastano. Cós anatômico com ajustadores e cadarço, vista em neoprene e bolso lateral com zíper e forro em tela. Tamanhos: 38 ao 48. Medidas dos detalhes: cós de 4,5 cm; bolso com 17 cm de largura e zíper de 15 cm. Ref.: 2272.4102L.</g:description>
+      <g:availability>in stock</g:availability>
+      <g:quantity_to_sell_on_facebook>7</g:quantity_to_sell_on_facebook>
+      <g:condition>new</g:condition>
+      <g:price>359.00 BRL</g:price>
+      
+      <g:link>https://www.lost.com.br/produtos/boardshorts-crew-lost-longo-preto?variant=1620946845</g:link>
+      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/22724102l_preto_1-1fca216ea1c2c4ef6f17922150516714-1024-1024.jpg</g:image_link>
+      <g:brand>Lost</g:brand>
+      <g:item_group_id>374822884</g:item_group_id>
+      <g:size>44</g:size>
+      <g:color>Preto</g:color>
+      <g:gtin>7900121145686</g:gtin>
+      
+      <g:product_type>Shop</g:product_type>
+      <g:product_type>Bermudas</g:product_type>
+      <g:product_type>Shorts</g:product_type>
+    </item>
+    <item>
+      <g:id>1620946847</g:id>
+      <g:title>Boardshorts Crew Lost Longo Preto (46 / Preto)</g:title>
+      <g:description>Ref.: 22724102L-PPP Boardshort LOST Crew Comprido Verão 26/27 | Drop WE ARE LOST Estampa LOST Crew sobre fundo preto. Tecido Ergonomic Flex New, 93% poliéster e 7% elastano. Cós anatômico com ajustadores e cadarço, vista em neoprene e bolso lateral com zíper e forro em tela. Tamanhos: 38 ao 48. Medidas dos detalhes: cós de 4,5 cm; bolso com 17 cm de largura e zíper de 15 cm. Ref.: 2272.4102L.</g:description>
+      <g:availability>in stock</g:availability>
+      <g:quantity_to_sell_on_facebook>2</g:quantity_to_sell_on_facebook>
+      <g:condition>new</g:condition>
+      <g:price>359.00 BRL</g:price>
+      
+      <g:link>https://www.lost.com.br/produtos/boardshorts-crew-lost-longo-preto?variant=1620946847</g:link>
+      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/22724102l_preto_1-1fca216ea1c2c4ef6f17922150516714-1024-1024.jpg</g:image_link>
+      <g:brand>Lost</g:brand>
+      <g:item_group_id>374822884</g:item_group_id>
+      <g:size>46</g:size>
+      <g:color>Preto</g:color>
+      <g:gtin>7900121145693</g:gtin>
+      
+      <g:product_type>Shop</g:product_type>
+      <g:product_type>Bermudas</g:product_type>
+      <g:product_type>Shorts</g:product_type>
+    </item>
+    <item>
+      <g:id>1620946853</g:id>
+      <g:title>Boardshorts Crew Lost Longo Preto (48 / Preto)</g:title>
+      <g:description>Ref.: 22724102L-PPP Boardshort LOST Crew Comprido Verão 26/27 | Drop WE ARE LOST Estampa LOST Crew sobre fundo preto. Tecido Ergonomic Flex New, 93% poliéster e 7% elastano. Cós anatômico com ajustadores e cadarço, vista em neoprene e bolso lateral com zíper e forro em tela. Tamanhos: 38 ao 48. Medidas dos detalhes: cós de 4,5 cm; bolso com 17 cm de largura e zíper de 15 cm. Ref.: 2272.4102L.</g:description>
+      <g:availability>in stock</g:availability>
+      <g:quantity_to_sell_on_facebook>2</g:quantity_to_sell_on_facebook>
+      <g:condition>new</g:condition>
+      <g:price>359.00 BRL</g:price>
+      
+      <g:link>https://www.lost.com.br/produtos/boardshorts-crew-lost-longo-preto?variant=1620946853</g:link>
+      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/22724102l_preto_1-1fca216ea1c2c4ef6f17922150516714-1024-1024.jpg</g:image_link>
+      <g:brand>Lost</g:brand>
+      <g:item_group_id>374822884</g:item_group_id>
+      <g:size>48</g:size>
+      <g:color>Preto</g:color>
+      <g:gtin>7900121145709</g:gtin>
+      
+      <g:product_type>Shop</g:product_type>
+      <g:product_type>Bermudas</g:product_type>
+      <g:product_type>Shorts</g:product_type>
+    </item>
+    <item>
+      <g:id>1620946928</g:id>
+      <g:title>Boardwalk We Are Lost Preto (38 / Preto)</g:title>
+      <g:description>Ref.: 22727101-PPP Bermuda Boardwalk LOST We Are Lost Verão 26/27 | Drop WE ARE LOST Modelo comprido em tecido Hub Flex, 95% poliéster e 5% elastano. Cós anatômico com passantes, botão e zíper. Bolso lateral com zíper e forro em tela, bolso traseiro embutido e logo LOST termocolante. Cores: preto e chumbo. Tamanhos: 38 ao 48. Medidas dos detalhes: cós de 4,5 cm; bolso lateral com 17 cm de largura e zíper de 15 cm. Ref.: 2272.7101.</g:description>
+      <g:availability>in stock</g:availability>
+      <g:quantity_to_sell_on_facebook>4</g:quantity_to_sell_on_facebook>
+      <g:condition>new</g:condition>
+      <g:price>399.00 BRL</g:price>
+      
+      <g:link>https://www.lost.com.br/produtos/boardwalk-we-are-lost-preto?variant=1620946928</g:link>
+      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/22727101_preto_1-2af6ac7872514857d417922150943838-1024-1024.jpg</g:image_link>
+      <g:brand>Lost</g:brand>
+      <g:item_group_id>374822915</g:item_group_id>
+      <g:size>38</g:size>
+      <g:color>Preto</g:color>
+      <g:gtin>7900121145716</g:gtin>
+      
+      <g:product_type>Shop</g:product_type>
+      <g:product_type>Bermudas</g:product_type>
+    </item>
+    <item>
+      <g:id>1620946929</g:id>
+      <g:title>Boardwalk We Are Lost Preto (40 / Preto)</g:title>
+      <g:description>Ref.: 22727101-PPP Bermuda Boardwalk LOST We Are Lost Verão 26/27 | Drop WE ARE LOST Modelo comprido em tecido Hub Flex, 95% poliéster e 5% elastano. Cós anatômico com passantes, botão e zíper. Bolso lateral com zíper e forro em tela, bolso traseiro embutido e logo LOST termocolante. Cores: preto e chumbo. Tamanhos: 38 ao 48. Medidas dos detalhes: cós de 4,5 cm; bolso lateral com 17 cm de largura e zíper de 15 cm. Ref.: 2272.7101.</g:description>
+      <g:availability>in stock</g:availability>
+      <g:quantity_to_sell_on_facebook>9</g:quantity_to_sell_on_facebook>
+      <g:condition>new</g:condition>
+      <g:price>399.00 BRL</g:price>
+      
+      <g:link>https://www.lost.com.br/produtos/boardwalk-we-are-lost-preto?variant=1620946929</g:link>
+      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/22727101_preto_1-2af6ac7872514857d417922150943838-1024-1024.jpg</g:image_link>
+      <g:brand>Lost</g:brand>
+      <g:item_group_id>374822915</g:item_group_id>
+      <g:size>40</g:size>
+      <g:color>Preto</g:color>
+      <g:gtin>7900121145723</g:gtin>
+      
+      <g:product_type>Shop</g:product_type>
+      <g:product_type>Bermudas</g:product_type>
+    </item>
+    <item>
+      <g:id>1620946930</g:id>
+      <g:title>Boardwalk We Are Lost Preto (42 / Preto)</g:title>
+      <g:description>Ref.: 22727101-PPP Bermuda Boardwalk LOST We Are Lost Verão 26/27 | Drop WE ARE LOST Modelo comprido em tecido Hub Flex, 95% poliéster e 5% elastano. Cós anatômico com passantes, botão e zíper. Bolso lateral com zíper e forro em tela, bolso traseiro embutido e logo LOST termocolante. Cores: preto e chumbo. Tamanhos: 38 ao 48. Medidas dos detalhes: cós de 4,5 cm; bolso lateral com 17 cm de largura e zíper de 15 cm. Ref.: 2272.7101.</g:description>
+      <g:availability>in stock</g:availability>
+      <g:quantity_to_sell_on_facebook>16</g:quantity_to_sell_on_facebook>
+      <g:condition>new</g:condition>
+      <g:price>399.00 BRL</g:price>
+      
+      <g:link>https://www.lost.com.br/produtos/boardwalk-we-are-lost-preto?variant=1620946930</g:link>
+      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/22727101_preto_1-2af6ac7872514857d417922150943838-1024-1024.jpg</g:image_link>
+      <g:brand>Lost</g:brand>
+      <g:item_group_id>374822915</g:item_group_id>
+      <g:size>42</g:size>
+      <g:color>Preto</g:color>
+      <g:gtin>7900121123738</g:gtin>
+      
+      <g:product_type>Shop</g:product_type>
+      <g:product_type>Bermudas</g:product_type>
+    </item>
+    <item>
+      <g:id>1620946931</g:id>
+      <g:title>Boardwalk We Are Lost Preto (44 / Preto)</g:title>
+      <g:description>Ref.: 22727101-PPP Bermuda Boardwalk LOST We Are Lost Verão 26/27 | Drop WE ARE LOST Modelo comprido em tecido Hub Flex, 95% poliéster e 5% elastano. Cós anatômico com passantes, botão e zíper. Bolso lateral com zíper e forro em tela, bolso traseiro embutido e logo LOST termocolante. Cores: preto e chumbo. Tamanhos: 38 ao 48. Medidas dos detalhes: cós de 4,5 cm; bolso lateral com 17 cm de largura e zíper de 15 cm. Ref.: 2272.7101.</g:description>
+      <g:availability>in stock</g:availability>
+      <g:quantity_to_sell_on_facebook>10</g:quantity_to_sell_on_facebook>
+      <g:condition>new</g:condition>
+      <g:price>399.00 BRL</g:price>
+      
+      <g:link>https://www.lost.com.br/produtos/boardwalk-we-are-lost-preto?variant=1620946931</g:link>
+      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/22727101_preto_1-2af6ac7872514857d417922150943838-1024-1024.jpg</g:image_link>
+      <g:brand>Lost</g:brand>
+      <g:item_group_id>374822915</g:item_group_id>
+      <g:size>44</g:size>
+      <g:color>Preto</g:color>
+      <g:gtin>7900121145730</g:gtin>
+      
+      <g:product_type>Shop</g:product_type>
+      <g:product_type>Bermudas</g:product_type>
+    </item>
+    <item>
+      <g:id>1620946932</g:id>
+      <g:title>Boardwalk We Are Lost Preto (46 / Preto)</g:title>
+      <g:description>Ref.: 22727101-PPP Bermuda Boardwalk LOST We Are Lost Verão 26/27 | Drop WE ARE LOST Modelo comprido em tecido Hub Flex, 95% poliéster e 5% elastano. Cós anatômico com passantes, botão e zíper. Bolso lateral com zíper e forro em tela, bolso traseiro embutido e logo LOST termocolante. Cores: preto e chumbo. Tamanhos: 38 ao 48. Medidas dos detalhes: cós de 4,5 cm; bolso lateral com 17 cm de largura e zíper de 15 cm. Ref.: 2272.7101.</g:description>
+      <g:availability>in stock</g:availability>
+      <g:quantity_to_sell_on_facebook>9</g:quantity_to_sell_on_facebook>
+      <g:condition>new</g:condition>
+      <g:price>399.00 BRL</g:price>
+      
+      <g:link>https://www.lost.com.br/produtos/boardwalk-we-are-lost-preto?variant=1620946932</g:link>
+      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/22727101_preto_1-2af6ac7872514857d417922150943838-1024-1024.jpg</g:image_link>
+      <g:brand>Lost</g:brand>
+      <g:item_group_id>374822915</g:item_group_id>
+      <g:size>46</g:size>
+      <g:color>Preto</g:color>
+      <g:gtin>7900121145747</g:gtin>
+      
+      <g:product_type>Shop</g:product_type>
+      <g:product_type>Bermudas</g:product_type>
+    </item>
+    <item>
+      <g:id>1620946933</g:id>
+      <g:title>Boardwalk We Are Lost Preto (48 / Preto)</g:title>
+      <g:description>Ref.: 22727101-PPP Bermuda Boardwalk LOST We Are Lost Verão 26/27 | Drop WE ARE LOST Modelo comprido em tecido Hub Flex, 95% poliéster e 5% elastano. Cós anatômico com passantes, botão e zíper. Bolso lateral com zíper e forro em tela, bolso traseiro embutido e logo LOST termocolante. Cores: preto e chumbo. Tamanhos: 38 ao 48. Medidas dos detalhes: cós de 4,5 cm; bolso lateral com 17 cm de largura e zíper de 15 cm. Ref.: 2272.7101.</g:description>
+      <g:availability>in stock</g:availability>
+      <g:quantity_to_sell_on_facebook>4</g:quantity_to_sell_on_facebook>
+      <g:condition>new</g:condition>
+      <g:price>399.00 BRL</g:price>
+      
+      <g:link>https://www.lost.com.br/produtos/boardwalk-we-are-lost-preto?variant=1620946933</g:link>
+      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/22727101_preto_1-2af6ac7872514857d417922150943838-1024-1024.jpg</g:image_link>
+      <g:brand>Lost</g:brand>
+      <g:item_group_id>374822915</g:item_group_id>
+      <g:size>48</g:size>
+      <g:color>Preto</g:color>
+      <g:gtin>7900121145754</g:gtin>
+      
+      <g:product_type>Shop</g:product_type>
+      <g:product_type>Bermudas</g:product_type>
     </item>
   </channel>
 </rss>

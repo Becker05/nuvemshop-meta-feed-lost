@@ -2042,6 +2042,8 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555326033</g:id>
@@ -2063,6 +2065,8 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555326046</g:id>
@@ -2084,6 +2088,8 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555326063</g:id>
@@ -2105,6 +2111,8 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555326521</g:id>
@@ -2130,6 +2138,7 @@
       <g:product_type>CAMISETAS</g:product_type>
       <g:product_type>T-shirts</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555326555</g:id>
@@ -2155,6 +2164,7 @@
       <g:product_type>CAMISETAS</g:product_type>
       <g:product_type>T-shirts</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555326580</g:id>
@@ -2180,6 +2190,7 @@
       <g:product_type>CAMISETAS</g:product_type>
       <g:product_type>T-shirts</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555326598</g:id>
@@ -2205,6 +2216,7 @@
       <g:product_type>CAMISETAS</g:product_type>
       <g:product_type>T-shirts</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555327404</g:id>
@@ -11460,7 +11472,7 @@
       <g:title>Boardshorts Lost Ent. Preto (38 / Preto)</g:title>
       <g:description>Ref.: 22514101-PPP Especificações do produto: · Linha Lost branding. · Modelagem comprido 53cm. · Estampa full print lost enterprises. · Bolso traseiro. · Etiqueta termocolante saturno aplicada na barra lateral. · Etiqueta aplicada no bolso traseiro. · Cós interno velcro. · Ilhós com cadarço ajustador. · Tag personalizado Lost. Composição: 93% Poliéster. 07% Elastano.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>2</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>3</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>259.00 BRL</g:price>
       
@@ -11586,7 +11598,7 @@
       <g:title>Boardshorts Lost Ent. Tapioca (38 / Tapioca)</g:title>
       <g:description>Ref.: 22514101-TAP Especificações do produto: · Linha Lost branding. · Modelagem comprido 53cm. · Estampa full print lost enterprises. · Bolso traseiro. · Etiqueta termocolante saturno aplicada na barra lateral. · Etiqueta aplicada no bolso traseiro. · Cós interno velcro. · Ilhós com cadarço ajustador. · Tag personalizado Lost. Composição: 93% Poliéster. 07% Elastano.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>5</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>6</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>259.00 BRL</g:price>
       
@@ -11658,7 +11670,7 @@
       <g:title>Boardshorts Lost Ent. Tapioca (44 / Tapioca)</g:title>
       <g:description>Ref.: 22514101-TAP Especificações do produto: · Linha Lost branding. · Modelagem comprido 53cm. · Estampa full print lost enterprises. · Bolso traseiro. · Etiqueta termocolante saturno aplicada na barra lateral. · Etiqueta aplicada no bolso traseiro. · Cós interno velcro. · Ilhós com cadarço ajustador. · Tag personalizado Lost. Composição: 93% Poliéster. 07% Elastano.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>14</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>13</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>259.00 BRL</g:price>
       
@@ -14887,7 +14899,7 @@
       <g:title>Track Pants Lost Enterprises Preto (P / Preto)</g:title>
       <g:description>Ref.: 22414502-PPP Se você já cansou das track pants basiconas e sem graça, vem com a Lost que a gente dá aula de como sair do padrão. A calça Lost Enterprises já chama a atenção por ser desenvolvida em tecido ripstop que, além da alta qualidade também tem uma textura única, mas o mais irado dela está no zíper lateral que esconde um detalhe muito style: a estampa Lost Enterprises interna que você pode escolher deixar ou não a mostra. Aposto que você nunca viu nada igual. Uma calça chic e confortável que você vai querer usar todos os dias em todos os lugares Especificações do produto: · Cós com elástico e cadarço ajustador. · Bolsos laterais embutidos. · Bolso traseiro embutido. · Barra com elástico. · Recortes laterais com fechamento em zíper, tecido telado e estampa Lost Enterprises. · Tecido RipStop de alta qualidade.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>3</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>399.00 BRL</g:price>
       
@@ -18566,8 +18578,8 @@
       <g:id>1555457742</g:id>
       <g:title>T-Shirt Rick And Morty Get Schwifty Preto (G / Preto Most)</g:title>
       <g:description>Ref.: 22623007-PPP Especificações do produto: · Linha Rick and Morty. · Modelagem regular fit. · Estampa Rick and Morty X Lost no centro frontal. · Reforço de gola. · Estampas deslocadas Rick and Morty nas costas. · Etiqueta clips costurada na barra frontal. · Etiqueta Rick and Morty aplicada acima da barra costas. · Tag personalizado Rick and Morty X Lost. Composição: 100% Algodão.</g:description>
-      <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
+      <g:availability>out of stock</g:availability>
+      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>199.00 BRL</g:price>
       
@@ -20925,6 +20937,7 @@
       <g:product_type>CAMISETAS</g:product_type>
       <g:product_type>T-shirts</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555477139</g:id>
@@ -20950,6 +20963,7 @@
       <g:product_type>CAMISETAS</g:product_type>
       <g:product_type>T-shirts</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555477152</g:id>
@@ -20975,6 +20989,7 @@
       <g:product_type>CAMISETAS</g:product_type>
       <g:product_type>T-shirts</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555477159</g:id>
@@ -21000,6 +21015,7 @@
       <g:product_type>CAMISETAS</g:product_type>
       <g:product_type>T-shirts</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555477280</g:id>
@@ -21022,6 +21038,8 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555477283</g:id>
@@ -21044,6 +21062,8 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555477296</g:id>
@@ -21066,6 +21086,8 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555477313</g:id>
@@ -21088,6 +21110,8 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555477518</g:id>
@@ -21113,6 +21137,7 @@
       <g:product_type>CAMISETAS</g:product_type>
       <g:product_type>T-shirts</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555477525</g:id>
@@ -21138,6 +21163,7 @@
       <g:product_type>CAMISETAS</g:product_type>
       <g:product_type>T-shirts</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555477526</g:id>
@@ -21163,6 +21189,7 @@
       <g:product_type>CAMISETAS</g:product_type>
       <g:product_type>T-shirts</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555477531</g:id>
@@ -21188,6 +21215,7 @@
       <g:product_type>CAMISETAS</g:product_type>
       <g:product_type>T-shirts</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555477711</g:id>
@@ -23009,6 +23037,7 @@
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Lost Enterprises</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555490748</g:id>
@@ -23032,6 +23061,7 @@
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Lost Enterprises</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555490779</g:id>
@@ -23055,13 +23085,14 @@
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Lost Enterprises</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555490785</g:id>
       <g:title>Boardshorts Lost Enterprises Marrom Chocolat (44 / Marrom Chocolat)</g:title>
       <g:description>Ref.: 22514102-MRT Especificações do produto: · Linha Lost Enterprises . · Modelagem comprido 53cm. · Estampa full print lost. · Bolso lateral aplicado com termocolante. · Forro do bolso com malha furadinha e zíper para fechamento. · Etiqueta termocolante saturno aplicada na barra lateral. · Etiqueta lost aplicada no cós. · Cos interno velcro. · Ilhós com cadarço ajustador. · Tag personalizado Lost. Composição: 93% Poliéster. 07% Elastano.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>17</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>16</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>259.00 BRL</g:price>
       
@@ -23078,6 +23109,7 @@
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Lost Enterprises</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555490803</g:id>
@@ -23101,6 +23133,7 @@
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Lost Enterprises</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555490812</g:id>
@@ -23124,6 +23157,7 @@
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Lost Enterprises</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555490980</g:id>
@@ -23147,6 +23181,7 @@
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Lost Enterprises</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555490985</g:id>
@@ -23170,6 +23205,7 @@
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Lost Enterprises</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555490989</g:id>
@@ -23193,6 +23229,7 @@
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Lost Enterprises</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555491003</g:id>
@@ -23216,6 +23253,7 @@
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Lost Enterprises</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555491014</g:id>
@@ -23239,6 +23277,7 @@
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Lost Enterprises</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555491021</g:id>
@@ -23262,6 +23301,7 @@
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Lost Enterprises</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555491149</g:id>
@@ -29856,6 +29896,8 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555515327</g:id>
@@ -29878,6 +29920,8 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555515335</g:id>
@@ -29900,6 +29944,8 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555515336</g:id>
@@ -29922,6 +29968,8 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555515387</g:id>
@@ -29944,6 +29992,8 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555515393</g:id>
@@ -29966,6 +30016,8 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555515395</g:id>
@@ -29988,6 +30040,8 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555515396</g:id>
@@ -30010,6 +30064,8 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555515498</g:id>
@@ -30660,6 +30716,7 @@
       <g:product_type>T-shirts</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Lost Enterprises</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555517426</g:id>
@@ -30686,6 +30743,7 @@
       <g:product_type>T-shirts</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Lost Enterprises</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555517429</g:id>
@@ -30712,6 +30770,7 @@
       <g:product_type>T-shirts</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Lost Enterprises</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555517431</g:id>
@@ -30738,6 +30797,7 @@
       <g:product_type>T-shirts</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Lost Enterprises</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555517494</g:id>
@@ -30764,6 +30824,7 @@
       <g:product_type>T-shirts</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Lost Enterprises</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555517495</g:id>
@@ -30790,6 +30851,7 @@
       <g:product_type>T-shirts</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Lost Enterprises</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555517498</g:id>
@@ -30816,6 +30878,7 @@
       <g:product_type>T-shirts</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Lost Enterprises</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555517501</g:id>
@@ -30842,6 +30905,7 @@
       <g:product_type>T-shirts</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Lost Enterprises</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555517717</g:id>
@@ -33415,6 +33479,7 @@
       <g:product_type>CAMISETAS</g:product_type>
       <g:product_type>T-shirts</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555525216</g:id>
@@ -33440,6 +33505,7 @@
       <g:product_type>CAMISETAS</g:product_type>
       <g:product_type>T-shirts</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555525217</g:id>
@@ -33465,6 +33531,7 @@
       <g:product_type>CAMISETAS</g:product_type>
       <g:product_type>T-shirts</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555525218</g:id>
@@ -33490,6 +33557,7 @@
       <g:product_type>CAMISETAS</g:product_type>
       <g:product_type>T-shirts</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555525353</g:id>
@@ -33512,6 +33580,8 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Especiais</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555525361</g:id>
@@ -33534,6 +33604,8 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Especiais</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555525367</g:id>
@@ -33556,6 +33628,8 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Especiais</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555525368</g:id>
@@ -33578,6 +33652,8 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Especiais</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555525757</g:id>
@@ -34893,6 +34969,7 @@
       <g:product_type>CAMISETAS</g:product_type>
       <g:product_type>T-shirts</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555528813</g:id>
@@ -34918,6 +34995,7 @@
       <g:product_type>CAMISETAS</g:product_type>
       <g:product_type>T-shirts</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555528814</g:id>
@@ -34943,6 +35021,7 @@
       <g:product_type>CAMISETAS</g:product_type>
       <g:product_type>T-shirts</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555528819</g:id>
@@ -34968,6 +35047,7 @@
       <g:product_type>CAMISETAS</g:product_type>
       <g:product_type>T-shirts</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555529019</g:id>
@@ -37668,8 +37748,8 @@
       <g:id>1555537638</g:id>
       <g:title>T-Shirt World Domination Tapioca (G / Tapioca)</g:title>
       <g:description>Ref.: 22522820-TAP Especificações do produto: · Linha especial Lost Funny. · Modelagem regular. · Estampa localizada no peito. · Estampa localizada na lateral frente e costas. · Etiqueta Lateral Lost embutida na lateral da barra. · Reforço de gola. · Meia malhão 30/1 Digital. · Tag personalizado lost. Composição: 100% Algodão.</g:description>
-      <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
+      <g:availability>out of stock</g:availability>
+      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>139.00 BRL</g:price>
       
@@ -38333,7 +38413,7 @@
       <g:title>Canguru 4:20 Preto (P / Preto)</g:title>
       <g:description>Ref.: 22613620-PPP Linha 4:20. Especificações do produto: · Modelagem regular. · Estampa frontal Lost smoke peito lateral. · Técnica especial brilha no escuro. · Etiqueta 4:20 saturno acima da barra. · Estampa grande lost 4:20 nas costas. · Tag personalizado LOST X 4:20. · Reforço de gola. · Tag com técnica especial do fogo. Composição: 72% CO 28% PES. A Lost apresenta o drop 4:20 uma coleção inspirada na cultura canábica, trazendo peças com atitude, identidade e estética urbana. Um lançamento pensado para quem vive o lifestyle.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>8</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>7</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>499.00 BRL</g:price>
       
@@ -40600,7 +40680,7 @@
       <g:title>Canguru Insane Joker Mescla Médio (G / Mescla Médio)</g:title>
       <g:description>Ref.: 22513306-MS1 Não é o morcegão, oh não! Parece que o Sr. Perfeição ficou de fora dessa! Batman? Sem collab, sem graça. Mas comigo e a Lost... bom, o show tá só começando, HAHAHAHA!&quot; Collab Joker X Lost Brasil, inspirada na loucura e na ousadia do vilão mais temido de Gotham, a collab trás aquele visual underground que desafia a ordem de expressar sem medo de mostrar para o mundo que o caos pode ser estiloso. Especificações do produto: · Linha Joker. · Modelagem regular. · Estampa frontal the joker localizada no peito. · Forro capuz do próprio tecido. · Etiqueta clips na lateral da barra. · Punho e barra em ribana. · Estampa the joker lost ent localizado nas mangas. · Tag personalizado Lost joker. Composição: 50% Algodão. 50% Poliéster.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>4</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>3</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>479.00 BRL</g:price>
       
@@ -49983,7 +50063,7 @@
       <g:title>Agasalho Especial 4:20 Preto (G / Preto)</g:title>
       <g:description>Ref.: 22618201-PPP Linha 4:20. Especificações do produto: · Modelagem básica. · Bordado frontal 4:20. · Estampa frontal 4:20 no peito lateral. · Abertura em zíper. · Recorte viés frontal. · Etiqueta embutida acima da barra costas. · Punho e manga em ribana. · Bolso embutido nas laterais. · Reforço de Gola. · Estampa Lost no peito lateral. · Detalhe em branco nas mangas. · TAG personalizado Lost. Composição: 100% Poliéster. A Lost apresenta o drop 4:20 uma coleção inspirada na cultura canábica, trazendo peças com atitude, identidade e estética urbana. Um lançamento pensado para quem vive o lifestyle.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>12</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>11</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>579.00 BRL</g:price>
       
@@ -50843,6 +50923,8 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>CAMISETAS</g:product_type>
       <g:product_type>T-shirts</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555567580</g:id>
@@ -50867,6 +50949,8 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>CAMISETAS</g:product_type>
       <g:product_type>T-shirts</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555567584</g:id>
@@ -50891,6 +50975,8 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>CAMISETAS</g:product_type>
       <g:product_type>T-shirts</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555567591</g:id>
@@ -50915,6 +51001,8 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>CAMISETAS</g:product_type>
       <g:product_type>T-shirts</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555567806</g:id>
@@ -55703,7 +55791,7 @@
       <g:title>Boardshorts Fantastic Magic Tea Verde (38 / Verde Most)</g:title>
       <g:description>Ref.: 22624104-VVV Especificações do produto: · Linha Get Lost. · Modelagem boardshort fit. · Estampa full print Fantastic Lost. · Cadarço ajustador + ilhós. · Fechamento em velcro. · Bolso traseiro com fechamento em velcro. · Etiqueta Lost aplicada no bolso traseiro. · Etiqueta termocolante Saturno acima da barra frontal. · Tag personalizado Lost. Composição: Microfibra com Algodão – 74% Poliéster 23% Algodão 3% Elastano.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>4</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>5</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>389.00 BRL</g:price>
       
@@ -59608,7 +59696,7 @@
       <g:title>T-Shirt Dysfunctional Tapioca (G / Tapioca Most)</g:title>
       <g:description>Ref.: 22622816-TAP Especificações do produto: · Linha Lost Enterprises. · Modelagem regular. · Estampa Lost localizada no peito. · Reforço de gola. · Estampa Lost Enterprises Aranha. · Etiqueta aplicada na barra frontal. · Tag personalizado Lost. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>14</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>13</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>159.00 BRL</g:price>
       
@@ -60820,7 +60908,7 @@
       <g:title>Shorts De Elastico New Black Preto (G / Preto Mostr)</g:title>
       <g:description>Ref.: 22626008-PPP Especificações do produto: · Linha Lost Branding. · Modelagem shorts elástico. · Cós com elástico. · Bolsos embutidos nas laterais. · Bolso embutido traseiro. · Etiqueta Lost embutida acima do bolso traseiro. · Termocolante aplicada acima da barra frontal. · Abertura lateral. · Tag personalizado Lost. Composição: 95% Poliéster 5% Elastano.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>10</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>9</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>389.00 BRL</g:price>
       
@@ -63224,8 +63312,8 @@
       <g:id>1555581530</g:id>
       <g:title>Boardshorts Alien 48cm Branco (38 / Branco Most)</g:title>
       <g:description>Ref.: 22624105-BBB Especificações do produto: · Linha Lost Funny. · Modelagem boardshort fit. · Estampa full print alien Lost 48 cm. · Cadarço ajustador + ilhós. · Fechamento em velcro. · Bolso traseiro com fechamento em velcro. · Etiqueta Lost aplicada no bolso traseiro. · Etiqueta termocolante Saturno acima da barra frontal. · Tag personalizado Lost. Composição: 100% Poliéster. Microfibra com elastano.</g:description>
-      <g:availability>out of stock</g:availability>
-      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
+      <g:availability>in stock</g:availability>
+      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>389.00 BRL</g:price>
       
@@ -67263,6 +67351,8 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>CAMISETAS</g:product_type>
       <g:product_type>T-shirts</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555584911</g:id>
@@ -67287,6 +67377,8 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>CAMISETAS</g:product_type>
       <g:product_type>T-shirts</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555584912</g:id>
@@ -67311,6 +67403,8 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>CAMISETAS</g:product_type>
       <g:product_type>T-shirts</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555584913</g:id>
@@ -67335,6 +67429,8 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>CAMISETAS</g:product_type>
       <g:product_type>T-shirts</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555584961</g:id>
@@ -67359,6 +67455,8 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>CAMISETAS</g:product_type>
       <g:product_type>T-shirts</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555584962</g:id>
@@ -67383,6 +67481,8 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>CAMISETAS</g:product_type>
       <g:product_type>T-shirts</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555584963</g:id>
@@ -67407,6 +67507,8 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>CAMISETAS</g:product_type>
       <g:product_type>T-shirts</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555584964</g:id>
@@ -67431,6 +67533,8 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>CAMISETAS</g:product_type>
       <g:product_type>T-shirts</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>HALLOWEEN</g:product_type>
     </item>
     <item>
       <g:id>1555585017</g:id>

@@ -788,7 +788,7 @@
       <g:title>T-Shirt Born To Be Lost Preto (GG / Preto)</g:title>
       <g:description>Ref.: 22622806-PPP Especificações do produto: · Linha Lost Funny. · Modelagem regular. · Estampa Lost Born localizada no peito. · Reforço de gola. · Etiqueta aplicada na barra frontal. · Tag personalizado Lost. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>4</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>3</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>149.00 BRL</g:price>
       
@@ -1197,6 +1197,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555320529</g:id>
@@ -1218,6 +1219,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555320554</g:id>
@@ -1239,6 +1241,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555320573</g:id>
@@ -1260,6 +1263,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555321945</g:id>
@@ -1407,90 +1411,6 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
-    </item>
-    <item>
-      <g:id>1555322576</g:id>
-      <g:title>T-Shirt Lost Thermic Cropped Preto (P / Preto)</g:title>
-      <g:description>Ref.: 22512806C-PPP Especificações do produto: · Linha lost branding. · Modelagem cropped. · Estampa frontal localizada no peito. · Etiqueta bandeira embutida na lateral. · Reforço de gola. · Técnica especial reagente ao fogo. · Tag personalizado LOST. Composição: 100% Algodão.</g:description>
-      <g:availability>out of stock</g:availability>
-      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
-      <g:condition>new</g:condition>
-      <g:price>109.00 BRL</g:price>
-      
-      <g:link>https://www.lost.com.br/produtos/t-shirt-lost-thermic-cropped-preto?variant=1555322576</g:link>
-      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/2251_2806c_preto_1-1620a202c98cde509717840643502292-1024-1024.jpg</g:image_link>
-      <g:brand>Lost</g:brand>
-      <g:item_group_id>354395405</g:item_group_id>
-      <g:size>P</g:size>
-      <g:color>Preto</g:color>
-      <g:gtin>7900121050270</g:gtin>
-      
-      <g:product_type>Shop</g:product_type>
-      <g:product_type>Camisetas</g:product_type>
-      <g:product_type>T-Shirts</g:product_type>
-    </item>
-    <item>
-      <g:id>1555322583</g:id>
-      <g:title>T-Shirt Lost Thermic Cropped Preto (M / Preto)</g:title>
-      <g:description>Ref.: 22512806C-PPP Especificações do produto: · Linha lost branding. · Modelagem cropped. · Estampa frontal localizada no peito. · Etiqueta bandeira embutida na lateral. · Reforço de gola. · Técnica especial reagente ao fogo. · Tag personalizado LOST. Composição: 100% Algodão.</g:description>
-      <g:availability>out of stock</g:availability>
-      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
-      <g:condition>new</g:condition>
-      <g:price>109.00 BRL</g:price>
-      
-      <g:link>https://www.lost.com.br/produtos/t-shirt-lost-thermic-cropped-preto?variant=1555322583</g:link>
-      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/2251_2806c_preto_1-1620a202c98cde509717840643502292-1024-1024.jpg</g:image_link>
-      <g:brand>Lost</g:brand>
-      <g:item_group_id>354395405</g:item_group_id>
-      <g:size>M</g:size>
-      <g:color>Preto</g:color>
-      <g:gtin>7900121050287</g:gtin>
-      
-      <g:product_type>Shop</g:product_type>
-      <g:product_type>Camisetas</g:product_type>
-      <g:product_type>T-Shirts</g:product_type>
-    </item>
-    <item>
-      <g:id>1555322594</g:id>
-      <g:title>T-Shirt Lost Thermic Cropped Preto (G / Preto)</g:title>
-      <g:description>Ref.: 22512806C-PPP Especificações do produto: · Linha lost branding. · Modelagem cropped. · Estampa frontal localizada no peito. · Etiqueta bandeira embutida na lateral. · Reforço de gola. · Técnica especial reagente ao fogo. · Tag personalizado LOST. Composição: 100% Algodão.</g:description>
-      <g:availability>out of stock</g:availability>
-      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
-      <g:condition>new</g:condition>
-      <g:price>109.00 BRL</g:price>
-      
-      <g:link>https://www.lost.com.br/produtos/t-shirt-lost-thermic-cropped-preto?variant=1555322594</g:link>
-      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/2251_2806c_preto_1-1620a202c98cde509717840643502292-1024-1024.jpg</g:image_link>
-      <g:brand>Lost</g:brand>
-      <g:item_group_id>354395405</g:item_group_id>
-      <g:size>G</g:size>
-      <g:color>Preto</g:color>
-      <g:gtin>7900121050294</g:gtin>
-      
-      <g:product_type>Shop</g:product_type>
-      <g:product_type>Camisetas</g:product_type>
-      <g:product_type>T-Shirts</g:product_type>
-    </item>
-    <item>
-      <g:id>1555322604</g:id>
-      <g:title>T-Shirt Lost Thermic Cropped Preto (GG / Preto)</g:title>
-      <g:description>Ref.: 22512806C-PPP Especificações do produto: · Linha lost branding. · Modelagem cropped. · Estampa frontal localizada no peito. · Etiqueta bandeira embutida na lateral. · Reforço de gola. · Técnica especial reagente ao fogo. · Tag personalizado LOST. Composição: 100% Algodão.</g:description>
-      <g:availability>out of stock</g:availability>
-      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
-      <g:condition>new</g:condition>
-      <g:price>109.00 BRL</g:price>
-      
-      <g:link>https://www.lost.com.br/produtos/t-shirt-lost-thermic-cropped-preto?variant=1555322604</g:link>
-      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/2251_2806c_preto_1-1620a202c98cde509717840643502292-1024-1024.jpg</g:image_link>
-      <g:brand>Lost</g:brand>
-      <g:item_group_id>354395405</g:item_group_id>
-      <g:size>GG</g:size>
-      <g:color>Preto</g:color>
-      <g:gtin>7900121050300</g:gtin>
-      
-      <g:product_type>Shop</g:product_type>
-      <g:product_type>Camisetas</g:product_type>
-      <g:product_type>T-Shirts</g:product_type>
     </item>
     <item>
       <g:id>1555322776</g:id>
@@ -1815,6 +1735,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555325164</g:id>
@@ -1836,6 +1757,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555325180</g:id>
@@ -1857,6 +1779,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555325198</g:id>
@@ -1878,6 +1801,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555325500</g:id>
@@ -2187,6 +2111,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555327431</g:id>
@@ -2208,6 +2133,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555327465</g:id>
@@ -2229,6 +2155,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555327480</g:id>
@@ -2250,6 +2177,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555327798</g:id>
@@ -5555,6 +5483,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555358652</g:id>
@@ -5576,6 +5505,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555358658</g:id>
@@ -5597,6 +5527,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555358664</g:id>
@@ -5618,6 +5549,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555359482</g:id>
@@ -8257,27 +8189,6 @@
       <g:product_type>Chinelos</g:product_type>
     </item>
     <item>
-      <g:id>1555386167</g:id>
-      <g:title>Boné Aba Curva Snap Back Lost Aba Preto (U / Preto)</g:title>
-      <g:description>Ref.: 22516508-PPP Especificações do produto: · Aba curva. · Fecho snapback. · Ficha personalizada …Lost. · Etiqueta bandeira embutida no fecho. · Aba personalizada .. · Etiqueta interna Lost. · Tag personalizado LOST.</g:description>
-      <g:availability>out of stock</g:availability>
-      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
-      <g:condition>new</g:condition>
-      <g:price>259.00 BRL</g:price>
-      
-      <g:link>https://www.lost.com.br/produtos/bone-aba-curva-snap-back-lost-aba-preto?variant=1555386167</g:link>
-      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/22516508_preto_1-f2f406359fb78f5bed17834553226528-1024-1024.jpg</g:image_link>
-      <g:brand>Lost</g:brand>
-      <g:item_group_id>354412347</g:item_group_id>
-      <g:size>U</g:size>
-      <g:color>Preto</g:color>
-      <g:gtin>7900121045825</g:gtin>
-      
-      <g:product_type>Shop</g:product_type>
-      <g:product_type>Acessórios</g:product_type>
-      <g:product_type>Boné</g:product_type>
-    </item>
-    <item>
       <g:id>1555389197</g:id>
       <g:title>Box Fit Psycho Circus Sheep Branco (P / Branco)</g:title>
       <g:description>Ref.: 22512613-BBB Especificações do produto: · Linha Psycho Circus. · Modelagem box fit. · Estampa frontal Psycho Circus. · Reforço de gola. · Etiqueta costurada na barra frontal a 1 cm. · Etiqueta Lost Psycho aplicada na barra costas. · Tag personalizado Psycho Circus X …Lost. Composição: 100% Algodão. O circo sempre foi um lugar de fascínio e mistério, onde o riso se mistura ao assombro e cada espetáculo pode ser tão mágico quanto caótico. Inspirada nesse universo de exageros, ilusões e personagens icônicos, a Lost apresenta a linha especial Psycho Circus — uma coleção que transforma o bizarro em arte, o surreal em estilo e o desconhecido em desejo. Cores vibrantes, estampas impactantes e um toque sombrio criam o equilíbrio perfeito entre o espetáculo e a rebeldia. Aqui, não há reg</g:description>
@@ -10303,6 +10214,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Acessórios</g:product_type>
       <g:product_type>Chinelos</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555402149</g:id>
@@ -10324,6 +10236,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Acessórios</g:product_type>
       <g:product_type>Chinelos</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555402177</g:id>
@@ -10345,6 +10258,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Acessórios</g:product_type>
       <g:product_type>Chinelos</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555402195</g:id>
@@ -10366,6 +10280,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Acessórios</g:product_type>
       <g:product_type>Chinelos</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555402760</g:id>
@@ -10387,6 +10302,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555402764</g:id>
@@ -10408,6 +10324,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555402774</g:id>
@@ -10429,6 +10346,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555402789</g:id>
@@ -10450,6 +10368,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555402957</g:id>
@@ -10957,6 +10876,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555407408</g:id>
@@ -10978,6 +10898,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555407419</g:id>
@@ -10999,6 +10920,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555407427</g:id>
@@ -11020,6 +10942,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555408935</g:id>
@@ -11216,6 +11139,7 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555411454</g:id>
@@ -11236,6 +11160,7 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555411467</g:id>
@@ -11256,6 +11181,7 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555411838</g:id>
@@ -11327,7 +11253,7 @@
       <g:title>Boardshorts Lost Ent. Preto (42 / Preto)</g:title>
       <g:description>Ref.: 22514101-PPP Especificações do produto: · Linha Lost branding. · Modelagem comprido 53cm. · Estampa full print lost enterprises. · Bolso traseiro. · Etiqueta termocolante saturno aplicada na barra lateral. · Etiqueta aplicada no bolso traseiro. · Cós interno velcro. · Ilhós com cadarço ajustador. · Tag personalizado Lost. Composição: 93% Poliéster. 07% Elastano.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>7</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>6</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>259.00 BRL</g:price>
       
@@ -11670,6 +11596,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555415878</g:id>
@@ -11691,6 +11618,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555415897</g:id>
@@ -11712,6 +11640,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555415948</g:id>
@@ -11733,6 +11662,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555416418</g:id>
@@ -11754,6 +11684,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555416435</g:id>
@@ -11775,6 +11706,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555416454</g:id>
@@ -11796,6 +11728,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555416471</g:id>
@@ -11817,6 +11750,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555416834</g:id>
@@ -12523,7 +12457,7 @@
       <g:title>Moedeiro Lost Preto (U / Preto Mostr)</g:title>
       <g:description>Ref.: 22626305-PPP Especificações do produto: · Linha Branding. · Estampa Lost + Saturno. · Dois bolsos frontais com fechamento em zíper. · Etiqueta Lost embutida na lateral. · Cadarço ajustador com stopper regulador. · Tag personalizado Lost. Composição: 100% Poliéster.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>7</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>6</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>149.00 BRL</g:price>
       
@@ -12939,6 +12873,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555425928</g:id>
@@ -12960,6 +12895,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555425936</g:id>
@@ -12981,6 +12917,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555425945</g:id>
@@ -13002,6 +12939,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555426114</g:id>
@@ -13023,6 +12961,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555426122</g:id>
@@ -13044,6 +12983,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555426131</g:id>
@@ -13065,6 +13005,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555426144</g:id>
@@ -13086,6 +13027,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555427642</g:id>
@@ -15057,6 +14999,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Acessórios</g:product_type>
       <g:product_type>Boné</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555441435</g:id>
@@ -15122,6 +15065,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Especiais</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555441854</g:id>
@@ -15143,6 +15087,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Especiais</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555441886</g:id>
@@ -15164,6 +15109,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Especiais</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555441910</g:id>
@@ -15185,6 +15131,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Especiais</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555442343</g:id>
@@ -15206,6 +15153,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Especiais</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555442384</g:id>
@@ -15227,6 +15175,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Especiais</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555442430</g:id>
@@ -15248,13 +15197,14 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Especiais</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555442493</g:id>
       <g:title>T-Shirt Box Fit Lost Preto (GG / Preto)</g:title>
       <g:description>Ref.: 22512611-PPP Especificações do produto: · Linha Carry over. · Modelagem boxfit. · Reforço de gola. · Estampa básica lost frontal. · Etiqueta bandeira embutida na lateral. · Tag personalizado Lost. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>2</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>189.00 BRL</g:price>
       
@@ -15269,6 +15219,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Especiais</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555443764</g:id>
@@ -16136,7 +16087,7 @@
       <g:title>T-Shirt Cranio Verde (M / Verde)</g:title>
       <g:description>Ref.: 22612603-VVV Especificações do produto: · Modelagem box fit. · Estampa frontal saturno caveira. · Reforço de gola. · Etiqueta lost embutida na barra. · Tag personalizado Lost. Composição: 100% Algodão. .</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>3</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>2</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>239.00 BRL</g:price>
       
@@ -16569,27 +16520,6 @@
       <g:product_type>Outlet</g:product_type>
     </item>
     <item>
-      <g:id>1555450368</g:id>
-      <g:title>Meia Brand Lost Branco (39/43 / Branco)</g:title>
-      <g:description>Ref.: 22516601-BBB Especificações do produto: · Modelagem cano longo. · Estampa lost enterprises + saturno. · Cano 20cm em jacquard. · sem atoalhado. Composição: 85% Algodão. 09% Elastano. 02% Poliamida. 02% Elastodieno. 02% Outras fibras.</g:description>
-      <g:availability>out of stock</g:availability>
-      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
-      <g:condition>new</g:condition>
-      <g:price>59.00 BRL</g:price>
-      
-      <g:link>https://www.lost.com.br/produtos/meia-brand-lost-branco?variant=1555450368</g:link>
-      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/22516601-bbb-1-7525d03bbd7df810ca17840386387704-1024-1024.jpg</g:image_link>
-      <g:brand>Lost</g:brand>
-      <g:item_group_id>354426967</g:item_group_id>
-      <g:size>39/43</g:size>
-      <g:color>Branco</g:color>
-      <g:gtin>7900121022451</g:gtin>
-      
-      <g:product_type>Shop</g:product_type>
-      <g:product_type>Acessórios</g:product_type>
-      <g:product_type>Meias</g:product_type>
-    </item>
-    <item>
       <g:id>1555450483</g:id>
       <g:title>Meia Brand Lost Preto (39/43 / Preto)</g:title>
       <g:description>Ref.: 22516601-PPP Especificações do produto: · Modelagem cano longo. · Estampa lost enterprises + saturno. · Cano 20cm em jacquard. · sem atoalhado. Composição: 85% Algodão. 09% Elastano. 02% Poliamida. 02% Elastodieno. 02% Outras fibras.</g:description>
@@ -16609,6 +16539,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Acessórios</g:product_type>
       <g:product_type>Meias</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555450585</g:id>
@@ -16630,6 +16561,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Acessórios</g:product_type>
       <g:product_type>Meias</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555450688</g:id>
@@ -16658,7 +16590,7 @@
       <g:title>Boardshorts Lost Ent. Preto / Branco (40 / Preto / Branco Motruario)</g:title>
       <g:description>Ref.: 22624108-PB Especificações do produto: · Linha Lost Enterprises. · Modelagem boardshorts. · Estampa full print Lost Enterprises Elements. · Cadarço liso ajustador. · Bolso traseiro com fechamento em velcro. · Etiqueta Lost centralizada no bolso. · Ilhós com fechamento em velcro. · Tag personalizado LOST. Composição: 93% Poliéster 7% Elastano. Linha Lost Enterprises</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>2</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>369.00 BRL</g:price>
       
@@ -17535,6 +17467,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555453874</g:id>
@@ -17556,6 +17489,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555453885</g:id>
@@ -17577,6 +17511,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555453894</g:id>
@@ -17598,6 +17533,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555454110</g:id>
@@ -20722,6 +20658,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Acessórios</g:product_type>
       <g:product_type>Carteira</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Lost Enterprises</g:product_type>
     </item>
@@ -22691,6 +22628,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555488561</g:id>
@@ -22712,6 +22650,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555488580</g:id>
@@ -22733,6 +22672,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555488588</g:id>
@@ -22754,6 +22694,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555490641</g:id>
@@ -22810,7 +22751,7 @@
       <g:title>Boardshorts Lost Enterprises Marrom Chocolat (42 / Marrom Chocolat)</g:title>
       <g:description>Ref.: 22514102-MRT Especificações do produto: · Linha Lost Enterprises . · Modelagem comprido 53cm. · Estampa full print lost. · Bolso lateral aplicado com termocolante. · Forro do bolso com malha furadinha e zíper para fechamento. · Etiqueta termocolante saturno aplicada na barra lateral. · Etiqueta lost aplicada no cós. · Cos interno velcro. · Ilhós com cadarço ajustador. · Tag personalizado Lost. Composição: 93% Poliéster. 07% Elastano.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>9</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>8</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>259.00 BRL</g:price>
       
@@ -22901,150 +22842,6 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
-      <g:product_type>LINHAS ESPECIAIS</g:product_type>
-      <g:product_type>Lost Enterprises</g:product_type>
-      <g:product_type>HALLOWEEN</g:product_type>
-    </item>
-    <item>
-      <g:id>1555490980</g:id>
-      <g:title>Boardshorts Lost Enterprises Preto (38 / Preto)</g:title>
-      <g:description>Ref.: 22514102-PPP Especificações do produto: · Linha Lost Enterprises . · Modelagem comprido 53cm. · Estampa full print lost. · Bolso lateral aplicado com termocolante. · Forro do bolso com malha furadinha e zíper para fechamento. · Etiqueta termocolante saturno aplicada na barra lateral. · Etiqueta lost aplicada no cós. · Cos interno velcro. · Ilhós com cadarço ajustador. · Tag personalizado Lost. Composição: 93% Poliéster. 07% Elastano.</g:description>
-      <g:availability>out of stock</g:availability>
-      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
-      <g:condition>new</g:condition>
-      <g:price>259.00 BRL</g:price>
-      
-      <g:link>https://www.lost.com.br/produtos/boardshorts-lost-enterprises-preto?variant=1555490980</g:link>
-      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/22514102-ppp-1-0a06098b1aab6b500e17838955712644-1024-1024.jpg</g:image_link>
-      <g:brand>Lost</g:brand>
-      <g:item_group_id>354435566</g:item_group_id>
-      <g:size>38</g:size>
-      <g:color>Preto</g:color>
-      <g:gtin>7900121056845</g:gtin>
-      
-      <g:product_type>Shop</g:product_type>
-      <g:product_type>Bermudas</g:product_type>
-      <g:product_type>Boardshorts</g:product_type>
-      <g:product_type>LINHAS ESPECIAIS</g:product_type>
-      <g:product_type>Lost Enterprises</g:product_type>
-      <g:product_type>HALLOWEEN</g:product_type>
-    </item>
-    <item>
-      <g:id>1555490985</g:id>
-      <g:title>Boardshorts Lost Enterprises Preto (40 / Preto)</g:title>
-      <g:description>Ref.: 22514102-PPP Especificações do produto: · Linha Lost Enterprises . · Modelagem comprido 53cm. · Estampa full print lost. · Bolso lateral aplicado com termocolante. · Forro do bolso com malha furadinha e zíper para fechamento. · Etiqueta termocolante saturno aplicada na barra lateral. · Etiqueta lost aplicada no cós. · Cos interno velcro. · Ilhós com cadarço ajustador. · Tag personalizado Lost. Composição: 93% Poliéster. 07% Elastano.</g:description>
-      <g:availability>out of stock</g:availability>
-      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
-      <g:condition>new</g:condition>
-      <g:price>259.00 BRL</g:price>
-      
-      <g:link>https://www.lost.com.br/produtos/boardshorts-lost-enterprises-preto?variant=1555490985</g:link>
-      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/22514102-ppp-1-0a06098b1aab6b500e17838955712644-1024-1024.jpg</g:image_link>
-      <g:brand>Lost</g:brand>
-      <g:item_group_id>354435566</g:item_group_id>
-      <g:size>40</g:size>
-      <g:color>Preto</g:color>
-      <g:gtin>7900121056852</g:gtin>
-      
-      <g:product_type>Shop</g:product_type>
-      <g:product_type>Bermudas</g:product_type>
-      <g:product_type>Boardshorts</g:product_type>
-      <g:product_type>LINHAS ESPECIAIS</g:product_type>
-      <g:product_type>Lost Enterprises</g:product_type>
-      <g:product_type>HALLOWEEN</g:product_type>
-    </item>
-    <item>
-      <g:id>1555490989</g:id>
-      <g:title>Boardshorts Lost Enterprises Preto (42 / Preto)</g:title>
-      <g:description>Ref.: 22514102-PPP Especificações do produto: · Linha Lost Enterprises . · Modelagem comprido 53cm. · Estampa full print lost. · Bolso lateral aplicado com termocolante. · Forro do bolso com malha furadinha e zíper para fechamento. · Etiqueta termocolante saturno aplicada na barra lateral. · Etiqueta lost aplicada no cós. · Cos interno velcro. · Ilhós com cadarço ajustador. · Tag personalizado Lost. Composição: 93% Poliéster. 07% Elastano.</g:description>
-      <g:availability>out of stock</g:availability>
-      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
-      <g:condition>new</g:condition>
-      <g:price>259.00 BRL</g:price>
-      
-      <g:link>https://www.lost.com.br/produtos/boardshorts-lost-enterprises-preto?variant=1555490989</g:link>
-      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/22514102-ppp-1-0a06098b1aab6b500e17838955712644-1024-1024.jpg</g:image_link>
-      <g:brand>Lost</g:brand>
-      <g:item_group_id>354435566</g:item_group_id>
-      <g:size>42</g:size>
-      <g:color>Preto</g:color>
-      <g:gtin>7900121018836</g:gtin>
-      
-      <g:product_type>Shop</g:product_type>
-      <g:product_type>Bermudas</g:product_type>
-      <g:product_type>Boardshorts</g:product_type>
-      <g:product_type>LINHAS ESPECIAIS</g:product_type>
-      <g:product_type>Lost Enterprises</g:product_type>
-      <g:product_type>HALLOWEEN</g:product_type>
-    </item>
-    <item>
-      <g:id>1555491003</g:id>
-      <g:title>Boardshorts Lost Enterprises Preto (44 / Preto)</g:title>
-      <g:description>Ref.: 22514102-PPP Especificações do produto: · Linha Lost Enterprises . · Modelagem comprido 53cm. · Estampa full print lost. · Bolso lateral aplicado com termocolante. · Forro do bolso com malha furadinha e zíper para fechamento. · Etiqueta termocolante saturno aplicada na barra lateral. · Etiqueta lost aplicada no cós. · Cos interno velcro. · Ilhós com cadarço ajustador. · Tag personalizado Lost. Composição: 93% Poliéster. 07% Elastano.</g:description>
-      <g:availability>out of stock</g:availability>
-      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
-      <g:condition>new</g:condition>
-      <g:price>259.00 BRL</g:price>
-      
-      <g:link>https://www.lost.com.br/produtos/boardshorts-lost-enterprises-preto?variant=1555491003</g:link>
-      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/22514102-ppp-1-0a06098b1aab6b500e17838955712644-1024-1024.jpg</g:image_link>
-      <g:brand>Lost</g:brand>
-      <g:item_group_id>354435566</g:item_group_id>
-      <g:size>44</g:size>
-      <g:color>Preto</g:color>
-      <g:gtin>7900121056869</g:gtin>
-      
-      <g:product_type>Shop</g:product_type>
-      <g:product_type>Bermudas</g:product_type>
-      <g:product_type>Boardshorts</g:product_type>
-      <g:product_type>LINHAS ESPECIAIS</g:product_type>
-      <g:product_type>Lost Enterprises</g:product_type>
-      <g:product_type>HALLOWEEN</g:product_type>
-    </item>
-    <item>
-      <g:id>1555491014</g:id>
-      <g:title>Boardshorts Lost Enterprises Preto (46 / Preto)</g:title>
-      <g:description>Ref.: 22514102-PPP Especificações do produto: · Linha Lost Enterprises . · Modelagem comprido 53cm. · Estampa full print lost. · Bolso lateral aplicado com termocolante. · Forro do bolso com malha furadinha e zíper para fechamento. · Etiqueta termocolante saturno aplicada na barra lateral. · Etiqueta lost aplicada no cós. · Cos interno velcro. · Ilhós com cadarço ajustador. · Tag personalizado Lost. Composição: 93% Poliéster. 07% Elastano.</g:description>
-      <g:availability>out of stock</g:availability>
-      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
-      <g:condition>new</g:condition>
-      <g:price>259.00 BRL</g:price>
-      
-      <g:link>https://www.lost.com.br/produtos/boardshorts-lost-enterprises-preto?variant=1555491014</g:link>
-      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/22514102-ppp-1-0a06098b1aab6b500e17838955712644-1024-1024.jpg</g:image_link>
-      <g:brand>Lost</g:brand>
-      <g:item_group_id>354435566</g:item_group_id>
-      <g:size>46</g:size>
-      <g:color>Preto</g:color>
-      <g:gtin>7900121056876</g:gtin>
-      
-      <g:product_type>Shop</g:product_type>
-      <g:product_type>Bermudas</g:product_type>
-      <g:product_type>Boardshorts</g:product_type>
-      <g:product_type>LINHAS ESPECIAIS</g:product_type>
-      <g:product_type>Lost Enterprises</g:product_type>
-      <g:product_type>HALLOWEEN</g:product_type>
-    </item>
-    <item>
-      <g:id>1555491021</g:id>
-      <g:title>Boardshorts Lost Enterprises Preto (48 / Preto)</g:title>
-      <g:description>Ref.: 22514102-PPP Especificações do produto: · Linha Lost Enterprises . · Modelagem comprido 53cm. · Estampa full print lost. · Bolso lateral aplicado com termocolante. · Forro do bolso com malha furadinha e zíper para fechamento. · Etiqueta termocolante saturno aplicada na barra lateral. · Etiqueta lost aplicada no cós. · Cos interno velcro. · Ilhós com cadarço ajustador. · Tag personalizado Lost. Composição: 93% Poliéster. 07% Elastano.</g:description>
-      <g:availability>out of stock</g:availability>
-      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
-      <g:condition>new</g:condition>
-      <g:price>259.00 BRL</g:price>
-      
-      <g:link>https://www.lost.com.br/produtos/boardshorts-lost-enterprises-preto?variant=1555491021</g:link>
-      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/22514102-ppp-1-0a06098b1aab6b500e17838955712644-1024-1024.jpg</g:image_link>
-      <g:brand>Lost</g:brand>
-      <g:item_group_id>354435566</g:item_group_id>
-      <g:size>48</g:size>
-      <g:color>Preto</g:color>
-      <g:gtin>7900121056883</g:gtin>
-      
-      <g:product_type>Shop</g:product_type>
-      <g:product_type>Bermudas</g:product_type>
-      <g:product_type>Boardshorts</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Lost Enterprises</g:product_type>
       <g:product_type>HALLOWEEN</g:product_type>
@@ -24621,6 +24418,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555498581</g:id>
@@ -24642,6 +24440,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555498584</g:id>
@@ -24663,6 +24462,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555498586</g:id>
@@ -24684,6 +24484,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555498628</g:id>
@@ -25923,6 +25724,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Acessórios</g:product_type>
       <g:product_type>Chinelos</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555504010</g:id>
@@ -25944,6 +25746,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Acessórios</g:product_type>
       <g:product_type>Chinelos</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555504014</g:id>
@@ -25965,6 +25768,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Acessórios</g:product_type>
       <g:product_type>Chinelos</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555504016</g:id>
@@ -25986,6 +25790,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Acessórios</g:product_type>
       <g:product_type>Chinelos</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555504269</g:id>
@@ -27820,7 +27625,7 @@
       <g:title>T-Shirt Flames Preto (GG / Preto)</g:title>
       <g:description>Ref.: 22612008-PPP · Linha Get Lost. Especificações do produto: · Modelagem Manga Japonesa. · Estampa peito frente Lost. · Estampa costas. · Etiqueta Saturno centralizada na manga. · Reforço de gola. · Tag personalizado LOST. Composição: 100% Algodão. LOST Racing Club. Se você perguntar por aí, vão dizer que o que a gente faz é errado. Perigoso… Irresponsável… Coisa de quem não tem futuro. Talvez o problema seja que nós nunca soubemos andar na mesma direção que eles. Porque isso aqui é pra quem prefere viver do seu próprio jeito, mesmo que ninguém entenda. Don’t follow me, i’m …LOST</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>4</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>3</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>239.00 BRL</g:price>
       
@@ -28594,90 +28399,6 @@
       <g:product_type>Outlet</g:product_type>
     </item>
     <item>
-      <g:id>1555512617</g:id>
-      <g:title>T-Shirt Lost Bascketball Branco (P / Branco)</g:title>
-      <g:description>Ref.: 22512810-BBB Especificações do produto: · Modelagem regular. · Linha Lost funny. · Reforço de gola. · Estampa frontal Lost basketball localizada no peito. · Etiqueta bandeira embutida na lateral. · Tag personalizado Lost. Composição: 100% Algodão.</g:description>
-      <g:availability>out of stock</g:availability>
-      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
-      <g:condition>new</g:condition>
-      <g:price>139.00 BRL</g:price>
-      
-      <g:link>https://www.lost.com.br/produtos/t-shirt-lost-bascketball-branco?variant=1555512617</g:link>
-      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/2251_2810_branco_1-9b9ad9068e3b206f1c17840639836104-1024-1024.jpg</g:image_link>
-      <g:brand>Lost</g:brand>
-      <g:item_group_id>354441403</g:item_group_id>
-      <g:size>P</g:size>
-      <g:color>Branco</g:color>
-      <g:gtin>7900121068091</g:gtin>
-      
-      <g:product_type>Shop</g:product_type>
-      <g:product_type>Camisetas</g:product_type>
-      <g:product_type>T-Shirts</g:product_type>
-    </item>
-    <item>
-      <g:id>1555512620</g:id>
-      <g:title>T-Shirt Lost Bascketball Branco (M / Branco)</g:title>
-      <g:description>Ref.: 22512810-BBB Especificações do produto: · Modelagem regular. · Linha Lost funny. · Reforço de gola. · Estampa frontal Lost basketball localizada no peito. · Etiqueta bandeira embutida na lateral. · Tag personalizado Lost. Composição: 100% Algodão.</g:description>
-      <g:availability>out of stock</g:availability>
-      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
-      <g:condition>new</g:condition>
-      <g:price>139.00 BRL</g:price>
-      
-      <g:link>https://www.lost.com.br/produtos/t-shirt-lost-bascketball-branco?variant=1555512620</g:link>
-      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/2251_2810_branco_1-9b9ad9068e3b206f1c17840639836104-1024-1024.jpg</g:image_link>
-      <g:brand>Lost</g:brand>
-      <g:item_group_id>354441403</g:item_group_id>
-      <g:size>M</g:size>
-      <g:color>Branco</g:color>
-      <g:gtin>7900121068107</g:gtin>
-      
-      <g:product_type>Shop</g:product_type>
-      <g:product_type>Camisetas</g:product_type>
-      <g:product_type>T-Shirts</g:product_type>
-    </item>
-    <item>
-      <g:id>1555512623</g:id>
-      <g:title>T-Shirt Lost Bascketball Branco (G / Branco)</g:title>
-      <g:description>Ref.: 22512810-BBB Especificações do produto: · Modelagem regular. · Linha Lost funny. · Reforço de gola. · Estampa frontal Lost basketball localizada no peito. · Etiqueta bandeira embutida na lateral. · Tag personalizado Lost. Composição: 100% Algodão.</g:description>
-      <g:availability>out of stock</g:availability>
-      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
-      <g:condition>new</g:condition>
-      <g:price>139.00 BRL</g:price>
-      
-      <g:link>https://www.lost.com.br/produtos/t-shirt-lost-bascketball-branco?variant=1555512623</g:link>
-      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/2251_2810_branco_1-9b9ad9068e3b206f1c17840639836104-1024-1024.jpg</g:image_link>
-      <g:brand>Lost</g:brand>
-      <g:item_group_id>354441403</g:item_group_id>
-      <g:size>G</g:size>
-      <g:color>Branco</g:color>
-      <g:gtin>7900121037882</g:gtin>
-      
-      <g:product_type>Shop</g:product_type>
-      <g:product_type>Camisetas</g:product_type>
-      <g:product_type>T-Shirts</g:product_type>
-    </item>
-    <item>
-      <g:id>1555512624</g:id>
-      <g:title>T-Shirt Lost Bascketball Branco (GG / Branco)</g:title>
-      <g:description>Ref.: 22512810-BBB Especificações do produto: · Modelagem regular. · Linha Lost funny. · Reforço de gola. · Estampa frontal Lost basketball localizada no peito. · Etiqueta bandeira embutida na lateral. · Tag personalizado Lost. Composição: 100% Algodão.</g:description>
-      <g:availability>out of stock</g:availability>
-      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
-      <g:condition>new</g:condition>
-      <g:price>139.00 BRL</g:price>
-      
-      <g:link>https://www.lost.com.br/produtos/t-shirt-lost-bascketball-branco?variant=1555512624</g:link>
-      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/2251_2810_branco_1-9b9ad9068e3b206f1c17840639836104-1024-1024.jpg</g:image_link>
-      <g:brand>Lost</g:brand>
-      <g:item_group_id>354441403</g:item_group_id>
-      <g:size>GG</g:size>
-      <g:color>Branco</g:color>
-      <g:gtin>7900121068114</g:gtin>
-      
-      <g:product_type>Shop</g:product_type>
-      <g:product_type>Camisetas</g:product_type>
-      <g:product_type>T-Shirts</g:product_type>
-    </item>
-    <item>
       <g:id>1555512734</g:id>
       <g:title>T-Shirt Lost Bascketball Tapioca (P / Tapioca)</g:title>
       <g:description>Ref.: 22512810-TAP Especificações do produto: · Modelagem regular. · Linha Lost funny. · Reforço de gola. · Estampa frontal Lost basketball localizada no peito. · Etiqueta bandeira embutida na lateral. · Tag personalizado Lost. Composição: 100% Algodão.</g:description>
@@ -28697,6 +28418,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555512743</g:id>
@@ -28718,6 +28440,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555512745</g:id>
@@ -28739,6 +28462,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555512755</g:id>
@@ -28760,6 +28484,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555512971</g:id>
@@ -28802,6 +28527,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555513050</g:id>
@@ -28823,6 +28549,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555513058</g:id>
@@ -28844,6 +28571,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555513068</g:id>
@@ -28865,90 +28593,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
-    </item>
-    <item>
-      <g:id>1555513248</g:id>
-      <g:title>T-Shirt Mushroom Preto (P / Preto)</g:title>
-      <g:description>Ref.: 22513002-PPP Especificações do produto: · Linha Get Lost. · Modelagem Regular. · Reforço de gola. · Estampa Saturno Mushroom localizada no peito lateral. · Etiqueta bandeira embutida na lateral. · Estampa Lost nas costas com tema Saturno. · Tag personalizado Lost. Composição: 100% Algodão.</g:description>
-      <g:availability>out of stock</g:availability>
-      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
-      <g:condition>new</g:condition>
-      <g:price>159.00 BRL</g:price>
-      
-      <g:link>https://www.lost.com.br/produtos/t-shirt-mushroom-preto?variant=1555513248</g:link>
-      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/2251_3002_preto_6-e476fa64b16172d21517840626593387-1024-1024.jpg</g:image_link>
-      <g:brand>Lost</g:brand>
-      <g:item_group_id>354441587</g:item_group_id>
-      <g:size>P</g:size>
-      <g:color>Preto</g:color>
-      <g:gtin>7900121050454</g:gtin>
-      
-      <g:product_type>Shop</g:product_type>
-      <g:product_type>Camisetas</g:product_type>
-      <g:product_type>T-Shirts</g:product_type>
-    </item>
-    <item>
-      <g:id>1555513254</g:id>
-      <g:title>T-Shirt Mushroom Preto (M / Preto)</g:title>
-      <g:description>Ref.: 22513002-PPP Especificações do produto: · Linha Get Lost. · Modelagem Regular. · Reforço de gola. · Estampa Saturno Mushroom localizada no peito lateral. · Etiqueta bandeira embutida na lateral. · Estampa Lost nas costas com tema Saturno. · Tag personalizado Lost. Composição: 100% Algodão.</g:description>
-      <g:availability>out of stock</g:availability>
-      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
-      <g:condition>new</g:condition>
-      <g:price>159.00 BRL</g:price>
-      
-      <g:link>https://www.lost.com.br/produtos/t-shirt-mushroom-preto?variant=1555513254</g:link>
-      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/2251_3002_preto_6-e476fa64b16172d21517840626593387-1024-1024.jpg</g:image_link>
-      <g:brand>Lost</g:brand>
-      <g:item_group_id>354441587</g:item_group_id>
-      <g:size>M</g:size>
-      <g:color>Preto</g:color>
-      <g:gtin>7900121050461</g:gtin>
-      
-      <g:product_type>Shop</g:product_type>
-      <g:product_type>Camisetas</g:product_type>
-      <g:product_type>T-Shirts</g:product_type>
-    </item>
-    <item>
-      <g:id>1555513257</g:id>
-      <g:title>T-Shirt Mushroom Preto (G / Preto)</g:title>
-      <g:description>Ref.: 22513002-PPP Especificações do produto: · Linha Get Lost. · Modelagem Regular. · Reforço de gola. · Estampa Saturno Mushroom localizada no peito lateral. · Etiqueta bandeira embutida na lateral. · Estampa Lost nas costas com tema Saturno. · Tag personalizado Lost. Composição: 100% Algodão.</g:description>
-      <g:availability>out of stock</g:availability>
-      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
-      <g:condition>new</g:condition>
-      <g:price>159.00 BRL</g:price>
-      
-      <g:link>https://www.lost.com.br/produtos/t-shirt-mushroom-preto?variant=1555513257</g:link>
-      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/2251_3002_preto_6-e476fa64b16172d21517840626593387-1024-1024.jpg</g:image_link>
-      <g:brand>Lost</g:brand>
-      <g:item_group_id>354441587</g:item_group_id>
-      <g:size>G</g:size>
-      <g:color>Preto</g:color>
-      <g:gtin>7900121050478</g:gtin>
-      
-      <g:product_type>Shop</g:product_type>
-      <g:product_type>Camisetas</g:product_type>
-      <g:product_type>T-Shirts</g:product_type>
-    </item>
-    <item>
-      <g:id>1555513258</g:id>
-      <g:title>T-Shirt Mushroom Preto (GG / Preto)</g:title>
-      <g:description>Ref.: 22513002-PPP Especificações do produto: · Linha Get Lost. · Modelagem Regular. · Reforço de gola. · Estampa Saturno Mushroom localizada no peito lateral. · Etiqueta bandeira embutida na lateral. · Estampa Lost nas costas com tema Saturno. · Tag personalizado Lost. Composição: 100% Algodão.</g:description>
-      <g:availability>out of stock</g:availability>
-      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
-      <g:condition>new</g:condition>
-      <g:price>159.00 BRL</g:price>
-      
-      <g:link>https://www.lost.com.br/produtos/t-shirt-mushroom-preto?variant=1555513258</g:link>
-      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/2251_3002_preto_6-e476fa64b16172d21517840626593387-1024-1024.jpg</g:image_link>
-      <g:brand>Lost</g:brand>
-      <g:item_group_id>354441587</g:item_group_id>
-      <g:size>GG</g:size>
-      <g:color>Preto</g:color>
-      <g:gtin>7900121050485</g:gtin>
-      
-      <g:product_type>Shop</g:product_type>
-      <g:product_type>Camisetas</g:product_type>
-      <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555513336</g:id>
@@ -28970,6 +28615,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555513343</g:id>
@@ -28991,6 +28637,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555513361</g:id>
@@ -29012,6 +28659,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555513368</g:id>
@@ -29033,6 +28681,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555513841</g:id>
@@ -32687,90 +32336,6 @@
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
     </item>
     <item>
-      <g:id>1555522834</g:id>
-      <g:title>T-Shirt Lost Reaper Branco (P / Branco)</g:title>
-      <g:description>Ref.: 22512817-BBB Especificações do produto: · Modelagem regular. · Linha Lost funny. · Reforço de gola. · Estampa frontal saturno localizada no peito. · Estampa grande costas Lost reaper. · Etiqueta bandeira embutida na lateral. · Tag personalizado Lost. Composição: 100% Algodão.</g:description>
-      <g:availability>out of stock</g:availability>
-      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
-      <g:condition>new</g:condition>
-      <g:price>139.00 BRL</g:price>
-      
-      <g:link>https://www.lost.com.br/produtos/t-shirt-lost-reaper-branco?variant=1555522834</g:link>
-      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/22512817_branco_1-e11e1b375edd979faf17834693562847-1024-1024.jpg</g:image_link>
-      <g:brand>Lost</g:brand>
-      <g:item_group_id>354444788</g:item_group_id>
-      <g:size>P</g:size>
-      <g:color>Branco</g:color>
-      <g:gtin>7900121062600</g:gtin>
-      
-      <g:product_type>Shop</g:product_type>
-      <g:product_type>Camisetas</g:product_type>
-      <g:product_type>T-Shirts</g:product_type>
-    </item>
-    <item>
-      <g:id>1555522836</g:id>
-      <g:title>T-Shirt Lost Reaper Branco (M / Branco)</g:title>
-      <g:description>Ref.: 22512817-BBB Especificações do produto: · Modelagem regular. · Linha Lost funny. · Reforço de gola. · Estampa frontal saturno localizada no peito. · Estampa grande costas Lost reaper. · Etiqueta bandeira embutida na lateral. · Tag personalizado Lost. Composição: 100% Algodão.</g:description>
-      <g:availability>out of stock</g:availability>
-      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
-      <g:condition>new</g:condition>
-      <g:price>139.00 BRL</g:price>
-      
-      <g:link>https://www.lost.com.br/produtos/t-shirt-lost-reaper-branco?variant=1555522836</g:link>
-      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/22512817_branco_1-e11e1b375edd979faf17834693562847-1024-1024.jpg</g:image_link>
-      <g:brand>Lost</g:brand>
-      <g:item_group_id>354444788</g:item_group_id>
-      <g:size>M</g:size>
-      <g:color>Branco</g:color>
-      <g:gtin>7900121062617</g:gtin>
-      
-      <g:product_type>Shop</g:product_type>
-      <g:product_type>Camisetas</g:product_type>
-      <g:product_type>T-Shirts</g:product_type>
-    </item>
-    <item>
-      <g:id>1555522837</g:id>
-      <g:title>T-Shirt Lost Reaper Branco (G / Branco)</g:title>
-      <g:description>Ref.: 22512817-BBB Especificações do produto: · Modelagem regular. · Linha Lost funny. · Reforço de gola. · Estampa frontal saturno localizada no peito. · Estampa grande costas Lost reaper. · Etiqueta bandeira embutida na lateral. · Tag personalizado Lost. Composição: 100% Algodão.</g:description>
-      <g:availability>out of stock</g:availability>
-      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
-      <g:condition>new</g:condition>
-      <g:price>139.00 BRL</g:price>
-      
-      <g:link>https://www.lost.com.br/produtos/t-shirt-lost-reaper-branco?variant=1555522837</g:link>
-      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/22512817_branco_1-e11e1b375edd979faf17834693562847-1024-1024.jpg</g:image_link>
-      <g:brand>Lost</g:brand>
-      <g:item_group_id>354444788</g:item_group_id>
-      <g:size>G</g:size>
-      <g:color>Branco</g:color>
-      <g:gtin>7900121062624</g:gtin>
-      
-      <g:product_type>Shop</g:product_type>
-      <g:product_type>Camisetas</g:product_type>
-      <g:product_type>T-Shirts</g:product_type>
-    </item>
-    <item>
-      <g:id>1555522839</g:id>
-      <g:title>T-Shirt Lost Reaper Branco (GG / Branco)</g:title>
-      <g:description>Ref.: 22512817-BBB Especificações do produto: · Modelagem regular. · Linha Lost funny. · Reforço de gola. · Estampa frontal saturno localizada no peito. · Estampa grande costas Lost reaper. · Etiqueta bandeira embutida na lateral. · Tag personalizado Lost. Composição: 100% Algodão.</g:description>
-      <g:availability>out of stock</g:availability>
-      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
-      <g:condition>new</g:condition>
-      <g:price>139.00 BRL</g:price>
-      
-      <g:link>https://www.lost.com.br/produtos/t-shirt-lost-reaper-branco?variant=1555522839</g:link>
-      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/22512817_branco_1-e11e1b375edd979faf17834693562847-1024-1024.jpg</g:image_link>
-      <g:brand>Lost</g:brand>
-      <g:item_group_id>354444788</g:item_group_id>
-      <g:size>GG</g:size>
-      <g:color>Branco</g:color>
-      <g:gtin>7900121062631</g:gtin>
-      
-      <g:product_type>Shop</g:product_type>
-      <g:product_type>Camisetas</g:product_type>
-      <g:product_type>T-Shirts</g:product_type>
-    </item>
-    <item>
       <g:id>1555522895</g:id>
       <g:title>T-Shirt Lost Reaper Preto (P / Preto)</g:title>
       <g:description>Ref.: 22512817-PPP Especificações do produto: · Modelagem regular. · Linha Lost funny. · Reforço de gola. · Estampa frontal saturno localizada no peito. · Estampa grande costas Lost reaper. · Etiqueta bandeira embutida na lateral. · Tag personalizado Lost. Composição: 100% Algodão.</g:description>
@@ -32790,6 +32355,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555522898</g:id>
@@ -32811,6 +32377,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555522900</g:id>
@@ -32832,6 +32399,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555522901</g:id>
@@ -32853,6 +32421,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555523537</g:id>
@@ -35252,6 +34821,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555530263</g:id>
@@ -35273,6 +34843,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555530267</g:id>
@@ -35294,6 +34865,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555530272</g:id>
@@ -35315,6 +34887,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555530273</g:id>
@@ -35336,6 +34909,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555530274</g:id>
@@ -35357,6 +34931,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555530603</g:id>
@@ -40620,6 +40195,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555543799</g:id>
@@ -40641,6 +40217,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555543808</g:id>
@@ -40662,6 +40239,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555543811</g:id>
@@ -40683,6 +40261,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555543830</g:id>
@@ -41256,6 +40835,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555544643</g:id>
@@ -41277,6 +40857,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555544644</g:id>
@@ -41298,6 +40879,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555544645</g:id>
@@ -41319,6 +40901,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555544670</g:id>
@@ -43072,6 +42655,7 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisas</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555549227</g:id>
@@ -43092,6 +42676,7 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisas</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555549230</g:id>
@@ -43112,6 +42697,7 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisas</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555549235</g:id>
@@ -43132,6 +42718,7 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisas</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555549263</g:id>
@@ -43547,6 +43134,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555549609</g:id>
@@ -43568,6 +43156,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555549610</g:id>
@@ -43589,6 +43178,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555549612</g:id>
@@ -43610,6 +43200,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555550816</g:id>
@@ -44054,7 +43645,7 @@
       <g:title>Boardshorts Lost Enterprises 48cm Preto (42 / Preto)</g:title>
       <g:description>Ref.: 22624002-PPP Especificações do produto: · Linha Get Lost. · Modelagem boardshorts. · Bordado Get Lost aplicado acima da barra. · Detalhe listra nas laterais. · Bolso traseiro. · Etiqueta Lost aplicada no bolso. · Cadarço ajustador + ilhós personalizado. · Fechamento em velcro. · Tag personalizado Lost. Composição: 93% Algodão 7% Elastano. Base com 48 cm.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>12</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>11</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>379.00 BRL</g:price>
       
@@ -44333,8 +43924,8 @@
       <g:id>1555552004</g:id>
       <g:title>Meia Strip Lost Branco (39/43 / Branco)</g:title>
       <g:description>Ref.: 21116601-BBB Trazendo conforto para qualquer atividade do seu dia a dia, desde o trampo até a sessão de skate, as meias LOST são desenvolvidas em tecido leve e elástico de altíssima qualidade para serem duráveis e flexíveis. A qualidade de nossos produtos é testada e aprovada!. Especificações do produto: · Meia cano alto com 20cm. · Logo Lost na parte traseira. · Listra bicolor superior.</g:description>
-      <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
+      <g:availability>out of stock</g:availability>
+      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>39.00 BRL</g:price>
       
@@ -44392,6 +43983,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555552151</g:id>
@@ -44413,6 +44005,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555552163</g:id>
@@ -44434,6 +44027,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555552175</g:id>
@@ -44455,6 +44049,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555552256</g:id>
@@ -44543,90 +44138,6 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
       <g:product_type>Outlet</g:product_type>
-    </item>
-    <item>
-      <g:id>1555552309</g:id>
-      <g:title>T-Shirt Desert Photo Tapioca (P / Tapioca)</g:title>
-      <g:description>Ref.: 22513003-TAP Especificações do produto: · Linha Get Lost. · Modelagem Regular. · Estampa frontal Lost localizada no peito. · Etiqueta bandeira embutida na lateral. · Estampa Get Lost grande localizada nas costas. · Reforço de gola. · Tag personalizado Lost. Composição: 100% Algodão.</g:description>
-      <g:availability>out of stock</g:availability>
-      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
-      <g:condition>new</g:condition>
-      <g:price>159.00 BRL</g:price>
-      
-      <g:link>https://www.lost.com.br/produtos/t-shirt-desert-photo-tapioca?variant=1555552309</g:link>
-      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/2251_3003_tapioca_2-8ab45d0c1a63fe2cad17840623499212-1024-1024.jpg</g:image_link>
-      <g:brand>Lost</g:brand>
-      <g:item_group_id>354454050</g:item_group_id>
-      <g:size>P</g:size>
-      <g:color>Tapioca</g:color>
-      <g:gtin>7900121050706</g:gtin>
-      
-      <g:product_type>Shop</g:product_type>
-      <g:product_type>Camisetas</g:product_type>
-      <g:product_type>T-Shirts</g:product_type>
-    </item>
-    <item>
-      <g:id>1555552310</g:id>
-      <g:title>T-Shirt Desert Photo Tapioca (M / Tapioca)</g:title>
-      <g:description>Ref.: 22513003-TAP Especificações do produto: · Linha Get Lost. · Modelagem Regular. · Estampa frontal Lost localizada no peito. · Etiqueta bandeira embutida na lateral. · Estampa Get Lost grande localizada nas costas. · Reforço de gola. · Tag personalizado Lost. Composição: 100% Algodão.</g:description>
-      <g:availability>out of stock</g:availability>
-      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
-      <g:condition>new</g:condition>
-      <g:price>159.00 BRL</g:price>
-      
-      <g:link>https://www.lost.com.br/produtos/t-shirt-desert-photo-tapioca?variant=1555552310</g:link>
-      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/2251_3003_tapioca_2-8ab45d0c1a63fe2cad17840623499212-1024-1024.jpg</g:image_link>
-      <g:brand>Lost</g:brand>
-      <g:item_group_id>354454050</g:item_group_id>
-      <g:size>M</g:size>
-      <g:color>Tapioca</g:color>
-      <g:gtin>7900121050713</g:gtin>
-      
-      <g:product_type>Shop</g:product_type>
-      <g:product_type>Camisetas</g:product_type>
-      <g:product_type>T-Shirts</g:product_type>
-    </item>
-    <item>
-      <g:id>1555552312</g:id>
-      <g:title>T-Shirt Desert Photo Tapioca (G / Tapioca)</g:title>
-      <g:description>Ref.: 22513003-TAP Especificações do produto: · Linha Get Lost. · Modelagem Regular. · Estampa frontal Lost localizada no peito. · Etiqueta bandeira embutida na lateral. · Estampa Get Lost grande localizada nas costas. · Reforço de gola. · Tag personalizado Lost. Composição: 100% Algodão.</g:description>
-      <g:availability>out of stock</g:availability>
-      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
-      <g:condition>new</g:condition>
-      <g:price>159.00 BRL</g:price>
-      
-      <g:link>https://www.lost.com.br/produtos/t-shirt-desert-photo-tapioca?variant=1555552312</g:link>
-      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/2251_3003_tapioca_2-8ab45d0c1a63fe2cad17840623499212-1024-1024.jpg</g:image_link>
-      <g:brand>Lost</g:brand>
-      <g:item_group_id>354454050</g:item_group_id>
-      <g:size>G</g:size>
-      <g:color>Tapioca</g:color>
-      <g:gtin>7900121050720</g:gtin>
-      
-      <g:product_type>Shop</g:product_type>
-      <g:product_type>Camisetas</g:product_type>
-      <g:product_type>T-Shirts</g:product_type>
-    </item>
-    <item>
-      <g:id>1555552317</g:id>
-      <g:title>T-Shirt Desert Photo Tapioca (GG / Tapioca)</g:title>
-      <g:description>Ref.: 22513003-TAP Especificações do produto: · Linha Get Lost. · Modelagem Regular. · Estampa frontal Lost localizada no peito. · Etiqueta bandeira embutida na lateral. · Estampa Get Lost grande localizada nas costas. · Reforço de gola. · Tag personalizado Lost. Composição: 100% Algodão.</g:description>
-      <g:availability>out of stock</g:availability>
-      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
-      <g:condition>new</g:condition>
-      <g:price>159.00 BRL</g:price>
-      
-      <g:link>https://www.lost.com.br/produtos/t-shirt-desert-photo-tapioca?variant=1555552317</g:link>
-      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/2251_3003_tapioca_2-8ab45d0c1a63fe2cad17840623499212-1024-1024.jpg</g:image_link>
-      <g:brand>Lost</g:brand>
-      <g:item_group_id>354454050</g:item_group_id>
-      <g:size>GG</g:size>
-      <g:color>Tapioca</g:color>
-      <g:gtin>7900121050737</g:gtin>
-      
-      <g:product_type>Shop</g:product_type>
-      <g:product_type>Camisetas</g:product_type>
-      <g:product_type>T-Shirts</g:product_type>
     </item>
     <item>
       <g:id>1555552498</g:id>
@@ -46075,6 +45586,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555558925</g:id>
@@ -46096,6 +45608,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555558926</g:id>
@@ -46117,6 +45630,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555558927</g:id>
@@ -46138,6 +45652,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555559105</g:id>
@@ -52044,7 +51559,7 @@
       <g:title>T-Shirt Lost Death Roxo Figo (M / Roxo Figo)</g:title>
       <g:description>Ref.: 22512601-RXF Especificações do produto: · Modelagem box fit. · Linha Lost enterprises. · Estampa lateral eyes. · Reforço de gola. · Estampa costas lost eyes enterprises. · Estampa frontal Lost localizada no peito. · Etiqueta bandeira embutida na lateral. · Tag personalizado Lost. Composição: 50% Algodão. 50% Poliéster. Malhão PA 210G.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>7</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>6</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>169.00 BRL</g:price>
       
@@ -52727,6 +52242,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Moletom</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555570712</g:id>
@@ -52748,6 +52264,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Moletom</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555570714</g:id>
@@ -52769,6 +52286,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Moletom</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555570716</g:id>
@@ -52790,6 +52308,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Moletom</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555571008</g:id>
@@ -53203,6 +52722,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555571566</g:id>
@@ -53224,6 +52744,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555571570</g:id>
@@ -53245,6 +52766,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555571571</g:id>
@@ -53266,6 +52788,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555571601</g:id>
@@ -53287,6 +52810,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555571607</g:id>
@@ -53308,6 +52832,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555571610</g:id>
@@ -53329,6 +52854,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555571611</g:id>
@@ -53350,6 +52876,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555571824</g:id>
@@ -54187,6 +53714,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555572383</g:id>
@@ -54208,6 +53736,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555572384</g:id>
@@ -54229,6 +53758,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555572386</g:id>
@@ -54250,6 +53780,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555572534</g:id>
@@ -55363,6 +54894,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555573732</g:id>
@@ -55384,6 +54916,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555573734</g:id>
@@ -55405,6 +54938,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555573736</g:id>
@@ -55426,6 +54960,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555573752</g:id>
@@ -55447,6 +54982,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555573754</g:id>
@@ -55468,6 +55004,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555573756</g:id>
@@ -55489,6 +55026,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555573759</g:id>
@@ -55510,6 +55048,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555573792</g:id>
@@ -58246,90 +57785,6 @@
       <g:product_type>Shorts</g:product_type>
     </item>
     <item>
-      <g:id>1555575658</g:id>
-      <g:title>Shorts De Elástico Cargo Preto (P / Preto)</g:title>
-      <g:description>Ref.: 22516002-PPP Especificações do produto: · Modelagem Shorts elástico 44cm. · Linha Lost branding. · Cós com elástico. · Ilhós + Cadarço ajustador. · Bolso traseiro embutido. · Etiqueta lost aplicada acima do bolso traseiro. · Bolso cargo com lapela em velcro. · Bordado lost na barra frontal. · Bolso embutido nas laterais. Composição: 100% Poliamida.</g:description>
-      <g:availability>out of stock</g:availability>
-      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
-      <g:condition>new</g:condition>
-      <g:price>329.00 BRL</g:price>
-      
-      <g:link>https://www.lost.com.br/produtos/shorts-de-elastico-cargo-preto?variant=1555575658</g:link>
-      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/22516002_preto_1-a34aebe7bba7321aa517834842333748-1024-1024.jpg</g:image_link>
-      <g:brand>Lost</g:brand>
-      <g:item_group_id>354462123</g:item_group_id>
-      <g:size>P</g:size>
-      <g:color>Preto</g:color>
-      <g:gtin>7900121063195</g:gtin>
-      
-      <g:product_type>Shop</g:product_type>
-      <g:product_type>Bermudas</g:product_type>
-      <g:product_type>Shorts</g:product_type>
-    </item>
-    <item>
-      <g:id>1555575666</g:id>
-      <g:title>Shorts De Elástico Cargo Preto (M / Preto)</g:title>
-      <g:description>Ref.: 22516002-PPP Especificações do produto: · Modelagem Shorts elástico 44cm. · Linha Lost branding. · Cós com elástico. · Ilhós + Cadarço ajustador. · Bolso traseiro embutido. · Etiqueta lost aplicada acima do bolso traseiro. · Bolso cargo com lapela em velcro. · Bordado lost na barra frontal. · Bolso embutido nas laterais. Composição: 100% Poliamida.</g:description>
-      <g:availability>out of stock</g:availability>
-      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
-      <g:condition>new</g:condition>
-      <g:price>329.00 BRL</g:price>
-      
-      <g:link>https://www.lost.com.br/produtos/shorts-de-elastico-cargo-preto?variant=1555575666</g:link>
-      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/22516002_preto_1-a34aebe7bba7321aa517834842333748-1024-1024.jpg</g:image_link>
-      <g:brand>Lost</g:brand>
-      <g:item_group_id>354462123</g:item_group_id>
-      <g:size>M</g:size>
-      <g:color>Preto</g:color>
-      <g:gtin>7900121063201</g:gtin>
-      
-      <g:product_type>Shop</g:product_type>
-      <g:product_type>Bermudas</g:product_type>
-      <g:product_type>Shorts</g:product_type>
-    </item>
-    <item>
-      <g:id>1555575669</g:id>
-      <g:title>Shorts De Elástico Cargo Preto (G / Preto)</g:title>
-      <g:description>Ref.: 22516002-PPP Especificações do produto: · Modelagem Shorts elástico 44cm. · Linha Lost branding. · Cós com elástico. · Ilhós + Cadarço ajustador. · Bolso traseiro embutido. · Etiqueta lost aplicada acima do bolso traseiro. · Bolso cargo com lapela em velcro. · Bordado lost na barra frontal. · Bolso embutido nas laterais. Composição: 100% Poliamida.</g:description>
-      <g:availability>out of stock</g:availability>
-      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
-      <g:condition>new</g:condition>
-      <g:price>329.00 BRL</g:price>
-      
-      <g:link>https://www.lost.com.br/produtos/shorts-de-elastico-cargo-preto?variant=1555575669</g:link>
-      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/22516002_preto_1-a34aebe7bba7321aa517834842333748-1024-1024.jpg</g:image_link>
-      <g:brand>Lost</g:brand>
-      <g:item_group_id>354462123</g:item_group_id>
-      <g:size>G</g:size>
-      <g:color>Preto</g:color>
-      <g:gtin>7900121063218</g:gtin>
-      
-      <g:product_type>Shop</g:product_type>
-      <g:product_type>Bermudas</g:product_type>
-      <g:product_type>Shorts</g:product_type>
-    </item>
-    <item>
-      <g:id>1555575670</g:id>
-      <g:title>Shorts De Elástico Cargo Preto (GG / Preto)</g:title>
-      <g:description>Ref.: 22516002-PPP Especificações do produto: · Modelagem Shorts elástico 44cm. · Linha Lost branding. · Cós com elástico. · Ilhós + Cadarço ajustador. · Bolso traseiro embutido. · Etiqueta lost aplicada acima do bolso traseiro. · Bolso cargo com lapela em velcro. · Bordado lost na barra frontal. · Bolso embutido nas laterais. Composição: 100% Poliamida.</g:description>
-      <g:availability>out of stock</g:availability>
-      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
-      <g:condition>new</g:condition>
-      <g:price>329.00 BRL</g:price>
-      
-      <g:link>https://www.lost.com.br/produtos/shorts-de-elastico-cargo-preto?variant=1555575670</g:link>
-      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/22516002_preto_1-a34aebe7bba7321aa517834842333748-1024-1024.jpg</g:image_link>
-      <g:brand>Lost</g:brand>
-      <g:item_group_id>354462123</g:item_group_id>
-      <g:size>GG</g:size>
-      <g:color>Preto</g:color>
-      <g:gtin>7900121063225</g:gtin>
-      
-      <g:product_type>Shop</g:product_type>
-      <g:product_type>Bermudas</g:product_type>
-      <g:product_type>Shorts</g:product_type>
-    </item>
-    <item>
       <g:id>1555575791</g:id>
       <g:title>T-Shirt Basics Sheep Oversized Azul Hossegor (G1 / Azul Hossegor)</g:title>
       <g:description>Ref.: 21112803X-AZH Para qualquer que seja o sua atividade e sua rotina, nossas camisetas são produzidas visando o conforto. Passam por testes de qualidade para termos certeza que estamos entregando o melhor produto aos nossos clientes. São produzidas 100% no Brasil, valorizando empresas nacionais. Especificações do produto: · Modelagem oversized. · Meia malha penteada. · Estampa localizada Lost sheep. Composição: 100% algodão.</g:description>
@@ -58700,6 +58155,7 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Acessórios</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555575996</g:id>
@@ -58720,6 +58176,7 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Acessórios</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555575997</g:id>
@@ -58740,6 +58197,7 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Acessórios</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555575998</g:id>
@@ -58760,6 +58218,7 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Acessórios</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555576096</g:id>
@@ -59024,6 +58483,7 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555576236</g:id>
@@ -59044,6 +58504,7 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555576238</g:id>
@@ -59064,6 +58525,7 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555576255</g:id>
@@ -59536,6 +58998,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555576812</g:id>
@@ -59557,6 +59020,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555576813</g:id>
@@ -59578,6 +59042,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555576814</g:id>
@@ -59599,6 +59064,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555576932</g:id>
@@ -59953,7 +59419,7 @@
       <g:title>T-Shirt Basics Saturno Preto (P / Preto)</g:title>
       <g:description>Ref.: 21112801-PPP Camiseta Lost Essencials. O básico nada básico que só a Lost sabe fazer. Para qualquer que seja o sua atividade e sua rotina, nossas camisetas são produzidas visando o conforto. Passam por testes de qualidade para termos certeza que estamos entregando o melhor produto aos nossos clientes. São produzidas 100% no Brasil, valorizando empresas nacionais. Especificações do produto: · Modelagem regular. · Meia malha penteada. · Silk Saturo Lost no peito . Composição: 100% algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>6</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>5</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>129.00 BRL</g:price>
       
@@ -61460,6 +60926,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Moletom</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555579281</g:id>
@@ -61481,6 +60948,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Moletom</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555579284</g:id>
@@ -61502,6 +60970,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Moletom</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555579285</g:id>
@@ -61523,6 +60992,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Moletom</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555579328</g:id>
@@ -61712,6 +61182,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555579641</g:id>
@@ -61733,6 +61204,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555579642</g:id>
@@ -61754,6 +61226,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555579643</g:id>
@@ -61775,6 +61248,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555580147</g:id>
@@ -66734,6 +66208,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Lost Enterprises</g:product_type>
     </item>
@@ -66757,6 +66232,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Lost Enterprises</g:product_type>
     </item>
@@ -66780,6 +66256,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Lost Enterprises</g:product_type>
     </item>
@@ -66803,6 +66280,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Lost Enterprises</g:product_type>
     </item>
@@ -69097,6 +68575,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Acessórios</g:product_type>
       <g:product_type>Boné</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555586498</g:id>
@@ -72481,7 +71960,7 @@
       <g:title>Walk Denim Relaxed Basics Indigo (40 / Indigo)</g:title>
       <g:description>Ref.: 21113408-III Especificações do produto: · Modelagem Relaxed Fit. · Fechamento em zíper e botão. · Cós com passantes para cinto. · Bolsos frontais nas laterais. · Bolso traseiro. · Termocolante Lost na lateral. Composição: 98% Algodão. 2% Poliéster.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>4</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>3</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>369.00 BRL</g:price>
       
@@ -72616,6 +72095,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555589181</g:id>
@@ -72637,6 +72117,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555589183</g:id>
@@ -72658,6 +72139,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555589186</g:id>
@@ -72679,6 +72161,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1555589233</g:id>
@@ -73847,7 +73330,7 @@
       <g:title>T-Shirt Im Sick Of This Shit Chumbo Estanho (G / Chumbo Estanho)</g:title>
       <g:description>Ref.: 22722809-CBE Linha We are lost. Especificações do produto: · Modelagem regular. · Estampa frontal LOST no peito lateral. · Reforço de gola. · Etiqueta aplicada na barra. · Estampa &quot;Im sick of this shit&quot; nas costas. · Tag personalizado LOST. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>12</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>10</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>179.00 BRL</g:price>
       
@@ -73914,8 +73397,8 @@
       <g:id>1579509747</g:id>
       <g:title>T-Shirt Dont Follow Me Im Lost Chumbo Estanho (M / Chumbo Estanho)</g:title>
       <g:description>Ref.: 22722804-CBE Linha We are lost. Especificações do produto: · Modelagem regular. · Estampa frontal Saturno LOST. · Reforço de gola. · Etiqueta aplicada na barra. · Tag personalizado LOST. Composição: 100% Algodão.</g:description>
-      <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
+      <g:availability>out of stock</g:availability>
+      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>169.00 BRL</g:price>
       
@@ -75207,7 +74690,7 @@
       <g:title>T-Shirt Deck Of Money Preto (G / Preto)</g:title>
       <g:description>Ref.: 22722816-PPP Linha Lost Enterprises. Especificações do produto: · Modelagem regular. · Estampa frontal Deck of Money no peito lateral. · Reforço de gola. · Etiqueta aplicada na barra. · Estampa nas costas. · Tag personalizado LOST. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>7</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>5</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>149.00 BRL</g:price>
       
@@ -75529,7 +75012,7 @@
       <g:title>T-Shirt Lost Current Branco (P / Branco)</g:title>
       <g:description>Ref.: 22722817-BBB Linha Lost Enterprises. Especificações do produto: · Modelagem regular. · Estampa frontal Lost Current. · Reforço de gola. · Etiqueta aplicada na barra. · Estampa LOST nas costas. · Tag personalizado LOST. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>7</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>6</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>149.00 BRL</g:price>
       
@@ -75552,7 +75035,7 @@
       <g:title>T-Shirt Lost Current Branco (M / Branco)</g:title>
       <g:description>Ref.: 22722817-BBB Linha Lost Enterprises. Especificações do produto: · Modelagem regular. · Estampa frontal Lost Current. · Reforço de gola. · Etiqueta aplicada na barra. · Estampa LOST nas costas. · Tag personalizado LOST. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>13</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>12</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>149.00 BRL</g:price>
       
@@ -75575,7 +75058,7 @@
       <g:title>T-Shirt Lost Current Branco (G / Branco)</g:title>
       <g:description>Ref.: 22722817-BBB Linha Lost Enterprises. Especificações do produto: · Modelagem regular. · Estampa frontal Lost Current. · Reforço de gola. · Etiqueta aplicada na barra. · Estampa LOST nas costas. · Tag personalizado LOST. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>15</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>14</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>149.00 BRL</g:price>
       
@@ -75598,7 +75081,7 @@
       <g:title>T-Shirt Lost Current Branco (GG / Branco)</g:title>
       <g:description>Ref.: 22722817-BBB Linha Lost Enterprises. Especificações do produto: · Modelagem regular. · Estampa frontal Lost Current. · Reforço de gola. · Etiqueta aplicada na barra. · Estampa LOST nas costas. · Tag personalizado LOST. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>8</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>7</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>149.00 BRL</g:price>
       
@@ -76588,94 +76071,6 @@
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
     </item>
     <item>
-      <g:id>1594528106</g:id>
-      <g:title>T-Shirt Box Fit Out Of Mind Branco (P / Branco)</g:title>
-      <g:description>Ref.: 22722607-BBB</g:description>
-      <g:availability>out of stock</g:availability>
-      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
-      <g:condition>new</g:condition>
-      <g:price>279.00 BRL</g:price>
-      
-      <g:link>https://www.lost.com.br/produtos/t-shirt-box-fit-out-of-mind-branco?variant=1594528106</g:link>
-      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/22722607_branco_1-211672ec91e8877b0f17890794742929-1024-1024.jpg</g:image_link>
-      <g:brand>Lost</g:brand>
-      <g:item_group_id>366712434</g:item_group_id>
-      <g:size>P</g:size>
-      <g:color>Branco</g:color>
-      <g:gtin>1117008337</g:gtin>
-      
-      <g:product_type>Shop</g:product_type>
-      <g:product_type>Camisetas</g:product_type>
-      <g:product_type>LINHAS ESPECIAIS</g:product_type>
-      <g:product_type>Lost Hours</g:product_type>
-    </item>
-    <item>
-      <g:id>1594528111</g:id>
-      <g:title>T-Shirt Box Fit Out Of Mind Branco (M / Branco)</g:title>
-      <g:description>Ref.: 22722607-BBB</g:description>
-      <g:availability>out of stock</g:availability>
-      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
-      <g:condition>new</g:condition>
-      <g:price>279.00 BRL</g:price>
-      
-      <g:link>https://www.lost.com.br/produtos/t-shirt-box-fit-out-of-mind-branco?variant=1594528111</g:link>
-      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/22722607_branco_1-211672ec91e8877b0f17890794742929-1024-1024.jpg</g:image_link>
-      <g:brand>Lost</g:brand>
-      <g:item_group_id>366712434</g:item_group_id>
-      <g:size>M</g:size>
-      <g:color>Branco</g:color>
-      <g:gtin>1117008338</g:gtin>
-      
-      <g:product_type>Shop</g:product_type>
-      <g:product_type>Camisetas</g:product_type>
-      <g:product_type>LINHAS ESPECIAIS</g:product_type>
-      <g:product_type>Lost Hours</g:product_type>
-    </item>
-    <item>
-      <g:id>1594528115</g:id>
-      <g:title>T-Shirt Box Fit Out Of Mind Branco (G / Branco)</g:title>
-      <g:description>Ref.: 22722607-BBB</g:description>
-      <g:availability>out of stock</g:availability>
-      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
-      <g:condition>new</g:condition>
-      <g:price>279.00 BRL</g:price>
-      
-      <g:link>https://www.lost.com.br/produtos/t-shirt-box-fit-out-of-mind-branco?variant=1594528115</g:link>
-      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/22722607_branco_1-211672ec91e8877b0f17890794742929-1024-1024.jpg</g:image_link>
-      <g:brand>Lost</g:brand>
-      <g:item_group_id>366712434</g:item_group_id>
-      <g:size>G</g:size>
-      <g:color>Branco</g:color>
-      <g:gtin>1117008339</g:gtin>
-      
-      <g:product_type>Shop</g:product_type>
-      <g:product_type>Camisetas</g:product_type>
-      <g:product_type>LINHAS ESPECIAIS</g:product_type>
-      <g:product_type>Lost Hours</g:product_type>
-    </item>
-    <item>
-      <g:id>1594528117</g:id>
-      <g:title>T-Shirt Box Fit Out Of Mind Branco (GG / Branco)</g:title>
-      <g:description>Ref.: 22722607-BBB</g:description>
-      <g:availability>out of stock</g:availability>
-      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
-      <g:condition>new</g:condition>
-      <g:price>279.00 BRL</g:price>
-      
-      <g:link>https://www.lost.com.br/produtos/t-shirt-box-fit-out-of-mind-branco?variant=1594528117</g:link>
-      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/933/products/22722607_branco_1-211672ec91e8877b0f17890794742929-1024-1024.jpg</g:image_link>
-      <g:brand>Lost</g:brand>
-      <g:item_group_id>366712434</g:item_group_id>
-      <g:size>GG</g:size>
-      <g:color>Branco</g:color>
-      <g:gtin>1117008340</g:gtin>
-      
-      <g:product_type>Shop</g:product_type>
-      <g:product_type>Camisetas</g:product_type>
-      <g:product_type>LINHAS ESPECIAIS</g:product_type>
-      <g:product_type>Lost Hours</g:product_type>
-    </item>
-    <item>
       <g:id>1594528200</g:id>
       <g:title>T-Shirt Box Fit Out Of Mind Preto (P / Preto)</g:title>
       <g:description>Ref.: 22722607-PPP</g:description>
@@ -77583,6 +76978,7 @@
       <g:gtin>7900121140728</g:gtin>
       
       <g:product_type>Shop</g:product_type>
+      <g:product_type>Camisas</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
       <g:product_type>Outlet</g:product_type>
@@ -77609,6 +77005,7 @@
       <g:gtin>7900121140735</g:gtin>
       
       <g:product_type>Shop</g:product_type>
+      <g:product_type>Camisas</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
       <g:product_type>Outlet</g:product_type>
@@ -77635,6 +77032,7 @@
       <g:gtin>7900121123646</g:gtin>
       
       <g:product_type>Shop</g:product_type>
+      <g:product_type>Camisas</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
       <g:product_type>Outlet</g:product_type>
@@ -77661,6 +77059,7 @@
       <g:gtin>7900121140742</g:gtin>
       
       <g:product_type>Shop</g:product_type>
+      <g:product_type>Camisas</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
       <g:product_type>Outlet</g:product_type>
@@ -78455,6 +77854,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Lost Hours</g:product_type>
       <g:product_type>Xeque Mate</g:product_type>
     </item>
     <item>
@@ -78477,6 +77877,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Lost Hours</g:product_type>
       <g:product_type>Xeque Mate</g:product_type>
     </item>
     <item>
@@ -78499,6 +77900,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Lost Hours</g:product_type>
       <g:product_type>Xeque Mate</g:product_type>
     </item>
     <item>
@@ -78521,6 +77923,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Lost Hours</g:product_type>
       <g:product_type>Xeque Mate</g:product_type>
     </item>
     <item>
@@ -80621,6 +80024,8 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Lost Hours</g:product_type>
     </item>
     <item>
       <g:id>1620946836</g:id>
@@ -80642,6 +80047,8 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Lost Hours</g:product_type>
     </item>
     <item>
       <g:id>1620946841</g:id>
@@ -80663,6 +80070,8 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Lost Hours</g:product_type>
     </item>
     <item>
       <g:id>1620946845</g:id>
@@ -80684,6 +80093,8 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Lost Hours</g:product_type>
     </item>
     <item>
       <g:id>1620946847</g:id>
@@ -80705,6 +80116,8 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Lost Hours</g:product_type>
     </item>
     <item>
       <g:id>1620946853</g:id>
@@ -80726,6 +80139,8 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Lost Hours</g:product_type>
     </item>
     <item>
       <g:id>1620946928</g:id>

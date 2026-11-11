@@ -200,7 +200,7 @@
       <g:product_type>Shop &gt; Camisetas &gt; Especiais</g:product_type>
       <g:custom_label_0>Oferta Relampago - Ate 70% off · pecas a partir de R$ 59</g:custom_label_0>
       <g:custom_label_1>Camisetas</g:custom_label_1>
-      <g:custom_label_2>grade_quebrada</g:custom_label_2>
+      <g:custom_label_2>grade_ok</g:custom_label_2>
     </item>
     <item>
       <g:id>1555146462</g:id>
@@ -222,14 +222,14 @@
       <g:product_type>Shop &gt; Camisetas &gt; Especiais</g:product_type>
       <g:custom_label_0>Oferta Relampago - Ate 70% off · pecas a partir de R$ 59</g:custom_label_0>
       <g:custom_label_1>Camisetas</g:custom_label_1>
-      <g:custom_label_2>grade_quebrada</g:custom_label_2>
+      <g:custom_label_2>grade_ok</g:custom_label_2>
     </item>
     <item>
       <g:id>1555146469</g:id>
       <g:title>T-Shirt After The Domination Preto (G / Preto)</g:title>
       <g:description>Ref.: 22622012-PPP Especificações do produto: · Lost Funny. · Modelagem regular fit. · Estampa full Lost after domination. · Reforço de gola. · Etiqueta Clips Lost embutida na barra frontal. · Etiqueta quadrada Lost acima da barra costas. · Tag personalizado Lost. Composição: 100% Algodão.</g:description>
-      <g:availability>out of stock</g:availability>
-      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
+      <g:availability>in stock</g:availability>
+      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>239.00 BRL</g:price>
       <g:sale_price>99.00 BRL</g:sale_price>
@@ -244,7 +244,7 @@
       <g:product_type>Shop &gt; Camisetas &gt; Especiais</g:product_type>
       <g:custom_label_0>Oferta Relampago - Ate 70% off · pecas a partir de R$ 59</g:custom_label_0>
       <g:custom_label_1>Camisetas</g:custom_label_1>
-      <g:custom_label_2>grade_quebrada</g:custom_label_2>
+      <g:custom_label_2>grade_ok</g:custom_label_2>
     </item>
     <item>
       <g:id>1555146480</g:id>
@@ -266,7 +266,7 @@
       <g:product_type>Shop &gt; Camisetas &gt; Especiais</g:product_type>
       <g:custom_label_0>Oferta Relampago - Ate 70% off · pecas a partir de R$ 59</g:custom_label_0>
       <g:custom_label_1>Camisetas</g:custom_label_1>
-      <g:custom_label_2>grade_quebrada</g:custom_label_2>
+      <g:custom_label_2>grade_ok</g:custom_label_2>
     </item>
     <item>
       <g:id>1555146730</g:id>
@@ -338,8 +338,8 @@
       <g:id>1555146797</g:id>
       <g:title>T-Shirt Tiger Full Marrom (GG / Marrom)</g:title>
       <g:description>Ref.: 22612011-MMM Especificações do produto: · Modelagem regular. · Estampa full print. · Reforço de gola. · Etiqueta Lost embutida lateral. · Tag personalizado LOST. Composição: 100% Algodão.</g:description>
-      <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
+      <g:availability>out of stock</g:availability>
+      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>249.00 BRL</g:price>
       <g:sale_price>149.00 BRL</g:sale_price>
@@ -1395,7 +1395,7 @@
       <g:title>T-Shirt Lost Thermic Cropped Roxo Figo (M / Roxo Figo)</g:title>
       <g:description>Ref.: 22512806C-RXF Especificações do produto: · Linha lost branding. · Modelagem cropped. · Estampa frontal localizada no peito. · Etiqueta bandeira embutida na lateral. · Reforço de gola. · Técnica especial reagente ao fogo. · Tag personalizado LOST. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>4</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>2</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>109.00 BRL</g:price>
       <g:sale_price>65.40 BRL</g:sale_price>
@@ -1417,7 +1417,7 @@
       <g:title>T-Shirt Lost Thermic Cropped Roxo Figo (G / Roxo Figo)</g:title>
       <g:description>Ref.: 22512806C-RXF Especificações do produto: · Linha lost branding. · Modelagem cropped. · Estampa frontal localizada no peito. · Etiqueta bandeira embutida na lateral. · Reforço de gola. · Técnica especial reagente ao fogo. · Tag personalizado LOST. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>5</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>3</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>109.00 BRL</g:price>
       <g:sale_price>65.40 BRL</g:sale_price>
@@ -1439,7 +1439,7 @@
       <g:title>T-Shirt Lost Thermic Cropped Roxo Figo (GG / Roxo Figo)</g:title>
       <g:description>Ref.: 22512806C-RXF Especificações do produto: · Linha lost branding. · Modelagem cropped. · Estampa frontal localizada no peito. · Etiqueta bandeira embutida na lateral. · Reforço de gola. · Técnica especial reagente ao fogo. · Tag personalizado LOST. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>3</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>109.00 BRL</g:price>
       <g:sale_price>65.40 BRL</g:sale_price>
@@ -1593,7 +1593,7 @@
       <g:title>T-Shirt Rest And Ricklaxation Tapioca (M / Tapioca)</g:title>
       <g:description>Ref.: 22623005-TAP Especificações do produto: · Linha Rick and Morty. · Modelagem regular fit. · Estampa Rick and Morty X Lost no peito lateral. · Reforço de gola. · Etiqueta Rick and Morty aplicada acima da barra costas. · Estampa costas Rick and Morty X Lost. · Técnica especial efeito brilha no sol. · Tag personalizado Rick and Morty X Lost. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>6</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>4</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>199.00 BRL</g:price>
       <g:sale_price>99.50 BRL</g:sale_price>
@@ -1637,7 +1637,7 @@
       <g:title>T-Shirt Rest And Ricklaxation Tapioca (GG / Tapioca)</g:title>
       <g:description>Ref.: 22623005-TAP Especificações do produto: · Linha Rick and Morty. · Modelagem regular fit. · Estampa Rick and Morty X Lost no peito lateral. · Reforço de gola. · Etiqueta Rick and Morty aplicada acima da barra costas. · Estampa costas Rick and Morty X Lost. · Técnica especial efeito brilha no sol. · Tag personalizado Rick and Morty X Lost. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>8</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>6</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>199.00 BRL</g:price>
       <g:sale_price>99.50 BRL</g:sale_price>
@@ -1967,7 +1967,7 @@
       <g:title>T-Shirt Prince Of Crime Preto (G / Preto)</g:title>
       <g:description>Ref.: 22513009-PPP Olha só quem conseguiu a collab com a Lost... Eu! Não é o morcegão, oh não! Parece que o Sr. Perfeição ficou de fora dessa! Batman? Sem collab, sem graça. Mas comigo e a Lost... bom, o show tá só começando, HAHAHAHA!&quot; Especificações do produto: · Collab especial Joker &amp; Lost. · Modelagem regular. · Estampas lost frente localizada no peito. · Etiqueta Sanduíche localizada na barra costas. · Etiqueta joker grande aplicada na barra lateral. · Reforço de gola. · Estampa grande The joker localizada nas costas. · Silk efeito mutante brilha no escuro. · Tag personalizado Lost joker. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>35</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>33</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>159.00 BRL</g:price>
       <g:sale_price>111.30 BRL</g:sale_price>
@@ -1989,7 +1989,7 @@
       <g:title>T-Shirt Prince Of Crime Preto (GG / Preto)</g:title>
       <g:description>Ref.: 22513009-PPP Olha só quem conseguiu a collab com a Lost... Eu! Não é o morcegão, oh não! Parece que o Sr. Perfeição ficou de fora dessa! Batman? Sem collab, sem graça. Mas comigo e a Lost... bom, o show tá só começando, HAHAHAHA!&quot; Especificações do produto: · Collab especial Joker &amp; Lost. · Modelagem regular. · Estampas lost frente localizada no peito. · Etiqueta Sanduíche localizada na barra costas. · Etiqueta joker grande aplicada na barra lateral. · Reforço de gola. · Estampa grande The joker localizada nas costas. · Silk efeito mutante brilha no escuro. · Tag personalizado Lost joker. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>10</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>8</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>159.00 BRL</g:price>
       <g:sale_price>111.30 BRL</g:sale_price>
@@ -2186,8 +2186,8 @@
       <g:id>1555328926</g:id>
       <g:title>T-Shirt Lost Run Color Branco (P / Branco)</g:title>
       <g:description>Ref.: 22622813-BBB Especificações do produto: · Linha Lost Funny. · Modelagem regular. · Estampa Lost Enterprises no peito lateral. · Reforço de gola. · Etiqueta aplicada na barra frontal. · Estampa costas Lost Enterprises. · Tag personalizado Lost. Composição: 100% Algodão.</g:description>
-      <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
+      <g:availability>out of stock</g:availability>
+      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>189.00 BRL</g:price>
       <g:sale_price>59.00 BRL</g:sale_price>
@@ -2202,7 +2202,7 @@
       <g:product_type>Shop &gt; Camisetas &gt; T-Shirts</g:product_type>
       <g:custom_label_0>Oferta Relampago - Ate 70% off · pecas a partir de R$ 59</g:custom_label_0>
       <g:custom_label_1>Camisetas</g:custom_label_1>
-      <g:custom_label_2>grade_quebrada</g:custom_label_2>
+      <g:custom_label_2>sem_estoque</g:custom_label_2>
     </item>
     <item>
       <g:id>1555328932</g:id>
@@ -2224,7 +2224,7 @@
       <g:product_type>Shop &gt; Camisetas &gt; T-Shirts</g:product_type>
       <g:custom_label_0>Oferta Relampago - Ate 70% off · pecas a partir de R$ 59</g:custom_label_0>
       <g:custom_label_1>Camisetas</g:custom_label_1>
-      <g:custom_label_2>grade_quebrada</g:custom_label_2>
+      <g:custom_label_2>sem_estoque</g:custom_label_2>
     </item>
     <item>
       <g:id>1555328942</g:id>
@@ -2246,7 +2246,7 @@
       <g:product_type>Shop &gt; Camisetas &gt; T-Shirts</g:product_type>
       <g:custom_label_0>Oferta Relampago - Ate 70% off · pecas a partir de R$ 59</g:custom_label_0>
       <g:custom_label_1>Camisetas</g:custom_label_1>
-      <g:custom_label_2>grade_quebrada</g:custom_label_2>
+      <g:custom_label_2>sem_estoque</g:custom_label_2>
     </item>
     <item>
       <g:id>1555328974</g:id>
@@ -2268,14 +2268,14 @@
       <g:product_type>Shop &gt; Camisetas &gt; T-Shirts</g:product_type>
       <g:custom_label_0>Oferta Relampago - Ate 70% off · pecas a partir de R$ 59</g:custom_label_0>
       <g:custom_label_1>Camisetas</g:custom_label_1>
-      <g:custom_label_2>grade_quebrada</g:custom_label_2>
+      <g:custom_label_2>sem_estoque</g:custom_label_2>
     </item>
     <item>
       <g:id>1555329134</g:id>
       <g:title>T-Shirt Lost Run Color Preto (P / Preto)</g:title>
       <g:description>Ref.: 22622813-PPP Especificações do produto: · Linha Lost Funny. · Modelagem regular. · Estampa Lost Enterprises no peito lateral. · Reforço de gola. · Etiqueta aplicada na barra frontal. · Estampa costas Lost Enterprises. · Tag personalizado Lost. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>4</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>3</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>189.00 BRL</g:price>
       <g:sale_price>59.00 BRL</g:sale_price>
@@ -3441,7 +3441,7 @@
       <g:title>T-Shirt Malha Uv Chill Frog Preto (M / Preto)</g:title>
       <g:description>Ref.: 22622005-PPP Especificações do produto: · Linha Get Lost. · Modelagem regular fit. · Estampa frontal Lost em silk no peito lateral. · Reforço de gola. · Etiqueta lateral Lost embutida acima da barra. · Tag personalizado Lost. Composição: 94% Poliamida 6% Poliéster. Lost Summer Verão 25.26 / Linha Get Lost</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>17</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>15</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>209.00 BRL</g:price>
       <g:sale_price>99.00 BRL</g:sale_price>
@@ -3485,7 +3485,7 @@
       <g:title>T-Shirt Malha Uv Chill Frog Preto (GG / Preto)</g:title>
       <g:description>Ref.: 22622005-PPP Especificações do produto: · Linha Get Lost. · Modelagem regular fit. · Estampa frontal Lost em silk no peito lateral. · Reforço de gola. · Etiqueta lateral Lost embutida acima da barra. · Tag personalizado Lost. Composição: 94% Poliamida 6% Poliéster. Lost Summer Verão 25.26 / Linha Get Lost</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>15</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>13</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>209.00 BRL</g:price>
       <g:sale_price>99.00 BRL</g:sale_price>
@@ -5553,7 +5553,7 @@
       <g:title>Boné 5 Pannel Lost Preto (U / Preto)</g:title>
       <g:description>Ref.: 22616509-PPP Linha Lost Branding. Especificações do produto: · Modelagem five pannel. · Bordado na lost. · Ilhós bordado na cor do corpo. · Bordado lost enterprises na parte de trás. · Etiqueta embutida Lost no regulador. · Fita interna personalizada lost. · Regulador do mesmo tecido e fivela de metal prata. · Tag personalizado Lost. Composição: 100% Algodão. .</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>22</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>23</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>199.00 BRL</g:price>
       <g:sale_price>139.30 BRL</g:sale_price>
@@ -5590,14 +5590,14 @@
       <g:product_type>Shop &gt; Camisetas &gt; Especiais</g:product_type>
       <g:custom_label_0>Oferta Relampago - Ate 70% off · pecas a partir de R$ 59</g:custom_label_0>
       <g:custom_label_1>Camisetas</g:custom_label_1>
-      <g:custom_label_2>grade_quebrada</g:custom_label_2>
+      <g:custom_label_2>sem_estoque</g:custom_label_2>
     </item>
     <item>
       <g:id>1555360823</g:id>
       <g:title>T-Shirt Alien Zone Branco (M / Branco)</g:title>
       <g:description>Ref.: 22622603-BBB Especificações do produto: · Linha Lost Funny. · Modelagem box fit. · Bordado Alien Lost localizado no peito lateral. · Reforço de gola. · Etiqueta bandeira lateral Lost. · Estampa Alien grande nas costas. · Tag personalizado Lost. Composição: 100% Algodão.</g:description>
-      <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
+      <g:availability>out of stock</g:availability>
+      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>279.00 BRL</g:price>
       <g:sale_price>59.00 BRL</g:sale_price>
@@ -5612,7 +5612,7 @@
       <g:product_type>Shop &gt; Camisetas &gt; Especiais</g:product_type>
       <g:custom_label_0>Oferta Relampago - Ate 70% off · pecas a partir de R$ 59</g:custom_label_0>
       <g:custom_label_1>Camisetas</g:custom_label_1>
-      <g:custom_label_2>grade_quebrada</g:custom_label_2>
+      <g:custom_label_2>sem_estoque</g:custom_label_2>
     </item>
     <item>
       <g:id>1555360839</g:id>
@@ -5634,7 +5634,7 @@
       <g:product_type>Shop &gt; Camisetas &gt; Especiais</g:product_type>
       <g:custom_label_0>Oferta Relampago - Ate 70% off · pecas a partir de R$ 59</g:custom_label_0>
       <g:custom_label_1>Camisetas</g:custom_label_1>
-      <g:custom_label_2>grade_quebrada</g:custom_label_2>
+      <g:custom_label_2>sem_estoque</g:custom_label_2>
     </item>
     <item>
       <g:id>1555360855</g:id>
@@ -5656,14 +5656,14 @@
       <g:product_type>Shop &gt; Camisetas &gt; Especiais</g:product_type>
       <g:custom_label_0>Oferta Relampago - Ate 70% off · pecas a partir de R$ 59</g:custom_label_0>
       <g:custom_label_1>Camisetas</g:custom_label_1>
-      <g:custom_label_2>grade_quebrada</g:custom_label_2>
+      <g:custom_label_2>sem_estoque</g:custom_label_2>
     </item>
     <item>
       <g:id>1555361125</g:id>
       <g:title>T-Shirt Alien Zone Preto (P / Preto)</g:title>
       <g:description>Ref.: 22622603-PPP Especificações do produto: · Linha Lost Funny. · Modelagem box fit. · Bordado Alien Lost localizado no peito lateral. · Reforço de gola. · Etiqueta bandeira lateral Lost. · Estampa Alien grande nas costas. · Tag personalizado Lost. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>5</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>4</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>279.00 BRL</g:price>
       <g:sale_price>59.00 BRL</g:sale_price>
@@ -5773,7 +5773,7 @@
       <g:title>T-Shirt Lost Fire Tapioca (M / Tapioca)</g:title>
       <g:description>Ref.: 22622821-TAP Especificações do produto: · Lost Branding. · Modelagem regular. · Meia malha penteada. · Estampa frontal Lost Enterprises. · Reforço de gola. · Etiqueta Lost aplicada na barra frontal. · Técnica especial reação térmica. · Tag personalizado Lost. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>14</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>12</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>159.00 BRL</g:price>
       <g:sale_price>59.00 BRL</g:sale_price>
@@ -5795,7 +5795,7 @@
       <g:title>T-Shirt Lost Fire Tapioca (G / Tapioca)</g:title>
       <g:description>Ref.: 22622821-TAP Especificações do produto: · Lost Branding. · Modelagem regular. · Meia malha penteada. · Estampa frontal Lost Enterprises. · Reforço de gola. · Etiqueta Lost aplicada na barra frontal. · Técnica especial reação térmica. · Tag personalizado Lost. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>27</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>25</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>159.00 BRL</g:price>
       <g:sale_price>59.00 BRL</g:sale_price>
@@ -5817,7 +5817,7 @@
       <g:title>T-Shirt Lost Fire Tapioca (GG / Tapioca)</g:title>
       <g:description>Ref.: 22622821-TAP Especificações do produto: · Lost Branding. · Modelagem regular. · Meia malha penteada. · Estampa frontal Lost Enterprises. · Reforço de gola. · Etiqueta Lost aplicada na barra frontal. · Técnica especial reação térmica. · Tag personalizado Lost. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>9</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>7</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>159.00 BRL</g:price>
       <g:sale_price>59.00 BRL</g:sale_price>
@@ -6785,7 +6785,7 @@
       <g:title>T-Shirt Lost Branding Preto (P / Preto)</g:title>
       <g:description>Ref.: 22512007-PPP Especificações do produto: · Modelagem Especial. · Linha Lost Branding. · Estampa full print lost branding. · Reforço de gola. · Etiqueta Clips lost localizada na barra frontal. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>5</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>6</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>239.00 BRL</g:price>
       <g:sale_price>99.00 BRL</g:sale_price>
@@ -7049,7 +7049,7 @@
       <g:title>Shoulder Bolsos Preto (U / Preto)</g:title>
       <g:description>Ref.: 225110502-PPP Especificações do produto: · Linha Carry over. · Alça personalizada lost since. · Fecho aba frente com cadarço personalizado. · Bolso frente com abertura. · Etiqueta clips aplicada na lateral. · Bolso costas simples. · Etiqueta lost aplicada na parte frontal. · Regulador da alça. · Abertura abaixo da aba com fechamento em zíper. · Tag personalizado Lost. Composição: 100% Poliéster.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>16</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>11</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>189.00 BRL</g:price>
       <g:sale_price>132.30 BRL</g:sale_price>
@@ -7093,7 +7093,7 @@
       <g:title>T-Shirt Desert Preto (M / Preto)</g:title>
       <g:description>Ref.: 22513001-PPP Especificações do produto: · Linha Get lost. · Modelagem regular. · Reforço de gola. · Estampa lost desert frontal no peito e na barra. · Etiqueta bandeira embutida na lateral. · Tag personalizado Lost. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>23</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>21</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>199.00 BRL</g:price>
       <g:sale_price>99.00 BRL</g:sale_price>
@@ -7115,7 +7115,7 @@
       <g:title>T-Shirt Desert Preto (G / Preto)</g:title>
       <g:description>Ref.: 22513001-PPP Especificações do produto: · Linha Get lost. · Modelagem regular. · Reforço de gola. · Estampa lost desert frontal no peito e na barra. · Etiqueta bandeira embutida na lateral. · Tag personalizado Lost. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>2</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>199.00 BRL</g:price>
       <g:sale_price>99.00 BRL</g:sale_price>
@@ -7797,7 +7797,7 @@
       <g:title>Chinelo Slider Lost Branco (37/38 / Branco)</g:title>
       <g:description>Ref.: 225210601-BBB Especificações do produto: · Chinelo Slide. · Estampa Lost em relevo. · Solado Anatômico. · Tira com forro de espuma. Composição: Solado EVA.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>3</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>2</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>169.90 BRL</g:price>
       <g:sale_price>118.93 BRL</g:sale_price>
@@ -7995,7 +7995,7 @@
       <g:title>T-Shirt Lost Anarchy Beat Preto (M / Preto)</g:title>
       <g:description>Ref.: 22513004-PPP Especificações do produto: · Linha Lost Sounds. · Modelagem regular. · Reforço de gola. · Estampa Frontal lost sounds. · Etiqueta quadrada lost na lateral da barra. · Estampa grande costas lost sounds. · Etiqueta clips na barra costas. · Etiqueta lateral embutida na barra pronta. · Tag personalizado Lost. Composição: Colors 100% Algodão. Cinza 88 % Algodão 12% Poliéster.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>17</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>15</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>199.00 BRL</g:price>
       <g:sale_price>139.30 BRL</g:sale_price>
@@ -8017,7 +8017,7 @@
       <g:title>T-Shirt Lost Anarchy Beat Preto (G / Preto)</g:title>
       <g:description>Ref.: 22513004-PPP Especificações do produto: · Linha Lost Sounds. · Modelagem regular. · Reforço de gola. · Estampa Frontal lost sounds. · Etiqueta quadrada lost na lateral da barra. · Estampa grande costas lost sounds. · Etiqueta clips na barra costas. · Etiqueta lateral embutida na barra pronta. · Tag personalizado Lost. Composição: Colors 100% Algodão. Cinza 88 % Algodão 12% Poliéster.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>33</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>31</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>199.00 BRL</g:price>
       <g:sale_price>139.30 BRL</g:sale_price>
@@ -8633,7 +8633,7 @@
       <g:title>Meia Invisível Dont Follow Me Mescla Claro (U / Mescla Claro)</g:title>
       <g:description>Ref.: 22426604-MS3 Para os mais discretos, quem curte conforto e quer estar de LOST até nos dias de reunião com o chefe da empresa ou nos jantares chics com pessoas chics. Especificações do produto: · Meia invisível. · Ponteira e calcanhar em recorte. · Estampa “dont follow me i’m Lost”. Composição: 63% algodão; 31% poliamida; 6% outras fibras</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>84</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>78</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>29.00 BRL</g:price>
       <g:sale_price>23.20 BRL</g:sale_price>
@@ -10833,7 +10833,7 @@
       <g:title>Boardshorts Lost Ent. Preto (38 / Preto)</g:title>
       <g:description>Ref.: 22514101-PPP Especificações do produto: · Linha Lost branding. · Modelagem comprido 53cm. · Estampa full print lost enterprises. · Bolso traseiro. · Etiqueta termocolante saturno aplicada na barra lateral. · Etiqueta aplicada no bolso traseiro. · Cós interno velcro. · Ilhós com cadarço ajustador. · Tag personalizado Lost. Composição: 93% Poliéster. 07% Elastano.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>2</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>259.00 BRL</g:price>
       <g:sale_price>129.50 BRL</g:sale_price>
@@ -10920,8 +10920,8 @@
       <g:id>1555414902</g:id>
       <g:title>Boardshorts Lost Ent. Preto (46 / Preto)</g:title>
       <g:description>Ref.: 22514101-PPP Especificações do produto: · Linha Lost branding. · Modelagem comprido 53cm. · Estampa full print lost enterprises. · Bolso traseiro. · Etiqueta termocolante saturno aplicada na barra lateral. · Etiqueta aplicada no bolso traseiro. · Cós interno velcro. · Ilhós com cadarço ajustador. · Tag personalizado Lost. Composição: 93% Poliéster. 07% Elastano.</g:description>
-      <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
+      <g:availability>out of stock</g:availability>
+      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>259.00 BRL</g:price>
       <g:sale_price>129.50 BRL</g:sale_price>
@@ -11889,7 +11889,7 @@
       <g:title>Wallet Porta Cartao Caramelo (U / Caramelo)</g:title>
       <g:description>Ref.: 22516301-CRM Especificações do produto: · Estampa lost baixo relevo. · Tamanho único. · Tecido oxford resinado. Composição: 72 % policloreto de vinila. 28% poliéster.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>9</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>6</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>199.00 BRL</g:price>
       <g:sale_price>159.20 BRL</g:sale_price>
@@ -11911,7 +11911,7 @@
       <g:title>Wallet Porta Cartao Preto (U / Preto)</g:title>
       <g:description>Ref.: 22516301-PPP Especificações do produto: · Estampa lost baixo relevo. · Tamanho único. · Tecido oxford resinado. Composição: 72 % policloreto de vinila. 28% poliéster.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>44</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>38</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>199.00 BRL</g:price>
       <g:sale_price>159.20 BRL</g:sale_price>
@@ -12725,7 +12725,7 @@
       <g:title>T-Shirt Lost Smoke Preto (G / Preto)</g:title>
       <g:description>Ref.: 22613018-PPP Linha 4:20. Especificações do produto: · Modelagem regular. · Reforço de gola. · Estampa frontal Lost 4:20. · Técnica especial brilha no escuro. · Etiqueta 4:20 saturno acima da barra. · Tag personalizado LOST X 4:20. · Tag com técnica especial do fogo. Composição: 100% Algodão. A Lost apresenta o drop 4:20: uma coleção inspirada na cultura canábica, trazendo peças com atitude, identidade e estética urbana. Um lançamento pensado para quem vive o lifestyle.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>10</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>8</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>169.00 BRL</g:price>
       <g:sale_price>99.00 BRL</g:sale_price>
@@ -13495,7 +13495,7 @@
       <g:title>T-Shirt Scorpion Puppet Preto (P / Preto)</g:title>
       <g:description>Ref.: 22512820-PPP Especificações do produto: · Lost enterprises. · Modelagem básica. · Reforço de gola. · Estampa lost enterprises. · Estampa grande costas. · Etiqueta bandeira embutida na lateral. · Técnica especial brilha no escuro. · Tag personalizado Lost. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>9</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>8</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>139.00 BRL</g:price>
       <g:sale_price>59.00 BRL</g:sale_price>
@@ -13693,7 +13693,7 @@
       <g:title>T-Shirt Rick And Morty Shock Preto (M / Preto Tap)</g:title>
       <g:description>Ref.: 22623008-PPP Especificações do produto: · Linha Rick and Morty. · Modelagem regular fit. · Estampa Rick and Morty no peito lateral. · Reforço de gola. · Estampa Rick and Morty X Lost no peito lateral direito. · Etiqueta clips costurada na barra frontal. · Etiqueta Rick and Morty aplicada acima da barra costas. · Tag personalizado Rick and Morty X Lost. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>33</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>31</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>179.00 BRL</g:price>
       <g:sale_price>89.50 BRL</g:sale_price>
@@ -14067,7 +14067,7 @@
       <g:title>T-Shirt Lost Enterprises Full Preto (G / Preto)</g:title>
       <g:description>Ref.: 22612009-PPP Especificações do produto: · Modelagem regular. · Estampa full print lost. · Reforço de gola. · Etiqueta frontal embutida na barra. · Etiqueta Lost embutida na barra costas. · Tag personalizado Lost. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>5</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>4</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>249.00 BRL</g:price>
       <g:sale_price>149.00 BRL</g:sale_price>
@@ -15563,7 +15563,7 @@
       <g:title>T-Shirt Cranio Verde (G / Verde)</g:title>
       <g:description>Ref.: 22612603-VVV Especificações do produto: · Modelagem box fit. · Estampa frontal saturno caveira. · Reforço de gola. · Etiqueta lost embutida na barra. · Tag personalizado Lost. Composição: 100% Algodão. .</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>8</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>7</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>239.00 BRL</g:price>
       <g:sale_price>99.00 BRL</g:sale_price>
@@ -16289,7 +16289,7 @@
       <g:title>T-Shirt Box Quadrada Fingerboard Preto (G / Preto)</g:title>
       <g:description>Ref.: 22612601-PPP Especificações do produto: · Modelagem box fit. · Estampa frontal skate saturno no peito lateral. · Reforço de gola. · Etiqueta Lost embutida na lateral. · Tag personalizado Lost. Composição: 100% Algodão. .</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>25</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>23</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>269.00 BRL</g:price>
       <g:sale_price>149.00 BRL</g:sale_price>
@@ -16311,7 +16311,7 @@
       <g:title>T-Shirt Box Quadrada Fingerboard Preto (GG / Preto)</g:title>
       <g:description>Ref.: 22612601-PPP Especificações do produto: · Modelagem box fit. · Estampa frontal skate saturno no peito lateral. · Reforço de gola. · Etiqueta Lost embutida na lateral. · Tag personalizado Lost. Composição: 100% Algodão. .</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>11</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>9</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>269.00 BRL</g:price>
       <g:sale_price>149.00 BRL</g:sale_price>
@@ -16524,7 +16524,7 @@
       <g:product_type>Shop &gt; Camisetas &gt; T-Shirts</g:product_type>
       <g:custom_label_0>Oferta Relampago - Ate 70% off · pecas a partir de R$ 59</g:custom_label_0>
       <g:custom_label_1>Camisetas</g:custom_label_1>
-      <g:custom_label_2>grade_ok</g:custom_label_2>
+      <g:custom_label_2>grade_quebrada</g:custom_label_2>
     </item>
     <item>
       <g:id>1555452250</g:id>
@@ -16546,14 +16546,14 @@
       <g:product_type>Shop &gt; Camisetas &gt; T-Shirts</g:product_type>
       <g:custom_label_0>Oferta Relampago - Ate 70% off · pecas a partir de R$ 59</g:custom_label_0>
       <g:custom_label_1>Camisetas</g:custom_label_1>
-      <g:custom_label_2>grade_ok</g:custom_label_2>
+      <g:custom_label_2>grade_quebrada</g:custom_label_2>
     </item>
     <item>
       <g:id>1555452288</g:id>
       <g:title>T-Shirt Pink Panther Tapioca (G / Tapioca)</g:title>
       <g:description>Ref.: 22613009-TAP · Linha Lost X Posca. Especificações do produto: · Modelagem regular. · Artista Rômulo deu cria. · Estampa Lost posca tigre no peito lateral. · Etiqueta Lost X posca embutida na barra frontal. · Reforço de gola. · Tag personalizado Lost x Posca. Composição: 100 % Algodão. A collab mais artística da história: LOST + POSCA! A marca de canetas japonesa conhecida mundialmente virou nossa parceira no Art Wear Collection, onde a arte não tem limite e a moda não tem regras. E como embaixadores dessa collab, chamamos 3 artistas brabos demais pra elaborar artes exclusivas: Rômulo deu Cria: o cara é tipo o grito em forma de desenho. É o que transforma a camiseta em protesto. Ele joga verdade na estampa, com força, sem suavizar.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>11</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>9</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>179.00 BRL</g:price>
       <g:sale_price>59.00 BRL</g:sale_price>
@@ -16568,14 +16568,14 @@
       <g:product_type>Shop &gt; Camisetas &gt; T-Shirts</g:product_type>
       <g:custom_label_0>Oferta Relampago - Ate 70% off · pecas a partir de R$ 59</g:custom_label_0>
       <g:custom_label_1>Camisetas</g:custom_label_1>
-      <g:custom_label_2>grade_ok</g:custom_label_2>
+      <g:custom_label_2>grade_quebrada</g:custom_label_2>
     </item>
     <item>
       <g:id>1555452330</g:id>
       <g:title>T-Shirt Pink Panther Tapioca (GG / Tapioca)</g:title>
       <g:description>Ref.: 22613009-TAP · Linha Lost X Posca. Especificações do produto: · Modelagem regular. · Artista Rômulo deu cria. · Estampa Lost posca tigre no peito lateral. · Etiqueta Lost X posca embutida na barra frontal. · Reforço de gola. · Tag personalizado Lost x Posca. Composição: 100 % Algodão. A collab mais artística da história: LOST + POSCA! A marca de canetas japonesa conhecida mundialmente virou nossa parceira no Art Wear Collection, onde a arte não tem limite e a moda não tem regras. E como embaixadores dessa collab, chamamos 3 artistas brabos demais pra elaborar artes exclusivas: Rômulo deu Cria: o cara é tipo o grito em forma de desenho. É o que transforma a camiseta em protesto. Ele joga verdade na estampa, com força, sem suavizar.</g:description>
-      <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>2</g:quantity_to_sell_on_facebook>
+      <g:availability>out of stock</g:availability>
+      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>179.00 BRL</g:price>
       <g:sale_price>59.00 BRL</g:sale_price>
@@ -16590,7 +16590,7 @@
       <g:product_type>Shop &gt; Camisetas &gt; T-Shirts</g:product_type>
       <g:custom_label_0>Oferta Relampago - Ate 70% off · pecas a partir de R$ 59</g:custom_label_0>
       <g:custom_label_1>Camisetas</g:custom_label_1>
-      <g:custom_label_2>grade_ok</g:custom_label_2>
+      <g:custom_label_2>grade_quebrada</g:custom_label_2>
     </item>
     <item>
       <g:id>1555453331</g:id>
@@ -18004,8 +18004,8 @@
       <g:id>1555462185</g:id>
       <g:title>Exclusiva Pochete Compacta Preto (U / Preto)</g:title>
       <g:description>Ref.: 225110503-PPP Especificações do produto: · Fecho e retangular. · Bolso frontal com friso de cadarço. · Abertura frente com zíper. · Etiqueta bandeira lost emborrachada. · Bolso superior traseiro com zíper. · Estampa localizada em plastisol. · Etiqueta clips aplicada na lateral. · Tag personalizado Lost. Composição: 100% Poliéster.</g:description>
-      <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>5</g:quantity_to_sell_on_facebook>
+      <g:availability>out of stock</g:availability>
+      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>179.00 BRL</g:price>
       <g:sale_price>99.00 BRL</g:sale_price>
@@ -18020,7 +18020,7 @@
       <g:product_type>Shop &gt; Acessórios &gt; Shoulders e Bags</g:product_type>
       <g:custom_label_0>Oferta Relampago - Ate 70% off · pecas a partir de R$ 59</g:custom_label_0>
       <g:custom_label_1>Camisetas</g:custom_label_1>
-      <g:custom_label_2>grade_ok</g:custom_label_2>
+      <g:custom_label_2>sem_estoque</g:custom_label_2>
     </item>
     <item>
       <g:id>1555462652</g:id>
@@ -19479,7 +19479,7 @@
       <g:title>T-Shirt Lost Attacks Chumbo Estanho (G / Chumbo Estanho)</g:title>
       <g:description>Ref.: 22622814-CBE Especificações do produto: · Linha Lost Funny. · Modelagem regular. · Estampa Lost Saturno localizada no peito. · Reforço de gola. · Etiqueta aplicada na barra frontal. · Técnica especial brilha no escuro. · Tag personalizado Lost. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>7</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>4</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>179.00 BRL</g:price>
       <g:sale_price>99.00 BRL</g:sale_price>
@@ -19545,7 +19545,7 @@
       <g:title>T-Shirt Lost Attacks Preto (M / Preto)</g:title>
       <g:description>Ref.: 22622814-PPP Especificações do produto: · Linha Lost Funny. · Modelagem regular. · Estampa Lost Saturno localizada no peito. · Reforço de gola. · Etiqueta aplicada na barra frontal. · Técnica especial brilha no escuro. · Tag personalizado Lost. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>6</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>5</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>179.00 BRL</g:price>
       <g:sale_price>99.00 BRL</g:sale_price>
@@ -19809,7 +19809,7 @@
       <g:title>T-Shirt Free Spirit Amarelo Azeite (M / Amarelo Azeite)</g:title>
       <g:description>Ref.: 22622822-AAZ Especificações do produto: · Linha Lost Branding. · Modelagem regular. · Estampa Lost Inc localizada no peito lateral. · Reforço de gola. · Estampa costas Boards e Goods. · Tag personalizado Lost. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>6</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>4</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>139.00 BRL</g:price>
       <g:sale_price>59.00 BRL</g:sale_price>
@@ -19831,7 +19831,7 @@
       <g:title>T-Shirt Free Spirit Amarelo Azeite (G / Amarelo Azeite)</g:title>
       <g:description>Ref.: 22622822-AAZ Especificações do produto: · Linha Lost Branding. · Modelagem regular. · Estampa Lost Inc localizada no peito lateral. · Reforço de gola. · Estampa costas Boards e Goods. · Tag personalizado Lost. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>21</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>19</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>139.00 BRL</g:price>
       <g:sale_price>59.00 BRL</g:sale_price>
@@ -19963,7 +19963,7 @@
       <g:title>Wallet Fullpirnt Enterprises Preto (U / Preto)</g:title>
       <g:description>Ref.: 22516303-PPP Especificações do produto: · Estampa lost enterprises. · Tamanho único. · Tecido liso pu (couro) . · Estampa interna saturno em baixo relevo. Composição: 100% Couro. Forro: 100% Poliéster..</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>8</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>4</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>199.00 BRL</g:price>
       <g:sale_price>149.00 BRL</g:sale_price>
@@ -21547,7 +21547,7 @@
       <g:title>T-Shirt Dont Follow Me Preto (M / Preto)</g:title>
       <g:description>Ref.: 22623004-PPP Especificações do produto: · Linha Lost Branding. · Modelagem regular. · Estampa Lost Enterprises localizada na frente. · Reforço de gola. · Estampas frontais localizadas no peito lateral dos dois lados. · Etiqueta frontal Lost aplicada acima da barra. · Tag personalizado Lost. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>8</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>5</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>199.00 BRL</g:price>
       <g:sale_price>59.00 BRL</g:sale_price>
@@ -21569,7 +21569,7 @@
       <g:title>T-Shirt Dont Follow Me Preto (G / Preto)</g:title>
       <g:description>Ref.: 22623004-PPP Especificações do produto: · Linha Lost Branding. · Modelagem regular. · Estampa Lost Enterprises localizada na frente. · Reforço de gola. · Estampas frontais localizadas no peito lateral dos dois lados. · Etiqueta frontal Lost aplicada acima da barra. · Tag personalizado Lost. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>11</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>9</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>199.00 BRL</g:price>
       <g:sale_price>59.00 BRL</g:sale_price>
@@ -21591,7 +21591,7 @@
       <g:title>T-Shirt Dont Follow Me Preto (GG / Preto)</g:title>
       <g:description>Ref.: 22623004-PPP Especificações do produto: · Linha Lost Branding. · Modelagem regular. · Estampa Lost Enterprises localizada na frente. · Reforço de gola. · Estampas frontais localizadas no peito lateral dos dois lados. · Etiqueta frontal Lost aplicada acima da barra. · Tag personalizado Lost. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>4</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>3</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>199.00 BRL</g:price>
       <g:sale_price>59.00 BRL</g:sale_price>
@@ -21657,7 +21657,7 @@
       <g:title>T-Shirt Dont Follow Me Tapioca (G / Tapioca)</g:title>
       <g:description>Ref.: 22623004-TAP Especificações do produto: · Linha Lost Branding. · Modelagem regular. · Estampa Lost Enterprises localizada na frente. · Reforço de gola. · Estampas frontais localizadas no peito lateral dos dois lados. · Etiqueta frontal Lost aplicada acima da barra. · Tag personalizado Lost. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>10</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>8</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>199.00 BRL</g:price>
       <g:sale_price>59.00 BRL</g:sale_price>
@@ -22317,7 +22317,7 @@
       <g:title>T-Shirt Gear Preto (G / Preto)</g:title>
       <g:description>Ref.: 22613004-PPP Linha Get Lost. Especificações do produto: Modelagem Regular. Estampas localizadas frente. Etiqueta Saturno centralizada na manga. Etiqueta aplicada na barra costa. Reforço de gola. Tag personalizado LOST. Composição. 100% Algodão. LOST Racing Club. Se você perguntar por aí, vão dizer que o que a gente faz é errado. Perigoso… Irresponsável… Coisa de quem não tem futuro. Talvez o problema seja que nós nunca soubemos andar na mesma direção que eles. Porque isso aqui é pra quem prefere viver do seu próprio jeito, mesmo que ninguém entenda. Don’t follow me, i’m …LOST</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>4</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>2</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>179.00 BRL</g:price>
       <g:sale_price>59.00 BRL</g:sale_price>
@@ -22339,7 +22339,7 @@
       <g:title>T-Shirt Gear Preto (GG / Preto)</g:title>
       <g:description>Ref.: 22613004-PPP Linha Get Lost. Especificações do produto: Modelagem Regular. Estampas localizadas frente. Etiqueta Saturno centralizada na manga. Etiqueta aplicada na barra costa. Reforço de gola. Tag personalizado LOST. Composição. 100% Algodão. LOST Racing Club. Se você perguntar por aí, vão dizer que o que a gente faz é errado. Perigoso… Irresponsável… Coisa de quem não tem futuro. Talvez o problema seja que nós nunca soubemos andar na mesma direção que eles. Porque isso aqui é pra quem prefere viver do seu próprio jeito, mesmo que ninguém entenda. Don’t follow me, i’m …LOST</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>6</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>4</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>179.00 BRL</g:price>
       <g:sale_price>59.00 BRL</g:sale_price>
@@ -22405,7 +22405,7 @@
       <g:title>T-Shirt Gear Tapioca (G / Tapioca)</g:title>
       <g:description>Ref.: 22613004-TAP Linha Get Lost. Especificações do produto: Modelagem Regular. Estampas localizadas frente. Etiqueta Saturno centralizada na manga. Etiqueta aplicada na barra costa. Reforço de gola. Tag personalizado LOST. Composição. 100% Algodão. LOST Racing Club. Se você perguntar por aí, vão dizer que o que a gente faz é errado. Perigoso… Irresponsável… Coisa de quem não tem futuro. Talvez o problema seja que nós nunca soubemos andar na mesma direção que eles. Porque isso aqui é pra quem prefere viver do seu próprio jeito, mesmo que ninguém entenda. Don’t follow me, i’m …LOST</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>13</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>11</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>179.00 BRL</g:price>
       <g:sale_price>59.00 BRL</g:sale_price>
@@ -22426,8 +22426,8 @@
       <g:id>1555493416</g:id>
       <g:title>T-Shirt Gear Tapioca (GG / Tapioca)</g:title>
       <g:description>Ref.: 22613004-TAP Linha Get Lost. Especificações do produto: Modelagem Regular. Estampas localizadas frente. Etiqueta Saturno centralizada na manga. Etiqueta aplicada na barra costa. Reforço de gola. Tag personalizado LOST. Composição. 100% Algodão. LOST Racing Club. Se você perguntar por aí, vão dizer que o que a gente faz é errado. Perigoso… Irresponsável… Coisa de quem não tem futuro. Talvez o problema seja que nós nunca soubemos andar na mesma direção que eles. Porque isso aqui é pra quem prefere viver do seu próprio jeito, mesmo que ninguém entenda. Don’t follow me, i’m …LOST</g:description>
-      <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
+      <g:availability>out of stock</g:availability>
+      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>179.00 BRL</g:price>
       <g:sale_price>59.00 BRL</g:sale_price>
@@ -23659,7 +23659,7 @@
       <g:title>T-Shirt Lost Wolf Cropped Mescla Médio (G / Mescla Médio)</g:title>
       <g:description>Ref.: 22512812C-MS1 Especificações do produto: · Linha Lost Funny. · Modelagem cropped. · Estampa frontal lobo Lost. · Etiqueta bandeira embutida na lateral. · Reforço de gola. · Tag personalizado LOST. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>13</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>11</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>159.00 BRL</g:price>
       <g:sale_price>59.00 BRL</g:sale_price>
@@ -23681,7 +23681,7 @@
       <g:title>T-Shirt Lost Wolf Cropped Mescla Médio (GG / Mescla Médio)</g:title>
       <g:description>Ref.: 22512812C-MS1 Especificações do produto: · Linha Lost Funny. · Modelagem cropped. · Estampa frontal lobo Lost. · Etiqueta bandeira embutida na lateral. · Reforço de gola. · Tag personalizado LOST. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>4</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>2</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>159.00 BRL</g:price>
       <g:sale_price>59.00 BRL</g:sale_price>
@@ -24715,7 +24715,7 @@
       <g:title>T-Shirt Saturn After The Domination Branco (GG / Branco)</g:title>
       <g:description>Ref.: 22622610-BBB Especificações do produto: · Linha Lost Funny. · Modelagem box fit. · Estampa frontal Saturno + Lost institucional. · Reforço de gola. · Etiqueta Lost embutida na lateral. · Técnica especial brilha no escuro. · Tag personalizado Lost. Composição: 100% Algodão. Lost Summer Verão 25.26 / Linha Lost Funny</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>4</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>3</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>239.00 BRL</g:price>
       <g:sale_price>99.00 BRL</g:sale_price>
@@ -24979,7 +24979,7 @@
       <g:title>Track Pants Utility Caqui (GG / Caqui)</g:title>
       <g:description>Ref.: 22514501-CCQ Especificações do produto: · Modelagem track pants. · Etiqueta Lost aplicada no final do bolso frontal. · Ilhós + cordão ajustador. · Cós com elástico. · Bolsos traseiros. · Etiqueta embutida no cós. · Barra com elástico. · Detalhe de aleta com velcro na barra. · Bolso cargo com pence e fechamento com velcro. · Tag personalizado Lost. Composição: 100% Poliamida.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>2</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>499.00 BRL</g:price>
       <g:sale_price>149.00 BRL</g:sale_price>
@@ -25221,7 +25221,7 @@
       <g:title>T-Shirt Branding Stencil Oversized Preto (G1 / Preto)</g:title>
       <g:description>Ref.: 22622820X-PPP Especificações do produto: · Lost Branding. · Modelagem regular. · Estampa Saturno Lost localizada no peito. · Reforço de gola. · Etiqueta aplicada na barra. · Técnica brilha no escuro. · Tag personalizado Lost. Composição: 100% Algodão. Meia Malha 30/1.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>15</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>14</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>199.00 BRL</g:price>
       <g:sale_price>59.00 BRL</g:sale_price>
@@ -25793,7 +25793,7 @@
       <g:title>Jaqueta Windbreaker Lets Get Together Verde Limão (G / Verde Limão)</g:title>
       <g:description>Ref.: 22215803-V16 Festivais, eventos e festas, sair de casa pra ficar com a galera e curtir o máximo. A gente respira a vida na rua, a diversão e a curtição sem fim, vida essa que não pode parar, faça chuva ou faça sol. A coleção Let’s Get Together vem para te acompanhar em qualquer que seja o seu rolê. Peças com cores vibrantes e estampas secretas que aparecem quando molhadas, diferentes e únicas feitas para quem vive a vida na rua. Especificações do produto: · Jaqueta corta vento. · Capuz com cadarço ajustador. · Fechamento frontal em zíper. · Bolsos frontais. · Etiqueta emborrachada. · Tecido que reage com a água. Composição: 100% poliéster.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>34</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>32</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>699.90 BRL</g:price>
       <g:sale_price>149.00 BRL</g:sale_price>
@@ -25815,7 +25815,7 @@
       <g:title>Jaqueta Windbreaker Lets Get Together Verde Limão (GG / Verde Limão)</g:title>
       <g:description>Ref.: 22215803-V16 Festivais, eventos e festas, sair de casa pra ficar com a galera e curtir o máximo. A gente respira a vida na rua, a diversão e a curtição sem fim, vida essa que não pode parar, faça chuva ou faça sol. A coleção Let’s Get Together vem para te acompanhar em qualquer que seja o seu rolê. Peças com cores vibrantes e estampas secretas que aparecem quando molhadas, diferentes e únicas feitas para quem vive a vida na rua. Especificações do produto: · Jaqueta corta vento. · Capuz com cadarço ajustador. · Fechamento frontal em zíper. · Bolsos frontais. · Etiqueta emborrachada. · Tecido que reage com a água. Composição: 100% poliéster.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>28</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>27</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>699.90 BRL</g:price>
       <g:sale_price>149.00 BRL</g:sale_price>
@@ -26739,7 +26739,7 @@
       <g:title>T-Shirt Make Friends Preto (M / Preto)</g:title>
       <g:description>Ref.: 22512813-PPP Especificações do produto: · Lost funny. · Modelagem básica. · Estampa frontal Saturnos no peito. · Estampa silk grande costas. · Reforço de gola. · Etiqueta bandeira embutida na lateral. · Tag personalizado Lost. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>2</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>189.00 BRL</g:price>
       <g:sale_price>59.00 BRL</g:sale_price>
@@ -26827,7 +26827,7 @@
       <g:title>T-Shirt Same Shit Lost Days Preto (M / Preto)</g:title>
       <g:description>Ref.: 22512009-PPP Especificações do produto: · Modelagem básica. · Linha lost funny. · Estampa full print lost days. · Reforço de gola. · Etiqueta clips na barra lateral. · Tag personalizado Lost. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>4</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>3</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>239.00 BRL</g:price>
       <g:sale_price>99.00 BRL</g:sale_price>
@@ -26893,7 +26893,7 @@
       <g:title>Shoulder Lost X Posca Preto (U / Preto)</g:title>
       <g:description>Ref.: 226110502-PPP · Linha Lost X Posca. Especificações do produto: · Estampa Lost + posca na lateral. · Ponteira com puxador em elástico. · Fechamento em zíper + Fechamento de encaixe. · Etiqueta lost embutida na lateral. · Compartimento para caneta Posca. · Tag personalizado Lost x Posca. Composição: 100 % Algodão. A collab mais artística da história: LOST + POSCA! A marca de canetas japonesa conhecida mundialmente virou nossa parceira no Art Wear Collection, onde a arte não tem limite e a moda não tem regras.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>59</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>51</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>309.00 BRL</g:price>
       <g:sale_price>149.00 BRL</g:sale_price>
@@ -27113,7 +27113,7 @@
       <g:title>T-Shirt Celestial Preto (M / Preto)</g:title>
       <g:description>Ref.: 22622824-PPP Especificações do produto: · Lost Branding. · Modelagem regular. · Meia malha penteada. · Estampa frontal Lost International. · Reforço de gola. · Etiqueta Lost aplicada na barra frontal. · Tag personalizado Lost. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>3</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>2</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>169.00 BRL</g:price>
       <g:sale_price>59.00 BRL</g:sale_price>
@@ -27135,7 +27135,7 @@
       <g:title>T-Shirt Celestial Preto (G / Preto)</g:title>
       <g:description>Ref.: 22622824-PPP Especificações do produto: · Lost Branding. · Modelagem regular. · Meia malha penteada. · Estampa frontal Lost International. · Reforço de gola. · Etiqueta Lost aplicada na barra frontal. · Tag personalizado Lost. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>6</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>5</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>169.00 BRL</g:price>
       <g:sale_price>59.00 BRL</g:sale_price>
@@ -27201,7 +27201,7 @@
       <g:title>Chinelo Masc Lost Ovelha Branco (39/40 / Branco)</g:title>
       <g:description>Ref.: 225110604-BBB Especificações do produto: · Chinelo Flop. · Solado tradicional. · Alça personalizada Saturno. · Sola com silk Ovelha Lost. Composição: Solado de borracha com tira de PVC.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>3</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>2</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>89.90 BRL</g:price>
       <g:sale_price>59.00 BRL</g:sale_price>
@@ -28998,7 +28998,7 @@
       <g:product_type>Shop &gt; Camisetas &gt; Especiais</g:product_type>
       <g:custom_label_0>Oferta Relampago - Ate 70% off · pecas a partir de R$ 59</g:custom_label_0>
       <g:custom_label_1>Camisetas</g:custom_label_1>
-      <g:custom_label_2>grade_ok</g:custom_label_2>
+      <g:custom_label_2>grade_quebrada</g:custom_label_2>
     </item>
     <item>
       <g:id>1555517426</g:id>
@@ -29020,7 +29020,7 @@
       <g:product_type>Shop &gt; Camisetas &gt; Especiais</g:product_type>
       <g:custom_label_0>Oferta Relampago - Ate 70% off · pecas a partir de R$ 59</g:custom_label_0>
       <g:custom_label_1>Camisetas</g:custom_label_1>
-      <g:custom_label_2>grade_ok</g:custom_label_2>
+      <g:custom_label_2>grade_quebrada</g:custom_label_2>
     </item>
     <item>
       <g:id>1555517429</g:id>
@@ -29042,14 +29042,14 @@
       <g:product_type>Shop &gt; Camisetas &gt; Especiais</g:product_type>
       <g:custom_label_0>Oferta Relampago - Ate 70% off · pecas a partir de R$ 59</g:custom_label_0>
       <g:custom_label_1>Camisetas</g:custom_label_1>
-      <g:custom_label_2>grade_ok</g:custom_label_2>
+      <g:custom_label_2>grade_quebrada</g:custom_label_2>
     </item>
     <item>
       <g:id>1555517431</g:id>
       <g:title>T-Shirt Lost Enterprises Elements Blue (Azul) (GG / Blue (Azul))</g:title>
       <g:description>Ref.: 22512010-DDD Especificações do produto: · Modelagem básica. · Linha lost enterprises. · Estampa full print elements. · Reforço de gola. · Etiqueta clips na barra lateral. · Tag personalizado Lost. Composição: 100% Algodão.</g:description>
-      <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
+      <g:availability>out of stock</g:availability>
+      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>239.00 BRL</g:price>
       <g:sale_price>99.00 BRL</g:sale_price>
@@ -29064,7 +29064,7 @@
       <g:product_type>Shop &gt; Camisetas &gt; Especiais</g:product_type>
       <g:custom_label_0>Oferta Relampago - Ate 70% off · pecas a partir de R$ 59</g:custom_label_0>
       <g:custom_label_1>Camisetas</g:custom_label_1>
-      <g:custom_label_2>grade_ok</g:custom_label_2>
+      <g:custom_label_2>grade_quebrada</g:custom_label_2>
     </item>
     <item>
       <g:id>1555517494</g:id>
@@ -29115,7 +29115,7 @@
       <g:title>T-Shirt Lost Enterprises Elements Marrom Chocolat (G / Marrom Chocolat)</g:title>
       <g:description>Ref.: 22512010-MRT Especificações do produto: · Modelagem básica. · Linha lost enterprises. · Estampa full print elements. · Reforço de gola. · Etiqueta clips na barra lateral. · Tag personalizado Lost. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>36</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>34</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>239.00 BRL</g:price>
       <g:sale_price>99.00 BRL</g:sale_price>
@@ -29379,7 +29379,7 @@
       <g:title>Camiseta Ml Lost Racing Preto (G / Preto)</g:title>
       <g:description>Ref.: 22612703-PPP Linha Get Lost. Especificações do produto: Modelagem Camiseta Manga Longa. Estampa centralizada na lateral das mangas. Punho em ribana. Etiqueta aplicada na barra frente. Estampa peito lateral. Estampa centralizada costas. Reforço de gola. Tag personalizado LOST. Composição. 100% Algodão. LOST Racing Club. Se você perguntar por aí, vão dizer que o que a gente faz é errado. Perigoso… Irresponsável… Coisa de quem não tem futuro. Talvez o problema seja que nós nunca soubemos andar na mesma direção que eles. Porque isso aqui é pra quem prefere viver do seu próprio jeito, mesmo que ninguém entenda. Don’t follow me, i’m …LOST</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>32</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>31</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>239.00 BRL</g:price>
       <g:sale_price>99.00 BRL</g:sale_price>
@@ -29510,8 +29510,8 @@
       <g:id>1555518676</g:id>
       <g:title>T-Shirt Drop Pen Branco (P / Branco)</g:title>
       <g:description>Ref.: 22613007-BBB · Linha Lost X Posca. Especificações do produto: · Modelagem regular. · Artista Nihao. · Estampa Lost posca no peito lateral. · Etiqueta Lost X posca embutida na barra frontal. · Estampa Nihao lost X posca nas costas. · Reforço de gola. · Tag personalizado Lost x Posca. Composição: 100 % Algodão. A collab mais artística da história: LOST + POSCA! A marca de canetas japonesa conhecida mundialmente virou nossa parceira no Art Wear Collection, onde a arte não tem limite e a moda não tem regras. E como embaixadores dessa collab, chamamos 3 artistas brabos demais pra elaborar artes exclusivas: Nihao: traz o caos bonito das ruas que a gente ama. Ela representa o olhar sem filtro, que resolve tudo na mão. É com cores firmes e fortes que a Nihao é arte viva!.</g:description>
-      <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
+      <g:availability>out of stock</g:availability>
+      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>229.00 BRL</g:price>
       <g:sale_price>59.00 BRL</g:sale_price>
@@ -29526,7 +29526,7 @@
       <g:product_type>Shop &gt; Camisetas &gt; T-Shirts</g:product_type>
       <g:custom_label_0>Oferta Relampago - Ate 70% off · pecas a partir de R$ 59</g:custom_label_0>
       <g:custom_label_1>Camisetas</g:custom_label_1>
-      <g:custom_label_2>grade_ok</g:custom_label_2>
+      <g:custom_label_2>grade_quebrada</g:custom_label_2>
     </item>
     <item>
       <g:id>1555518703</g:id>
@@ -29548,7 +29548,7 @@
       <g:product_type>Shop &gt; Camisetas &gt; T-Shirts</g:product_type>
       <g:custom_label_0>Oferta Relampago - Ate 70% off · pecas a partir de R$ 59</g:custom_label_0>
       <g:custom_label_1>Camisetas</g:custom_label_1>
-      <g:custom_label_2>grade_ok</g:custom_label_2>
+      <g:custom_label_2>grade_quebrada</g:custom_label_2>
     </item>
     <item>
       <g:id>1555518708</g:id>
@@ -29570,7 +29570,7 @@
       <g:product_type>Shop &gt; Camisetas &gt; T-Shirts</g:product_type>
       <g:custom_label_0>Oferta Relampago - Ate 70% off · pecas a partir de R$ 59</g:custom_label_0>
       <g:custom_label_1>Camisetas</g:custom_label_1>
-      <g:custom_label_2>grade_ok</g:custom_label_2>
+      <g:custom_label_2>grade_quebrada</g:custom_label_2>
     </item>
     <item>
       <g:id>1555518731</g:id>
@@ -29592,7 +29592,7 @@
       <g:product_type>Shop &gt; Camisetas &gt; T-Shirts</g:product_type>
       <g:custom_label_0>Oferta Relampago - Ate 70% off · pecas a partir de R$ 59</g:custom_label_0>
       <g:custom_label_1>Camisetas</g:custom_label_1>
-      <g:custom_label_2>grade_ok</g:custom_label_2>
+      <g:custom_label_2>grade_quebrada</g:custom_label_2>
     </item>
     <item>
       <g:id>1555518825</g:id>
@@ -29643,7 +29643,7 @@
       <g:title>T-Shirt Drop Pen Preto (G / Preto)</g:title>
       <g:description>Ref.: 22613007-PPP · Linha Lost X Posca. Especificações do produto: · Modelagem regular. · Artista Nihao. · Estampa Lost posca no peito lateral. · Etiqueta Lost X posca embutida na barra frontal. · Estampa Nihao lost X posca nas costas. · Reforço de gola. · Tag personalizado Lost x Posca. Composição: 100 % Algodão. A collab mais artística da história: LOST + POSCA! A marca de canetas japonesa conhecida mundialmente virou nossa parceira no Art Wear Collection, onde a arte não tem limite e a moda não tem regras. E como embaixadores dessa collab, chamamos 3 artistas brabos demais pra elaborar artes exclusivas: Nihao: traz o caos bonito das ruas que a gente ama. Ela representa o olhar sem filtro, que resolve tudo na mão. É com cores firmes e fortes que a Nihao é arte viva!.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>8</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>7</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>229.00 BRL</g:price>
       <g:sale_price>59.00 BRL</g:sale_price>
@@ -30325,7 +30325,7 @@
       <g:title>T-Shirt Dj Sounds Cropped Branco (G / Branco)</g:title>
       <g:description>Ref.: 22513005C-BBB Especificações do produto: · Linha Lost Sounds. · Modelagem cropped. · Estampa frontal Sounds localizada no peito lateral. · Etiqueta lateral Lost Sounds. · Reforço de gola. · Etiqueta Clips na barra costas. · Tag personalizado LOST. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>2</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>139.00 BRL</g:price>
       <g:sale_price>59.00 BRL</g:sale_price>
@@ -30765,7 +30765,7 @@
       <g:title>T-Shirt Beater Chumbo Estanho (G / Chumbo Estanho)</g:title>
       <g:description>Ref.: 22622823-CBE Especificações do produto: · Linha Lost Branding. · Modelagem regular fit. · Estampa frontal no centro. · Reforço de gola. · Etiqueta Lost embutida na barra frontal. · Estampa costas Beater Lost. · Tag personalizado Lost. Composição: 100% Algodão. Lost Summer Verão 25.26 / Linha Lost Branding</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>12</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>10</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>159.00 BRL</g:price>
       <g:sale_price>59.00 BRL</g:sale_price>
@@ -30853,7 +30853,7 @@
       <g:title>Canguru Hello My Name Is Preto (G / Preto)</g:title>
       <g:description>Ref.: 22613606-PPP Linha Lost X Posca. Especificações do produto: · Modelagem especial regular. · Estampa tag Lost my name is no peito lateral. · Etiqueta lost posca na barra frontal. · Punho e barra em ribana. · Capuz + forro no capuz. · Estampa lost X posca acima da barra costas. · Reforço de gola. · Tag personalizado Lost x Posca. Composição: 72 % CO 28% PES. A collab mais artística da história: LOST + POSCA! A marca de canetas japonesa conhecida mundialmente virou nossa parceira no Art Wear Collection, onde a arte não tem limite e a moda não tem regras.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>6</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>5</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>539.00 BRL</g:price>
       <g:sale_price>149.00 BRL</g:sale_price>
@@ -31051,7 +31051,7 @@
       <g:title>T-Shirt Drop Of Ink Branco (GG / Branco)</g:title>
       <g:description>Ref.: 22613006-BBB · Linha Lost X Posca. Especificações do produto: · Modelagem regular. · Artista Nihao. · Estampa Lost nihao posca no peito lateral. · Etiqueta Lost X posca embutida na barra frontal. · Reforço de gola. · Tag personalizado Lost x Posca. Composição: 100 % Algodão. A collab mais artística da história: LOST + POSCA! A marca de canetas japonesa conhecida mundialmente virou nossa parceira no Art Wear Collection, onde a arte não tem limite e a moda não tem regras. E como embaixadores dessa collab, chamamos 3 artistas brabos demais pra elaborar artes exclusivas: Nihao: traz o caos bonito das ruas que a gente ama. Ela representa o olhar sem filtro, que resolve tudo na mão. É com cores firmes e fortes que a Nihao é arte viva!.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>4</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>3</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>189.00 BRL</g:price>
       <g:sale_price>59.00 BRL</g:sale_price>
@@ -33536,8 +33536,8 @@
       <g:id>1555530257</g:id>
       <g:title>Boardshorts Lost Clover Tapioca (38 / Tapioca)</g:title>
       <g:description>Ref.: 22514103-TAP Especificações do produto: · Linha Lost Funny. · Modelagem comprido 53cm. · Estampa full print lost clover. · Bolso traseiro listrado com fechamento em velcro. · Etiqueta termocolante saturno aplicada na barra lateral. · Etiqueta lost centralizada no bolso traseiro. · Cos interno velcro. · Ilhós com cadarço ajustador. · Tag personalizado Lost. Composição: 93% Poliéster. 07% Elastano.</g:description>
-      <g:availability>out of stock</g:availability>
-      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
+      <g:availability>in stock</g:availability>
+      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>379.00 BRL</g:price>
       <g:sale_price>149.00 BRL</g:sale_price>
@@ -33552,7 +33552,7 @@
       <g:product_type>Shop &gt; Bermudas &gt; Boardshorts</g:product_type>
       
       
-      <g:custom_label_2>grade_quebrada</g:custom_label_2>
+      <g:custom_label_2>grade_ok</g:custom_label_2>
     </item>
     <item>
       <g:id>1555530263</g:id>
@@ -33574,7 +33574,7 @@
       <g:product_type>Shop &gt; Bermudas &gt; Boardshorts</g:product_type>
       
       
-      <g:custom_label_2>grade_quebrada</g:custom_label_2>
+      <g:custom_label_2>grade_ok</g:custom_label_2>
     </item>
     <item>
       <g:id>1555530267</g:id>
@@ -33596,7 +33596,7 @@
       <g:product_type>Shop &gt; Bermudas &gt; Boardshorts</g:product_type>
       
       
-      <g:custom_label_2>grade_quebrada</g:custom_label_2>
+      <g:custom_label_2>grade_ok</g:custom_label_2>
     </item>
     <item>
       <g:id>1555530272</g:id>
@@ -33618,7 +33618,7 @@
       <g:product_type>Shop &gt; Bermudas &gt; Boardshorts</g:product_type>
       
       
-      <g:custom_label_2>grade_quebrada</g:custom_label_2>
+      <g:custom_label_2>grade_ok</g:custom_label_2>
     </item>
     <item>
       <g:id>1555530273</g:id>
@@ -33640,7 +33640,7 @@
       <g:product_type>Shop &gt; Bermudas &gt; Boardshorts</g:product_type>
       
       
-      <g:custom_label_2>grade_quebrada</g:custom_label_2>
+      <g:custom_label_2>grade_ok</g:custom_label_2>
     </item>
     <item>
       <g:id>1555530274</g:id>
@@ -33662,7 +33662,7 @@
       <g:product_type>Shop &gt; Bermudas &gt; Boardshorts</g:product_type>
       
       
-      <g:custom_label_2>grade_quebrada</g:custom_label_2>
+      <g:custom_label_2>grade_ok</g:custom_label_2>
     </item>
     <item>
       <g:id>1555530603</g:id>
@@ -33757,7 +33757,7 @@
       <g:title>Exclusiva - Cropped Sheep Preto (P / Preto)</g:title>
       <g:description>Ref.: 22612806C-PPP REFERÊNCIAS CANCELADAS APÓS REUNIÃO DE PREÇO (11/09/25) – DEVIDO À “ENXERTO” DE ESTOQUES</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>10</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>9</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>119.00 BRL</g:price>
       <g:sale_price>59.00 BRL</g:sale_price>
@@ -34945,7 +34945,7 @@
       <g:title>T-Shirt All Bass No Trouble Tapioca (G / Tapioca Mostr)</g:title>
       <g:description>Ref.: 22512604-TAP Especificações do produto: · Modelagem box fit. · Linha Lost Sounds. · Estampas tinta puff lost sounds localizadas na lateral frontal. · Reforço de gola. · Etiqueta clips embutida na barra frontal. · Etiqueta lost aplicada acima da barra costas. · Estampa puff costas lost. · Tag personalizado Lost. Composição: Malhão eco 259Grs Fibras Diversas.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>8</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>6</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>259.00 BRL</g:price>
       <g:sale_price>149.00 BRL</g:sale_price>
@@ -35539,7 +35539,7 @@
       <g:title>T-Shirt The Path To Freedom Tapioca (M / Tapioca Tapioca)</g:title>
       <g:description>Ref.: 22522607-TAP Ta liberado se jogar no meio do mato pra enfrentar os perrengues com a linha GET LOST. Feito para quem quer se jogar no mundão, fissurado pelas experiências ao ar livre e gosta de estar sempre em movimento. Peças que além de externar esse lifestyle nas estampas, ainda possuem alguns detalhes que vão facilitar suas vivências durante essas aventuras. Especificações do produto: · Linha Especial Get Lost . · Modelagem Box Fit. · Estampa localizada na frente e costas. · Reforço da gola. · Etiqueta Lost Embutida na Lateral. · Meia Malha 30/1. · Etiqueta Personalizada Saturno centralizada na Manga. Composição: 100% algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>22</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>20</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>159.00 BRL</g:price>
       <g:sale_price>99.00 BRL</g:sale_price>
@@ -35561,7 +35561,7 @@
       <g:title>T-Shirt The Path To Freedom Tapioca (G / Tapioca Tapioca)</g:title>
       <g:description>Ref.: 22522607-TAP Ta liberado se jogar no meio do mato pra enfrentar os perrengues com a linha GET LOST. Feito para quem quer se jogar no mundão, fissurado pelas experiências ao ar livre e gosta de estar sempre em movimento. Peças que além de externar esse lifestyle nas estampas, ainda possuem alguns detalhes que vão facilitar suas vivências durante essas aventuras. Especificações do produto: · Linha Especial Get Lost . · Modelagem Box Fit. · Estampa localizada na frente e costas. · Reforço da gola. · Etiqueta Lost Embutida na Lateral. · Meia Malha 30/1. · Etiqueta Personalizada Saturno centralizada na Manga. Composição: 100% algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>36</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>33</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>159.00 BRL</g:price>
       <g:sale_price>99.00 BRL</g:sale_price>
@@ -37079,7 +37079,7 @@
       <g:title>Tshirt Its Only Magic Tapioca (GG / Tapioca Msotruário)</g:title>
       <g:description>Ref.: 22413002-TAP …LOST MAGIC PILLS A coleção Magic Pills é inspirada no universo dos cogumelos alucinógenos, buscando transmitir a experiência única e psicodélica que eles proporcionam. Com estampas lúdicas e vibrantes, feitas em tinta neon, que remetem às sensações e imagens que podem surgir durante uma viagem com cogumelos. Além disso, a coleção Magic Pills também busca desmistificar o uso dos cogumelos, trazendo-os para o contexto da moda de forma divertida, sem incentivar o uso irresponsável ou excessivo. Especificações do produto: · Modelagem regular. · Meia malha penteada 30/1. · Etiqueta personalizada. · Tag personalizada. · Estampa localizada no peito. · Estampas em tinta neon que reagem à luz negra. Composição: 100% algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>8</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>6</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>189.00 BRL</g:price>
       <g:sale_price>99.00 BRL</g:sale_price>
@@ -37402,7 +37402,7 @@
       <g:product_type>Shop &gt; Camisetas &gt; T-Shirts</g:product_type>
       <g:custom_label_0>Oferta Relampago - Ate 70% off · pecas a partir de R$ 59</g:custom_label_0>
       <g:custom_label_1>Camisetas</g:custom_label_1>
-      <g:custom_label_2>grade_ok</g:custom_label_2>
+      <g:custom_label_2>grade_quebrada</g:custom_label_2>
     </item>
     <item>
       <g:id>1555540648</g:id>
@@ -37424,14 +37424,14 @@
       <g:product_type>Shop &gt; Camisetas &gt; T-Shirts</g:product_type>
       <g:custom_label_0>Oferta Relampago - Ate 70% off · pecas a partir de R$ 59</g:custom_label_0>
       <g:custom_label_1>Camisetas</g:custom_label_1>
-      <g:custom_label_2>grade_ok</g:custom_label_2>
+      <g:custom_label_2>grade_quebrada</g:custom_label_2>
     </item>
     <item>
       <g:id>1555540652</g:id>
       <g:title>T-Shirt Lost Mummy Saturn Branco (G / Branco)</g:title>
       <g:description>Ref.: 22622811-BBB Especificações do produto: · Linha Lost Funny. · Modelagem regular fit. · Estampa frontal Saturno Mummy no centro. · Reforço de gola. · Etiqueta Lost embutida na barra frontal. · Técnica especial efeito neon. · Tag personalizado Lost. Composição: 100% Algodão. Lost Summer Verão 25.26 / Linha Lost Funny</g:description>
-      <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>2</g:quantity_to_sell_on_facebook>
+      <g:availability>out of stock</g:availability>
+      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>169.00 BRL</g:price>
       <g:sale_price>59.00 BRL</g:sale_price>
@@ -37446,7 +37446,7 @@
       <g:product_type>Shop &gt; Camisetas &gt; T-Shirts</g:product_type>
       <g:custom_label_0>Oferta Relampago - Ate 70% off · pecas a partir de R$ 59</g:custom_label_0>
       <g:custom_label_1>Camisetas</g:custom_label_1>
-      <g:custom_label_2>grade_ok</g:custom_label_2>
+      <g:custom_label_2>grade_quebrada</g:custom_label_2>
     </item>
     <item>
       <g:id>1555540653</g:id>
@@ -37468,14 +37468,14 @@
       <g:product_type>Shop &gt; Camisetas &gt; T-Shirts</g:product_type>
       <g:custom_label_0>Oferta Relampago - Ate 70% off · pecas a partir de R$ 59</g:custom_label_0>
       <g:custom_label_1>Camisetas</g:custom_label_1>
-      <g:custom_label_2>grade_ok</g:custom_label_2>
+      <g:custom_label_2>grade_quebrada</g:custom_label_2>
     </item>
     <item>
       <g:id>1555540725</g:id>
       <g:title>T-Shirt Lost Mummy Saturn Preto (P / Preto)</g:title>
       <g:description>Ref.: 22622811-PPP Especificações do produto: · Linha Lost Funny. · Modelagem regular fit. · Estampa frontal Saturno Mummy no centro. · Reforço de gola. · Etiqueta Lost embutida na barra frontal. · Técnica especial efeito neon. · Tag personalizado Lost. Composição: 100% Algodão. Lost Summer Verão 25.26 / Linha Lost Funny</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>4</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>3</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>169.00 BRL</g:price>
       <g:sale_price>59.00 BRL</g:sale_price>
@@ -37936,8 +37936,8 @@
       <g:id>1555541200</g:id>
       <g:title>T-Shirt Lost Sounds Grid Preto (M / Preto)</g:title>
       <g:description>Ref.: 22522605-PPP Especificações do produto: · Linha Lost Sounds. · Modelagem Boxfit. · Estampa silk frontal. · Etiqueta lost sounds embutida na lateral. · Estampa Localizada na manga. · Etiqueta quadrada na Barra frontal. · Estampas costas superior. · Reforço de gola. · Tag personalizado LOST. Composição: 100% Algodão</g:description>
-      <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
+      <g:availability>out of stock</g:availability>
+      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>189.00 BRL</g:price>
       <g:sale_price>99.00 BRL</g:sale_price>
@@ -38245,7 +38245,7 @@
       <g:title>T-Shirt Lost Spider Full Lilas (GG / Lilas)</g:title>
       <g:description>Ref.: 22622011-EEE Especificações do produto: · Lost Enterprises. · Modelagem regular fit. · Estampa full print aranha. · Reforço de gola. · Etiqueta Clips Lost embutida na barra frontal. · Etiqueta quadrada Lost acima da barra costas. · Tag personalizado Lost. Composição: 100% Algodão. .</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>4</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>2</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>239.00 BRL</g:price>
       <g:sale_price>99.00 BRL</g:sale_price>
@@ -38904,8 +38904,8 @@
       <g:id>1555543808</g:id>
       <g:title>Canguru Insane Joker Preto (G / Preto)</g:title>
       <g:description>Ref.: 22513306-PPP Não é o morcegão, oh não! Parece que o Sr. Perfeição ficou de fora dessa! Batman? Sem collab, sem graça. Mas comigo e a Lost... bom, o show tá só começando, HAHAHAHA!&quot; Collab Joker X Lost Brasil, inspirada na loucura e na ousadia do vilão mais temido de Gotham, a collab trás aquele visual underground que desafia a ordem de expressar sem medo de mostrar para o mundo que o caos pode ser estiloso. Especificações do produto: · Linha Joker. · Modelagem regular. · Estampa frontal the joker localizada no peito. · Forro capuz do próprio tecido. · Etiqueta clips na lateral da barra. · Punho e barra em ribana. · Estampa the joker lost ent localizado nas mangas. · Tag personalizado Lost joker. Composição: 50% Algodão. 50% Poliéster.</g:description>
-      <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
+      <g:availability>out of stock</g:availability>
+      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>479.00 BRL</g:price>
       <g:sale_price>199.00 BRL</g:sale_price>
@@ -40467,7 +40467,7 @@
       <g:title>T-Shirt Box Fit Lost Racing Preto (G / Preto)</g:title>
       <g:description>Ref.: 22612605-PPP Linha Get Lost. Especificações do produto: Modelagem Box Fit. Estampa peito lateral Lost. Estampa costa. Etiqueta aplicada barra costas. Etiqueta Saturno centralizada na manga. Reforço de gola. Tag personalizado LOST. Composição. 100% Algodão. LOST Racing Club. Se você perguntar por aí, vão dizer que o que a gente faz é errado. Perigoso… Irresponsável… Coisa de quem não tem futuro. Talvez o problema seja que nós nunca soubemos andar na mesma direção que eles. Porque isso aqui é pra quem prefere viver do seu próprio jeito, mesmo que ninguém entenda. Don’t follow me, i’m …LOST</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>16</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>15</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>269.00 BRL</g:price>
       <g:sale_price>99.00 BRL</g:sale_price>
@@ -40489,7 +40489,7 @@
       <g:title>T-Shirt Box Fit Lost Racing Preto (GG / Preto)</g:title>
       <g:description>Ref.: 22612605-PPP Linha Get Lost. Especificações do produto: Modelagem Box Fit. Estampa peito lateral Lost. Estampa costa. Etiqueta aplicada barra costas. Etiqueta Saturno centralizada na manga. Reforço de gola. Tag personalizado LOST. Composição. 100% Algodão. LOST Racing Club. Se você perguntar por aí, vão dizer que o que a gente faz é errado. Perigoso… Irresponsável… Coisa de quem não tem futuro. Talvez o problema seja que nós nunca soubemos andar na mesma direção que eles. Porque isso aqui é pra quem prefere viver do seu próprio jeito, mesmo que ninguém entenda. Don’t follow me, i’m …LOST</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>9</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>7</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>269.00 BRL</g:price>
       <g:sale_price>99.00 BRL</g:sale_price>
@@ -40665,7 +40665,7 @@
       <g:title>T-Shirt Wizard Skull Verde Floresta (G / Verde Floresta)</g:title>
       <g:description>Ref.: 22612602-VDF Especificações do produto: · Modelagem box fit. · Estampa frontal saturno. · Reforço de gola. · Etiqueta Lost embutida na lateral. · Estampa grande costas. · Técnica especial brilha no escuro. · Tag personalizado Lost. Composição: 100% Algodão. .</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>11</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>9</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>289.00 BRL</g:price>
       <g:sale_price>149.00 BRL</g:sale_price>
@@ -41149,7 +41149,7 @@
       <g:title>Meia Lost Racing Vermelho (39/43 / Vermelho)</g:title>
       <g:description>Ref.: 22616601-FFF Linha Get Lost. Especificações do produto: Modelagem Cano Alto. Estampas centralizadas nas laterais. Tag personalizado LOST. LOST Racing Club. Se você perguntar por aí, vão dizer que o que a gente faz é errado. Perigoso… Irresponsável… Coisa de quem não tem futuro. Talvez o problema seja que nós nunca soubemos andar na mesma direção que eles. Porque isso aqui é pra quem prefere viver do seu próprio jeito, mesmo que ninguém entenda. Don’t follow me, i’m …LOST</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>21</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>15</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>59.00 BRL</g:price>
       <g:sale_price>47.20 BRL</g:sale_price>
@@ -41765,7 +41765,7 @@
       <g:title>Wallet Printed Preto (U / Preto)</g:title>
       <g:description>Ref.: 22616301-PPP Especificações do produto: · Estampa Lost na parte exterior em baixo relevo. · Detalhe pontilhados nas laterais. · Estampa Saturno na parte interior em baixo relevo. · Tag personalizado Lost. Composição: 100% Poliéster.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>47</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>41</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>169.00 BRL</g:price>
       <g:sale_price>99.00 BRL</g:sale_price>
@@ -42293,7 +42293,7 @@
       <g:title>T-Shirt Get Lost 1993 Amarelo Azeite (M / Amarelo Azeite)</g:title>
       <g:description>Ref.: 22623013-AAZ Especificações do produto: · Linha Get Lost. · Modelagem regular. · Estampa Get Lost localizada no peito lateral. · Reforço de gola. · Etiqueta Lost aplicada na barra. · Tag personalizado Lost. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>3</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>169.00 BRL</g:price>
       <g:sale_price>59.00 BRL</g:sale_price>
@@ -42359,7 +42359,7 @@
       <g:title>T-Shirt Get Lost 1993 Preto (P / Preto)</g:title>
       <g:description>Ref.: 22623013-PPP Especificações do produto: · Linha Get Lost. · Modelagem regular. · Estampa Get Lost localizada no peito lateral. · Reforço de gola. · Etiqueta Lost aplicada na barra. · Tag personalizado Lost. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>2</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>169.00 BRL</g:price>
       <g:sale_price>59.00 BRL</g:sale_price>
@@ -42446,8 +42446,8 @@
       <g:id>1555552004</g:id>
       <g:title>Meia Strip Lost Branco (39/43 / Branco)</g:title>
       <g:description>Ref.: 21116601-BBB Trazendo conforto para qualquer atividade do seu dia a dia, desde o trampo até a sessão de skate, as meias LOST são desenvolvidas em tecido leve e elástico de altíssima qualidade para serem duráveis e flexíveis. A qualidade de nossos produtos é testada e aprovada!. Especificações do produto: · Meia cano alto com 20cm. · Logo Lost na parte traseira. · Listra bicolor superior.</g:description>
-      <g:availability>out of stock</g:availability>
-      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
+      <g:availability>in stock</g:availability>
+      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>39.00 BRL</g:price>
       <g:sale_price>31.20 BRL</g:sale_price>
@@ -42462,7 +42462,7 @@
       <g:product_type>Shop &gt; Acessórios &gt; Meias</g:product_type>
       
       
-      <g:custom_label_2>sem_estoque</g:custom_label_2>
+      <g:custom_label_2>grade_ok</g:custom_label_2>
     </item>
     <item>
       <g:id>1555552046</g:id>
@@ -44273,7 +44273,7 @@
       <g:title>T-Shirt Trevo Lost Preto (G / Preto)</g:title>
       <g:description>Ref.: 22512008-PPP Especificações do produto: · Modelagem básica. · Linha lost funny. · Estampa full print trevos lost. · Reforço de gola. · Etiqueta clips na barra lateral. · Tag personalizado Lost. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>17</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>14</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>239.00 BRL</g:price>
       <g:sale_price>99.00 BRL</g:sale_price>
@@ -44420,14 +44420,14 @@
       <g:product_type>Shop &gt; Bermudas &gt; Boardwalk</g:product_type>
       <g:custom_label_0>Oferta Relampago - Ate 70% off · pecas a partir de R$ 59</g:custom_label_0>
       <g:custom_label_1>Bermudas</g:custom_label_1>
-      <g:custom_label_2>sem_estoque</g:custom_label_2>
+      <g:custom_label_2>grade_quebrada</g:custom_label_2>
     </item>
     <item>
       <g:id>1555560020</g:id>
       <g:title>Boardwalk Sport Preto (40 / Preto)</g:title>
       <g:description>Ref.: 22627101-PPP ·LINHA LOST BRANDING. Especificações do produto: · Modelagem boardwalk 51cm. · Bolso traseiro embutido. · Etiqueta embutida acima de bolso. · Bolso faca nas laterais. · Zíper 15 cm + personalização. · Passantes. · Bolso lateral aplicado com termocolante. · Termocolante aplicada na barra frontal. · Tag personalizado Lost. Composição: 94% Poliéster 6% Elastano.</g:description>
-      <g:availability>out of stock</g:availability>
-      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
+      <g:availability>in stock</g:availability>
+      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>439.00 BRL</g:price>
       <g:sale_price>149.00 BRL</g:sale_price>
@@ -44442,14 +44442,14 @@
       <g:product_type>Shop &gt; Bermudas &gt; Boardwalk</g:product_type>
       <g:custom_label_0>Oferta Relampago - Ate 70% off · pecas a partir de R$ 59</g:custom_label_0>
       <g:custom_label_1>Bermudas</g:custom_label_1>
-      <g:custom_label_2>sem_estoque</g:custom_label_2>
+      <g:custom_label_2>grade_quebrada</g:custom_label_2>
     </item>
     <item>
       <g:id>1555560021</g:id>
       <g:title>Boardwalk Sport Preto (42 / Preto)</g:title>
       <g:description>Ref.: 22627101-PPP ·LINHA LOST BRANDING. Especificações do produto: · Modelagem boardwalk 51cm. · Bolso traseiro embutido. · Etiqueta embutida acima de bolso. · Bolso faca nas laterais. · Zíper 15 cm + personalização. · Passantes. · Bolso lateral aplicado com termocolante. · Termocolante aplicada na barra frontal. · Tag personalizado Lost. Composição: 94% Poliéster 6% Elastano.</g:description>
-      <g:availability>out of stock</g:availability>
-      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
+      <g:availability>in stock</g:availability>
+      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>439.00 BRL</g:price>
       <g:sale_price>149.00 BRL</g:sale_price>
@@ -44464,7 +44464,7 @@
       <g:product_type>Shop &gt; Bermudas &gt; Boardwalk</g:product_type>
       <g:custom_label_0>Oferta Relampago - Ate 70% off · pecas a partir de R$ 59</g:custom_label_0>
       <g:custom_label_1>Bermudas</g:custom_label_1>
-      <g:custom_label_2>sem_estoque</g:custom_label_2>
+      <g:custom_label_2>grade_quebrada</g:custom_label_2>
     </item>
     <item>
       <g:id>1555560023</g:id>
@@ -44486,7 +44486,7 @@
       <g:product_type>Shop &gt; Bermudas &gt; Boardwalk</g:product_type>
       <g:custom_label_0>Oferta Relampago - Ate 70% off · pecas a partir de R$ 59</g:custom_label_0>
       <g:custom_label_1>Bermudas</g:custom_label_1>
-      <g:custom_label_2>sem_estoque</g:custom_label_2>
+      <g:custom_label_2>grade_quebrada</g:custom_label_2>
     </item>
     <item>
       <g:id>1555560024</g:id>
@@ -44508,7 +44508,7 @@
       <g:product_type>Shop &gt; Bermudas &gt; Boardwalk</g:product_type>
       <g:custom_label_0>Oferta Relampago - Ate 70% off · pecas a partir de R$ 59</g:custom_label_0>
       <g:custom_label_1>Bermudas</g:custom_label_1>
-      <g:custom_label_2>sem_estoque</g:custom_label_2>
+      <g:custom_label_2>grade_quebrada</g:custom_label_2>
     </item>
     <item>
       <g:id>1555560025</g:id>
@@ -44530,7 +44530,7 @@
       <g:product_type>Shop &gt; Bermudas &gt; Boardwalk</g:product_type>
       <g:custom_label_0>Oferta Relampago - Ate 70% off · pecas a partir de R$ 59</g:custom_label_0>
       <g:custom_label_1>Bermudas</g:custom_label_1>
-      <g:custom_label_2>sem_estoque</g:custom_label_2>
+      <g:custom_label_2>grade_quebrada</g:custom_label_2>
     </item>
     <item>
       <g:id>1560853575</g:id>
@@ -44779,7 +44779,7 @@
       <g:title>T-Shirt Peace Among World Chumbo Estanho (M / Chumbo Estanho)</g:title>
       <g:description>Ref.: 22623006-CBE Especificações do produto: · Linha Rick and Morty. · Modelagem regular fit. · Estampa Rick and Morty no peito lateral. · Reforço de gola. · Estampa Rick and Morty Saturno no peito lateral. · Etiqueta clips costurada na barra frontal. · Etiqueta Rick and Morty aplicada acima da barra costas. · Estampa costas Rick and Morty Peace Among World. · Tag personalizado Rick and Morty X Lost. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>8</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>6</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>189.00 BRL</g:price>
       <g:sale_price>99.00 BRL</g:sale_price>
@@ -44977,7 +44977,7 @@
       <g:title>T-Shirt Racing Preto (G / Preto)</g:title>
       <g:description>Ref.: 22613003-PPP Linha Get Lost. Especificações do produto: Modelagem Regular. Estampa peito lateral. Estampa centralizado costas. Etiqueta Saturno centralizada na manga. Etiqueta aplicada na barra costas. Reforço de gola. Tag personalizado LOST. Composição. 100% Algodão. LOST Racing Club. Se você perguntar por aí, vão dizer que o que a gente faz é errado. Perigoso… Irresponsável… Coisa de quem não tem futuro. Talvez o problema seja que nós nunca soubemos andar na mesma direção que eles. Porque isso aqui é pra quem prefere viver do seu próprio jeito, mesmo que ninguém entenda. Don’t follow me, i’m …LOST</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>14</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>12</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>179.00 BRL</g:price>
       <g:sale_price>59.00 BRL</g:sale_price>
@@ -46011,7 +46011,7 @@
       <g:title>T-Shirt Box Fit Enterprises Preto (P / Preto)</g:title>
       <g:description>Ref.: 22612604-PPP Especificações do produto: · Modelagem box fit. · Estampa frontal lost enterprises peito lateral. · Reforço de gola. · Etiqueta lost embutida na barra. · Estampa deslocadas localizada nas costas. · Tag personalizado Lost. Composição: 100% Algodão. .</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>9</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>6</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>249.00 BRL</g:price>
       <g:sale_price>59.00 BRL</g:sale_price>
@@ -46825,7 +46825,7 @@
       <g:title>T-Shirt Acid Love Lilas Lilac (G / Lilas Lilac)</g:title>
       <g:description>Ref.: 22612814-LLC Linha Lost Funny. Especificações do produto: · Modelagem regular. · Estampa frontal saturno no peito Reforço de gola. · Etiqueta Lost aplicada na barra frontal. · Tag personalizado Lost. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>10</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>8</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>189.00 BRL</g:price>
       <g:sale_price>99.00 BRL</g:sale_price>
@@ -47133,7 +47133,7 @@
       <g:title>Boardwalk Dynamic Preto (44 / Preto)</g:title>
       <g:description>Ref.: 22527101-PPP Especificações do produto: · Modelagem Boardwalk Com 51Cm. · Bolso faca nas laterais. · Etiqueta lost aplicada no cós. · Bolso traseiro embutido com malha furadinha. · Etiqueta termocolante saturno na lateral da barra. · Tag personalizado Lost. Composição: 95% Poliéster 5% Elastano</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>14</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>13</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>229.00 BRL</g:price>
       <g:sale_price>149.00 BRL</g:sale_price>
@@ -47155,7 +47155,7 @@
       <g:title>Boardwalk Dynamic Preto (46 / Preto)</g:title>
       <g:description>Ref.: 22527101-PPP Especificações do produto: · Modelagem Boardwalk Com 51Cm. · Bolso faca nas laterais. · Etiqueta lost aplicada no cós. · Bolso traseiro embutido com malha furadinha. · Etiqueta termocolante saturno na lateral da barra. · Tag personalizado Lost. Composição: 95% Poliéster 5% Elastano</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>17</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>16</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>229.00 BRL</g:price>
       <g:sale_price>149.00 BRL</g:sale_price>
@@ -47177,7 +47177,7 @@
       <g:title>Boardwalk Dynamic Preto (48 / Preto)</g:title>
       <g:description>Ref.: 22527101-PPP Especificações do produto: · Modelagem Boardwalk Com 51Cm. · Bolso faca nas laterais. · Etiqueta lost aplicada no cós. · Bolso traseiro embutido com malha furadinha. · Etiqueta termocolante saturno na lateral da barra. · Tag personalizado Lost. Composição: 95% Poliéster 5% Elastano</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>13</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>14</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>229.00 BRL</g:price>
       <g:sale_price>149.00 BRL</g:sale_price>
@@ -48365,7 +48365,7 @@
       <g:title>T-Shirt Raised To Be Lost Oversized Preto (G1 / Preto)</g:title>
       <g:description>Ref.: 22622812X-PPP Especificações do produto: · Linha Lost Funny. · Modelagem regular. · Estampa Lost Funny no peito. · Reforço de gola. · Etiqueta aplicada na barra frontal. · Estampa costas Lost Zombies. · Tag personalizado Lost. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>2</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>249.00 BRL</g:price>
       <g:sale_price>59.00 BRL</g:sale_price>
@@ -48673,7 +48673,7 @@
       <g:title>T-Shirt Madness Joker Preto (G / Preto)</g:title>
       <g:description>Ref.: 22512004-PPP Olha só quem conseguiu a collab com a Lost... Eu! Não é o morcegão, oh não! Parece que o Sr. Perfeição ficou de fora dessa! Batman? Sem collab, sem graça. Mas comigo e a Lost... bom, o show tá só começando, HAHAHAHA!&quot; Especificações do produto: · Collab especial Joker &amp; Lost. · Modelagem regular . · Estampas Joker cela localizada na frente e costas. · Etiqueta Sanduíche localizada na barra costas. · Reforço de gola. · Estampa frontal localizada na barra. · Tag personalizado Lost joker. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>10</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>6</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>239.00 BRL</g:price>
       <g:sale_price>99.00 BRL</g:sale_price>
@@ -48694,8 +48694,8 @@
       <g:id>1555567591</g:id>
       <g:title>T-Shirt Madness Joker Preto (GG / Preto)</g:title>
       <g:description>Ref.: 22512004-PPP Olha só quem conseguiu a collab com a Lost... Eu! Não é o morcegão, oh não! Parece que o Sr. Perfeição ficou de fora dessa! Batman? Sem collab, sem graça. Mas comigo e a Lost... bom, o show tá só começando, HAHAHAHA!&quot; Especificações do produto: · Collab especial Joker &amp; Lost. · Modelagem regular . · Estampas Joker cela localizada na frente e costas. · Etiqueta Sanduíche localizada na barra costas. · Reforço de gola. · Estampa frontal localizada na barra. · Tag personalizado Lost joker. Composição: 100% Algodão.</g:description>
-      <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>2</g:quantity_to_sell_on_facebook>
+      <g:availability>out of stock</g:availability>
+      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>239.00 BRL</g:price>
       <g:sale_price>99.00 BRL</g:sale_price>
@@ -48827,7 +48827,7 @@
       <g:title>T-Shirt Oficial Fuel Preto (M / Preto)</g:title>
       <g:description>Ref.: 22512610-PPP Especificações do produto: · Linha Lost Sounds. · Modelagem Box Fit. · Reforço de gola. · Patch bordado no peito lateral. · Etiqueta quadrada aplicada na barra frontal. · Técnica especial com efeito que brilha no escuro. · Etiqueta Clips embutida na barra das costas. · Tag personalizado Lost. Composição: 100% Algodão. Malhão Eco Aradefe.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>8</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>5</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>249.00 BRL</g:price>
       <g:sale_price>99.00 BRL</g:sale_price>
@@ -48849,7 +48849,7 @@
       <g:title>T-Shirt Oficial Fuel Preto (G / Preto)</g:title>
       <g:description>Ref.: 22512610-PPP Especificações do produto: · Linha Lost Sounds. · Modelagem Box Fit. · Reforço de gola. · Patch bordado no peito lateral. · Etiqueta quadrada aplicada na barra frontal. · Técnica especial com efeito que brilha no escuro. · Etiqueta Clips embutida na barra das costas. · Tag personalizado Lost. Composição: 100% Algodão. Malhão Eco Aradefe.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>15</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>13</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>249.00 BRL</g:price>
       <g:sale_price>99.00 BRL</g:sale_price>
@@ -48893,7 +48893,7 @@
       <g:title>Bone 9forty 8 Ball Azul (U / Azul)</g:title>
       <g:description>Ref.: 22126519-DD3 Boné Lost 9Forty 8 Ball.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>190</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>189</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>189.00 BRL</g:price>
       <g:sale_price>99.00 BRL</g:sale_price>
@@ -49266,8 +49266,8 @@
       <g:id>1555569003</g:id>
       <g:title>T-Shirt Lost Good Look Preto (GG / Preto)</g:title>
       <g:description>Ref.: 22512609-PPP Especificações do produto: · Modelagem box fit. · Linha Lost Funny. · Bordado trevo localizado no peito lateral. · Reforço de gola. · Etiqueta bandeira embutida na lateral. · Tag personalizado Lost. Composição: Malhão eco 250Grs Fibras Diversas.</g:description>
-      <g:availability>out of stock</g:availability>
-      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
+      <g:availability>in stock</g:availability>
+      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>289.00 BRL</g:price>
       <g:sale_price>149.00 BRL</g:sale_price>
@@ -49817,7 +49817,7 @@
       <g:title>T-Shirt Lost Death Roxo Figo (G / Roxo Figo)</g:title>
       <g:description>Ref.: 22512601-RXF Especificações do produto: · Modelagem box fit. · Linha Lost enterprises. · Estampa lateral eyes. · Reforço de gola. · Estampa costas lost eyes enterprises. · Estampa frontal Lost localizada no peito. · Etiqueta bandeira embutida na lateral. · Tag personalizado Lost. Composição: 50% Algodão. 50% Poliéster. Malhão PA 210G.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>12</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>10</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>169.00 BRL</g:price>
       <g:sale_price>118.30 BRL</g:sale_price>
@@ -50609,7 +50609,7 @@
       <g:title>T-Shirt Skull Branco (G / Branco)</g:title>
       <g:description>Ref.: 22622611-BBB Especificações do produto: · Linha Enterprises. · Modelagem box fit. · Estampa frontal Lost Enterprises no peito. · Reforço de gola. · Etiqueta bandeira embutida na lateral. · Estampa grande costas Lost. · Tag personalizado Lost. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>3</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>2</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>249.00 BRL</g:price>
       <g:sale_price>99.00 BRL</g:sale_price>
@@ -52545,7 +52545,7 @@
       <g:title>T-Shirt Box Fit Revolution Preto (G / Preto)</g:title>
       <g:description>Ref.: 22622604-PPP Especificações do produto: · Linha Lost Funny. · Modelagem box fit. · Estampa silk Zombie no peito lateral. · Reforço de gola. · Etiqueta bandeira lateral Lost. · Estampa costas Zombies. · Tag personalizado Lost. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>9</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>8</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>279.00 BRL</g:price>
       <g:sale_price>149.00 BRL</g:sale_price>
@@ -52743,7 +52743,7 @@
       <g:title>Boarshorts After Domination 52cm Longo Preto (44 / Preto)</g:title>
       <g:description>Ref.: 22624101L-PPP Especificações do produto: · Linha Lost Funny. · Modelagem boardshort. · Cadarço ajustador + ilhós. · Fechamento em velcro. · Estampa full print After Domination. · Etiqueta termocolante Saturno acima da barra frontal. · Bolso traseiro + rolete e velcro na lapela. · Etiqueta Lost centralizada no bolso traseiro. · Tag personalizado Lost. Composição: Microfibra com Elastano – 93% Poliéster 7% Elastano.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>13</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>14</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>389.00 BRL</g:price>
       <g:sale_price>199.00 BRL</g:sale_price>
@@ -53777,7 +53777,7 @@
       <g:title>T-Shirt Big Lost Branco (M / Branco)</g:title>
       <g:description>Ref.: 22512003-BBB Especificações do produto: · Modelagem diferenciada. · Linha Lost branding. · Ombro maior e sem queda. · Estampa lost localizada no peito. · Reforço de gola. · Estampa costas lost saturno ombro a ombro. · Etiqueta bandeira embutida na lateral. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>22</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>21</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>169.00 BRL</g:price>
       <g:sale_price>99.00 BRL</g:sale_price>
@@ -54899,7 +54899,7 @@
       <g:title>Regata New Sheep Verde Ardosia (P / Verde Ardosia)</g:title>
       <g:description>Ref.: 21112902-VDA Para qualquer que seja sua atividade e sua rotina, nossas regatas são produzidas visando o conforto. Passam por testes de qualidade para termos certeza que estamos entregando o melhor produto aos nossos clientes. São produzidas 100% no Brasil, valorizando empresas nacionais. Especificações do produto: · Meia malha penteada. · Modelagem regular. · Estampa frontal LOST institucional. Composição: 100% algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>2</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>129.00 BRL</g:price>
       <g:sale_price>59.00 BRL</g:sale_price>
@@ -57539,7 +57539,7 @@
       <g:title>T-Shirt Basics Saturno Preto (P / Preto)</g:title>
       <g:description>Ref.: 21112801-PPP Camiseta Lost Essencials. O básico nada básico que só a Lost sabe fazer. Para qualquer que seja o sua atividade e sua rotina, nossas camisetas são produzidas visando o conforto. Passam por testes de qualidade para termos certeza que estamos entregando o melhor produto aos nossos clientes. São produzidas 100% no Brasil, valorizando empresas nacionais. Especificações do produto: · Modelagem regular. · Meia malha penteada. · Silk Saturo Lost no peito . Composição: 100% algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>3</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>6</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>129.00 BRL</g:price>
       <g:sale_price>59.00 BRL</g:sale_price>
@@ -57803,7 +57803,7 @@
       <g:title>T-Shirt Raised To Be Lost Preto (P / Preto)</g:title>
       <g:description>Ref.: 22622812-PPP Especificações do produto: · Linha Lost Funny. · Modelagem regular. · Estampa Lost Funny no peito. · Reforço de gola. · Etiqueta aplicada na barra frontal. · Estampa costas Lost Zombies. · Tag personalizado Lost. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>6</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>5</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>189.00 BRL</g:price>
       <g:sale_price>59.00 BRL</g:sale_price>
@@ -57913,7 +57913,7 @@
       <g:title>T-Shirt Stay Fresh Chumbo Estanho (M / Chumbo Estanho)</g:title>
       <g:description>Ref.: 22623011-CBE Especificações do produto: · Linha Get Lost. · Modelagem regular. · Estampa Get Lost localizada no peito. · Reforço de gola. · Etiqueta Lost aplicada na barra. · Tag personalizado Lost. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>6</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>4</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>169.00 BRL</g:price>
       <g:sale_price>59.00 BRL</g:sale_price>
@@ -60795,7 +60795,7 @@
       <g:title>T-Shirt Death Lost Enterprises Branco (G / Branco)</g:title>
       <g:description>Ref.: 22612820-BBB Linha Lost Enterprises. Especificações do produto: Modelagem regular. Estampa frontal Lost enterprises peito lateral. · Reforço de gola. · Etiqueta Lost aplicada na barra frontal. · Estampa death lost enterprises nas costas. · Tag personalizado Lost. Composição: 100% Algodão. .</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>3</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>2</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>169.00 BRL</g:price>
       <g:sale_price>59.00 BRL</g:sale_price>
@@ -61014,8 +61014,8 @@
       <g:id>1555582176</g:id>
       <g:title>Boardshorts Lost Trash Branco (38 / Branco)</g:title>
       <g:description>Ref.: 22524103-BBB Especificações do produto: · Modelagem 53 CM comprido · Estampa transfer trash. · Ilhós + ajustador. · Etiqueta lost aplicada centralizada no bolso. · Termocolante saturno na lateral da barra. · Tag personalizado LOST. Composição: 93% poliéster 7% elastano.</g:description>
-      <g:availability>out of stock</g:availability>
-      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
+      <g:availability>in stock</g:availability>
+      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>389.00 BRL</g:price>
       <g:sale_price>233.40 BRL</g:sale_price>
@@ -61030,7 +61030,7 @@
       <g:product_type>Shop &gt; Bermudas &gt; Boardshorts</g:product_type>
       
       
-      <g:custom_label_2>sem_estoque</g:custom_label_2>
+      <g:custom_label_2>grade_quebrada</g:custom_label_2>
     </item>
     <item>
       <g:id>1555582177</g:id>
@@ -61052,7 +61052,7 @@
       <g:product_type>Shop &gt; Bermudas &gt; Boardshorts</g:product_type>
       
       
-      <g:custom_label_2>sem_estoque</g:custom_label_2>
+      <g:custom_label_2>grade_quebrada</g:custom_label_2>
     </item>
     <item>
       <g:id>1555582179</g:id>
@@ -61074,7 +61074,7 @@
       <g:product_type>Shop &gt; Bermudas &gt; Boardshorts</g:product_type>
       
       
-      <g:custom_label_2>sem_estoque</g:custom_label_2>
+      <g:custom_label_2>grade_quebrada</g:custom_label_2>
     </item>
     <item>
       <g:id>1555582180</g:id>
@@ -61096,7 +61096,7 @@
       <g:product_type>Shop &gt; Bermudas &gt; Boardshorts</g:product_type>
       
       
-      <g:custom_label_2>sem_estoque</g:custom_label_2>
+      <g:custom_label_2>grade_quebrada</g:custom_label_2>
     </item>
     <item>
       <g:id>1555582182</g:id>
@@ -61118,7 +61118,7 @@
       <g:product_type>Shop &gt; Bermudas &gt; Boardshorts</g:product_type>
       
       
-      <g:custom_label_2>sem_estoque</g:custom_label_2>
+      <g:custom_label_2>grade_quebrada</g:custom_label_2>
     </item>
     <item>
       <g:id>1555582183</g:id>
@@ -61140,7 +61140,7 @@
       <g:product_type>Shop &gt; Bermudas &gt; Boardshorts</g:product_type>
       
       
-      <g:custom_label_2>sem_estoque</g:custom_label_2>
+      <g:custom_label_2>grade_quebrada</g:custom_label_2>
     </item>
     <item>
       <g:id>1555582363</g:id>
@@ -61256,8 +61256,8 @@
       <g:id>1555582377</g:id>
       <g:title>T-Shirt Lost Street Preto (M / Preto)</g:title>
       <g:description>Ref.: 22622004-PPP Especificações do produto: · Linha Lost Enterprises. · Modelagem regular fit. · Estampa em silk Lost. · Reforço de gola. · Etiqueta lateral embutida na lateral. · Estampa costas Lost Enterprises. · Tag personalizado Lost. Composição: 73% Algodão 27% Poliéster.</g:description>
-      <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
+      <g:availability>out of stock</g:availability>
+      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>249.00 BRL</g:price>
       <g:sale_price>99.00 BRL</g:sale_price>
@@ -63831,7 +63831,7 @@
       <g:title>T-Shirt Paper Posca Branco (G / Branco)</g:title>
       <g:description>Ref.: 22613005-BBB · Linha Lost X Posca. Especificações do produto: · Modelagem regular. · Estampa Lost + Posca no peito. · Etiqueta lost posca na barra frontal. · Estampa tag localizada nas costas. · Reforço de gola. · Tag personalizado Lost x Posca. Composição: 100 % Algodão. A collab mais artística da história: LOST + POSCA! A marca de canetas japonesa conhecida mundialmente virou nossa parceira no Art Wear Collection, onde a arte não tem limite e a moda não tem regras.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>4</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>2</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>239.00 BRL</g:price>
       <g:sale_price>59.00 BRL</g:sale_price>
@@ -63890,7 +63890,7 @@
       <g:product_type>Shop &gt; Camisetas &gt; T-Shirts</g:product_type>
       <g:custom_label_0>Oferta Relampago - Ate 70% off · pecas a partir de R$ 59</g:custom_label_0>
       <g:custom_label_1>Camisetas</g:custom_label_1>
-      <g:custom_label_2>grade_quebrada</g:custom_label_2>
+      <g:custom_label_2>sem_estoque</g:custom_label_2>
     </item>
     <item>
       <g:id>1555584021</g:id>
@@ -63912,14 +63912,14 @@
       <g:product_type>Shop &gt; Camisetas &gt; T-Shirts</g:product_type>
       <g:custom_label_0>Oferta Relampago - Ate 70% off · pecas a partir de R$ 59</g:custom_label_0>
       <g:custom_label_1>Camisetas</g:custom_label_1>
-      <g:custom_label_2>grade_quebrada</g:custom_label_2>
+      <g:custom_label_2>sem_estoque</g:custom_label_2>
     </item>
     <item>
       <g:id>1555584022</g:id>
       <g:title>T-Shirt Paper Posca Preto (G / Preto)</g:title>
       <g:description>Ref.: 22613005-PPP · Linha Lost X Posca. Especificações do produto: · Modelagem regular. · Estampa Lost + Posca no peito. · Etiqueta lost posca na barra frontal. · Estampa tag localizada nas costas. · Reforço de gola. · Tag personalizado Lost x Posca. Composição: 100 % Algodão. A collab mais artística da história: LOST + POSCA! A marca de canetas japonesa conhecida mundialmente virou nossa parceira no Art Wear Collection, onde a arte não tem limite e a moda não tem regras.</g:description>
-      <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>3</g:quantity_to_sell_on_facebook>
+      <g:availability>out of stock</g:availability>
+      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>239.00 BRL</g:price>
       <g:sale_price>59.00 BRL</g:sale_price>
@@ -63934,7 +63934,7 @@
       <g:product_type>Shop &gt; Camisetas &gt; T-Shirts</g:product_type>
       <g:custom_label_0>Oferta Relampago - Ate 70% off · pecas a partir de R$ 59</g:custom_label_0>
       <g:custom_label_1>Camisetas</g:custom_label_1>
-      <g:custom_label_2>grade_quebrada</g:custom_label_2>
+      <g:custom_label_2>sem_estoque</g:custom_label_2>
     </item>
     <item>
       <g:id>1555584023</g:id>
@@ -63956,7 +63956,7 @@
       <g:product_type>Shop &gt; Camisetas &gt; T-Shirts</g:product_type>
       <g:custom_label_0>Oferta Relampago - Ate 70% off · pecas a partir de R$ 59</g:custom_label_0>
       <g:custom_label_1>Camisetas</g:custom_label_1>
-      <g:custom_label_2>grade_quebrada</g:custom_label_2>
+      <g:custom_label_2>sem_estoque</g:custom_label_2>
     </item>
     <item>
       <g:id>1555584169</g:id>
@@ -64447,7 +64447,7 @@
       <g:title>T-Shirt Crazy Joker Preto (P / Preto)</g:title>
       <g:description>Ref.: 22512607-PPP Olha só quem conseguiu a collab com a Lost... Eu! Não é o morcegão, oh não! Parece que o Sr. Perfeição ficou de fora dessa! Batman? Sem collab, sem graça. Mas comigo e a Lost... bom, o show tá só começando, HAHAHAHA!&quot; Especificações do produto: · Collab especial Joker &amp; Lost. · Modelagem box fit. · Reforço de gola. · Estampa frontal coringa localizada no peito. · Etiqueta Sanduíche localizada na barra costas. · Estampa deslocalizada costas. · Tag personalizado Lost joker. Composição: 100% Algodão. 180g.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>17</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>16</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>249.00 BRL</g:price>
       <g:sale_price>99.00 BRL</g:sale_price>
@@ -65085,7 +65085,7 @@
       <g:title>T-Shirt Lost Ray Preto (G / Preto)</g:title>
       <g:description>Ref.: 22622826-PPP Especificações do produto: · Modelagem regular. · Estampa frontal silk flocado Lost… Saturno no centro. · Reforço de gola. · Etiqueta Lost aplicada na barra frontal. · Tag personalizado Lost. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>10</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>8</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>179.00 BRL</g:price>
       <g:sale_price>99.00 BRL</g:sale_price>
@@ -65327,7 +65327,7 @@
       <g:title>T-Shirt Mescla Sheep Mescla Médio (M / Mescla Médio)</g:title>
       <g:description>Ref.: 22622001-MS1 Especificações do produto: · Linha Lost Funny. · Modelagem regular fit. · Estampa frontal Lost no centro. · Reforço de gola. · Etiqueta lateral Lost embutida acima da barra. · Tag personalizado Lost. Composição: 73% Algodão 27% Poliéster. Lost Summer Verão 25.26 / Linha Lost Funny</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>18</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>16</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>199.00 BRL</g:price>
       <g:sale_price>99.00 BRL</g:sale_price>
@@ -65349,7 +65349,7 @@
       <g:title>T-Shirt Mescla Sheep Mescla Médio (G / Mescla Médio)</g:title>
       <g:description>Ref.: 22622001-MS1 Especificações do produto: · Linha Lost Funny. · Modelagem regular fit. · Estampa frontal Lost no centro. · Reforço de gola. · Etiqueta lateral Lost embutida acima da barra. · Tag personalizado Lost. Composição: 73% Algodão 27% Poliéster. Lost Summer Verão 25.26 / Linha Lost Funny</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>32</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>30</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>199.00 BRL</g:price>
       <g:sale_price>99.00 BRL</g:sale_price>
@@ -65371,7 +65371,7 @@
       <g:title>T-Shirt Mescla Sheep Mescla Médio (GG / Mescla Médio)</g:title>
       <g:description>Ref.: 22622001-MS1 Especificações do produto: · Linha Lost Funny. · Modelagem regular fit. · Estampa frontal Lost no centro. · Reforço de gola. · Etiqueta lateral Lost embutida acima da barra. · Tag personalizado Lost. Composição: 73% Algodão 27% Poliéster. Lost Summer Verão 25.26 / Linha Lost Funny</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>4</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>2</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>199.00 BRL</g:price>
       <g:sale_price>99.00 BRL</g:sale_price>
@@ -65568,8 +65568,8 @@
       <g:id>1555585977</g:id>
       <g:title>Boné 5 Pannel Lost Branding Refletivo Preto (U / Preto Mostr)</g:title>
       <g:description>Ref.: 22626505-PPP Especificações do produto: · Linha Lost Funny. · Modelagem 5 panel. · Estampa silk refletivo Lost. · Fita personalizada Lost. · Aba curva. · Etiqueta interna Lost Since ‘91 or 93’. · Etiqueta embutida Lost no regulador. · Regulador funcional com fecho tic tac. · Tag personalizada Lost. Composição: 100% Algodão.</g:description>
-      <g:availability>out of stock</g:availability>
-      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
+      <g:availability>in stock</g:availability>
+      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>189.00 BRL</g:price>
       <g:sale_price>99.00 BRL</g:sale_price>
@@ -65584,7 +65584,7 @@
       <g:product_type>Shop &gt; Acessórios &gt; Boné</g:product_type>
       <g:custom_label_0>Oferta Relampago - Ate 70% off · pecas a partir de R$ 59</g:custom_label_0>
       <g:custom_label_1>Acessorios</g:custom_label_1>
-      <g:custom_label_2>sem_estoque</g:custom_label_2>
+      <g:custom_label_2>grade_ok</g:custom_label_2>
     </item>
     <item>
       <g:id>1555586008</g:id>
@@ -66097,7 +66097,7 @@
       <g:title>T-Shirt Posca Full Preto/Verde (M / Preto/Verde)</g:title>
       <g:description>Ref.: 22612010-PVD · Linha Lost X Posca. Especificações do produto: · Modelagem regular. · Estampa full print posca full X Lost. · Etiqueta lost posca na barra frontal. · Reforço de gola. · Tag personalizado Lost x Posca. Composição: 100 % Algodão. A collab mais artística da história: LOST + POSCA! A marca de canetas japonesa conhecida mundialmente virou nossa parceira no Art Wear Collection, onde a arte não tem limite e a moda não tem regras.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>8</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>5</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>279.00 BRL</g:price>
       <g:sale_price>149.00 BRL</g:sale_price>
@@ -66119,7 +66119,7 @@
       <g:title>T-Shirt Posca Full Preto/Verde (G / Preto/Verde)</g:title>
       <g:description>Ref.: 22612010-PVD · Linha Lost X Posca. Especificações do produto: · Modelagem regular. · Estampa full print posca full X Lost. · Etiqueta lost posca na barra frontal. · Reforço de gola. · Tag personalizado Lost x Posca. Composição: 100 % Algodão. A collab mais artística da história: LOST + POSCA! A marca de canetas japonesa conhecida mundialmente virou nossa parceira no Art Wear Collection, onde a arte não tem limite e a moda não tem regras.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>28</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>26</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>279.00 BRL</g:price>
       <g:sale_price>149.00 BRL</g:sale_price>
@@ -66141,7 +66141,7 @@
       <g:title>T-Shirt Posca Full Preto/Verde (GG / Preto/Verde)</g:title>
       <g:description>Ref.: 22612010-PVD · Linha Lost X Posca. Especificações do produto: · Modelagem regular. · Estampa full print posca full X Lost. · Etiqueta lost posca na barra frontal. · Reforço de gola. · Tag personalizado Lost x Posca. Composição: 100 % Algodão. A collab mais artística da história: LOST + POSCA! A marca de canetas japonesa conhecida mundialmente virou nossa parceira no Art Wear Collection, onde a arte não tem limite e a moda não tem regras.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>10</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>8</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>279.00 BRL</g:price>
       <g:sale_price>149.00 BRL</g:sale_price>
@@ -68158,7 +68158,7 @@
       <g:product_type>Shop &gt; Camisetas &gt; T-Shirts</g:product_type>
       <g:custom_label_0>Oferta Relampago - Ate 70% off · pecas a partir de R$ 59</g:custom_label_0>
       <g:custom_label_1>Camisetas</g:custom_label_1>
-      <g:custom_label_2>grade_quebrada</g:custom_label_2>
+      <g:custom_label_2>sem_estoque</g:custom_label_2>
     </item>
     <item>
       <g:id>1555588007</g:id>
@@ -68180,7 +68180,7 @@
       <g:product_type>Shop &gt; Camisetas &gt; T-Shirts</g:product_type>
       <g:custom_label_0>Oferta Relampago - Ate 70% off · pecas a partir de R$ 59</g:custom_label_0>
       <g:custom_label_1>Camisetas</g:custom_label_1>
-      <g:custom_label_2>grade_quebrada</g:custom_label_2>
+      <g:custom_label_2>sem_estoque</g:custom_label_2>
     </item>
     <item>
       <g:id>1555588008</g:id>
@@ -68202,14 +68202,14 @@
       <g:product_type>Shop &gt; Camisetas &gt; T-Shirts</g:product_type>
       <g:custom_label_0>Oferta Relampago - Ate 70% off · pecas a partir de R$ 59</g:custom_label_0>
       <g:custom_label_1>Camisetas</g:custom_label_1>
-      <g:custom_label_2>grade_quebrada</g:custom_label_2>
+      <g:custom_label_2>sem_estoque</g:custom_label_2>
     </item>
     <item>
       <g:id>1555588009</g:id>
       <g:title>T-Shirt Motorcycle Preto (GG / Preto)</g:title>
       <g:description>Ref.: 22613002-PPP Linha Get Lost. Especificações do produto: Modelagem Regular. Estampa centralizado frente. Etiqueta Saturno centralizada na manga. Etiqueta aplicada na barra costas. Reforço de gola. Tag personalizado LOST. Composição. 100% Algodão. LOST Racing Club. Se você perguntar por aí, vão dizer que o que a gente faz é errado. Perigoso… Irresponsável… Coisa de quem não tem futuro. Talvez o problema seja que nós nunca soubemos andar na mesma direção que eles. Porque isso aqui é pra quem prefere viver do seu próprio jeito, mesmo que ninguém entenda. Don’t follow me, i’m …LOST</g:description>
-      <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
+      <g:availability>out of stock</g:availability>
+      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>169.00 BRL</g:price>
       <g:sale_price>99.00 BRL</g:sale_price>
@@ -68224,7 +68224,7 @@
       <g:product_type>Shop &gt; Camisetas &gt; T-Shirts</g:product_type>
       <g:custom_label_0>Oferta Relampago - Ate 70% off · pecas a partir de R$ 59</g:custom_label_0>
       <g:custom_label_1>Camisetas</g:custom_label_1>
-      <g:custom_label_2>grade_quebrada</g:custom_label_2>
+      <g:custom_label_2>sem_estoque</g:custom_label_2>
     </item>
     <item>
       <g:id>1555588135</g:id>
@@ -69463,7 +69463,7 @@
       <g:title>Calça Sarja Skate Preto (42 / Preto)</g:title>
       <g:description>Ref.: 22514601-PPP Especificações do produto: · Modelagem skate com cós. · Linha Classics. · Botão flexível personalizado Lost. · Bordado Lost aplicado no bolso. · Bolsos laterais. · Vista com zíper de metal médio fixo. · Bolso cargo chapado lateral com prega fêmea no centro e lapela. · Etiqueta listrada na lateral do bolso traseiro. · Testeira colored twill. · Etiqueta Zetex Lost localizada no cós. · Passantes. · Tag personalizado Lost. Composição: 70% Algodão. 30% Poliéster.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>6</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>7</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>399.00 BRL</g:price>
       <g:sale_price>149.00 BRL</g:sale_price>
@@ -69507,7 +69507,7 @@
       <g:title>Calça Sarja Skate Preto (46 / Preto)</g:title>
       <g:description>Ref.: 22514601-PPP Especificações do produto: · Modelagem skate com cós. · Linha Classics. · Botão flexível personalizado Lost. · Bordado Lost aplicado no bolso. · Bolsos laterais. · Vista com zíper de metal médio fixo. · Bolso cargo chapado lateral com prega fêmea no centro e lapela. · Etiqueta listrada na lateral do bolso traseiro. · Testeira colored twill. · Etiqueta Zetex Lost localizada no cós. · Passantes. · Tag personalizado Lost. Composição: 70% Algodão. 30% Poliéster.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>9</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>6</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>399.00 BRL</g:price>
       <g:sale_price>149.00 BRL</g:sale_price>
@@ -69705,7 +69705,7 @@
       <g:title>Walk Denim Relaxed Basics Indigo (40 / Indigo)</g:title>
       <g:description>Ref.: 21113408-III Especificações do produto: · Modelagem Relaxed Fit. · Fechamento em zíper e botão. · Cós com passantes para cinto. · Bolsos frontais nas laterais. · Bolso traseiro. · Termocolante Lost na lateral. Composição: 98% Algodão. 2% Poliéster.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>3</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>2</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>369.00 BRL</g:price>
       <g:sale_price>258.30 BRL</g:sale_price>
@@ -70541,7 +70541,7 @@
       <g:title>Boardshorts Posca Azul Marinho (42 / Azul Marinho)</g:title>
       <g:description>Ref.: 22614103-AZM Linha LOST X POSCA. Especificações do produto: · Modelagem 48cm. · Bolso lateral aplicado com termocolante. · Cadarço ajustador. · Etiqueta Lost X posca aplicada na barra frontal. · Fechamento em Velcro. · Etiqueta lost embutida acima do bolso. · Tag personalizado LOST. Composição: Microfibra com Elastano • 93% Poliéster 7% Elastano.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>5</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>4</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>399.00 BRL</g:price>
       <g:sale_price>149.00 BRL</g:sale_price>
@@ -70937,7 +70937,7 @@
       <g:title>Shoulder Média Com Patch Preto (U / Preto)</g:title>
       <g:description>Ref.: 226210502-PPP Linha Lost branding. Especificações do produto: · Modelagem Shoulder. · Cadarço personalizado LOST. · Abertura bolsa simples + Zíper metálico. · Bordado saturno aplicado na frente. · Bolso frontal com fechamento em Zíper metálico. · Etiqueta clips aplicada na parte de trás. · Tag personalizado LOST. Composição: 100% Poliéster.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>49</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>44</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>299.00 BRL</g:price>
       
@@ -70959,7 +70959,7 @@
       <g:title>Shoulder Porta Celular Preto (U / Preto)</g:title>
       <g:description>Ref.: 226210501-PPP Linha Lost branding. Especificações do produto: · Modelagem Shoulder. · Cadarço personalizado LOST. · Shape porta celular. · Etiqueta de borracha azul. · Aba com debrum + Abertura bolsa abaixo da aba. · Fecho aba frente com cadarço personalizado. · Etiqueta clips aplicada na parte de trás. · Bolso costas simples. · Ajustador. · Tag personalizado LOST. Composição: 100% Poliéster.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>11</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>6</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>309.00 BRL</g:price>
       <g:sale_price>149.00 BRL</g:sale_price>
@@ -72037,7 +72037,7 @@
       <g:title>T-Shirt Sheep Preto (G / Preto)</g:title>
       <g:description>Ref.: 22722807-PPP Linha We are lost. Especificações do produto: · Modelagem regular. · Estampa frontal Sheep Saturn no peito. · Reforço de gola. · Etiqueta aplicada na barra. · Técnica especial luz neon. · Tag personalizado LOST. Composição: 100% Algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>2</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>3</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>159.00 BRL</g:price>
       
@@ -73114,8 +73114,8 @@
       <g:id>1579960418</g:id>
       <g:title>T-Shirt High Dragon Branco (GG / Branco)</g:title>
       <g:description>Ref.: 22613020-BBB LINHA 4:20 A Lost apresenta o drop 4:20: uma coleção inspirada na cultura canábica, trazendo peças com atitude, identidade e estética urbana. Um lançamento pensado para quem vive o lifestyle. Especificações do produto: · Modelagem regular. · Reforço de gola. · Estampa frontal Lost Smoke no peito lateral. · Técnica especial brilha no escuro. · Etiqueta 4:20 Saturno acima da barra. · Estampa grande Lost 4:20 nas costas. · Tag personalizado LOST X 4:20. · Tag com técnica especial do fogo. Composição: 100% algodão.</g:description>
-      <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
+      <g:availability>out of stock</g:availability>
+      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>179.00 BRL</g:price>
       <g:sale_price>99.00 BRL</g:sale_price>
@@ -73152,14 +73152,14 @@
       <g:product_type>Shop &gt; Camisetas &gt; T-Shirts</g:product_type>
       <g:custom_label_0>Oferta Relampago - Ate 70% off · pecas a partir de R$ 59</g:custom_label_0>
       <g:custom_label_1>Camisetas</g:custom_label_1>
-      <g:custom_label_2>grade_ok</g:custom_label_2>
+      <g:custom_label_2>grade_quebrada</g:custom_label_2>
     </item>
     <item>
       <g:id>1579960914</g:id>
       <g:title>T-Shirt High Dragon Preto (M / Preto)</g:title>
       <g:description>Ref.: 22613020-PPP LINHA 4:20 A Lost apresenta o drop 4:20: uma coleção inspirada na cultura canábica, trazendo peças com atitude, identidade e estética urbana. Um lançamento pensado para quem vive o lifestyle. Especificações do produto: · Modelagem regular. · Reforço de gola. · Estampa frontal Lost Smoke no peito lateral. · Técnica especial brilha no escuro. · Etiqueta 4:20 Saturno acima da barra. · Estampa grande Lost 4:20 nas costas. · Tag personalizado LOST X 4:20. · Tag com técnica especial do fogo. Composição: 100% algodão.</g:description>
-      <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
+      <g:availability>out of stock</g:availability>
+      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>179.00 BRL</g:price>
       <g:sale_price>99.00 BRL</g:sale_price>
@@ -73174,7 +73174,7 @@
       <g:product_type>Shop &gt; Camisetas &gt; T-Shirts</g:product_type>
       <g:custom_label_0>Oferta Relampago - Ate 70% off · pecas a partir de R$ 59</g:custom_label_0>
       <g:custom_label_1>Camisetas</g:custom_label_1>
-      <g:custom_label_2>grade_ok</g:custom_label_2>
+      <g:custom_label_2>grade_quebrada</g:custom_label_2>
     </item>
     <item>
       <g:id>1579960931</g:id>
@@ -73196,7 +73196,7 @@
       <g:product_type>Shop &gt; Camisetas &gt; T-Shirts</g:product_type>
       <g:custom_label_0>Oferta Relampago - Ate 70% off · pecas a partir de R$ 59</g:custom_label_0>
       <g:custom_label_1>Camisetas</g:custom_label_1>
-      <g:custom_label_2>grade_ok</g:custom_label_2>
+      <g:custom_label_2>grade_quebrada</g:custom_label_2>
     </item>
     <item>
       <g:id>1579960943</g:id>
@@ -73218,7 +73218,7 @@
       <g:product_type>Shop &gt; Camisetas &gt; T-Shirts</g:product_type>
       <g:custom_label_0>Oferta Relampago - Ate 70% off · pecas a partir de R$ 59</g:custom_label_0>
       <g:custom_label_1>Camisetas</g:custom_label_1>
-      <g:custom_label_2>grade_ok</g:custom_label_2>
+      <g:custom_label_2>grade_quebrada</g:custom_label_2>
     </item>
     <item>
       <g:id>1580098013</g:id>
@@ -73863,7 +73863,7 @@
       <g:title>T-Shirt Lost By Mayhem Chumbo Estanho (G / Chumbo Estanho)</g:title>
       <g:description>Ref.: 22722814-CBE Especificações do produto: · Linha Mayhem. · Modelagem regular. · Estampa LOST Surfboard Mayhem nas costas. · Etiqueta LOST. · Estampa Mayhem no peito lateral. · Tag personalizado LOST. Composição: 100% Algodão. MAYHEM Da cultura underground californiana para o mundo, a MAYHEM carrega a essência de quem transforma o surf em expressão, atitude e liberdade. Uma identidade construída longe do óbvio, entre inovação, experimentação e a busca constante por algo diferente. MAYHEM — feita para quem não segue a linha. Cria a própria.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>8</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>7</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>169.00 BRL</g:price>
       
@@ -74281,7 +74281,7 @@
       <g:title>Walk Sarja Relaxed Preto (48 / Preto)</g:title>
       <g:description>Ref.: 22414204-PPP Nem só de praia vive um Lost. As bermudas walk são as melhores opções para o dia a dia e rolês na cidade. Levam a autenticidade e irreverência das Lost aos lugares mais improváveis. Especificações do produto: · Modelagem chino. · Sarja com elastano. · Bolsos laterais e traseiros embutidos. · Fechamento com zíper. · Botão personalizado lost. · Passantes para cinto. · Etiqueta aplicado no meio do bolso. · Etiqueta listrada na lateral do bolso traseiro. Composição: 98% Algodão, 2% Elastano.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>2</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>389.00 BRL</g:price>
       
@@ -77317,7 +77317,7 @@
       <g:title>Shorts Laser Lost Marinho Mescla (M / Marinho Mescla)</g:title>
       <g:description>Ref.: 22726002-MCL Short Elástico LOST Laser Verão 26/27 | Drop WE ARE LOST Modelo curto em tecido Neo Blend Flex New, 90% poliéster e 10% elastano. Cós elástico com cadarço, bolsos laterais e traseiro embutidos, detalhes a laser nas laterais e barra arredondada. Cores: cinza, preto e marinho mescla. Tamanhos: P ao GG. Medidas dos detalhes: cós de 4 cm; aberturas dos bolsos com vivo de 16 × 1,5 cm; barra de 2,5 cm. Ref.: 2272.6002.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>17</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>21</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>399.00 BRL</g:price>
       
@@ -77339,7 +77339,7 @@
       <g:title>Shorts Laser Lost Marinho Mescla (G / Marinho Mescla)</g:title>
       <g:description>Ref.: 22726002-MCL Short Elástico LOST Laser Verão 26/27 | Drop WE ARE LOST Modelo curto em tecido Neo Blend Flex New, 90% poliéster e 10% elastano. Cós elástico com cadarço, bolsos laterais e traseiro embutidos, detalhes a laser nas laterais e barra arredondada. Cores: cinza, preto e marinho mescla. Tamanhos: P ao GG. Medidas dos detalhes: cós de 4 cm; aberturas dos bolsos com vivo de 16 × 1,5 cm; barra de 2,5 cm. Ref.: 2272.6002.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>16</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>19</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>399.00 BRL</g:price>
       

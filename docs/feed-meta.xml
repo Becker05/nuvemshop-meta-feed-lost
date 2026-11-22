@@ -18218,7 +18218,7 @@
       <g:product_type>Shop &gt; Camisetas &gt; Especiais</g:product_type>
       
       
-      <g:custom_label_2>grade_ok</g:custom_label_2>
+      <g:custom_label_2>grade_quebrada</g:custom_label_2>
     </item>
     <item>
       <g:id>1555463003</g:id>
@@ -18240,14 +18240,14 @@
       <g:product_type>Shop &gt; Camisetas &gt; Especiais</g:product_type>
       
       
-      <g:custom_label_2>grade_ok</g:custom_label_2>
+      <g:custom_label_2>grade_quebrada</g:custom_label_2>
     </item>
     <item>
       <g:id>1555463011</g:id>
       <g:title>Tshirt Digital Barbed Wire Coral Biarritz (G / Coral Biarritz)</g:title>
       <g:description>Ref.: 22522009-CRB Especificações do produto: · Linha lost branding. · Modelagem regular. · Estampa digital arame farpado lost. · Etiqueta termocolante peito. · Reforço de gola. · Tag personalizado LOST. Composição: 100% Algodão</g:description>
-      <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
+      <g:availability>out of stock</g:availability>
+      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>239.00 BRL</g:price>
       <g:sale_price>119.90 BRL</g:sale_price>
@@ -18262,7 +18262,7 @@
       <g:product_type>Shop &gt; Camisetas &gt; Especiais</g:product_type>
       
       
-      <g:custom_label_2>grade_ok</g:custom_label_2>
+      <g:custom_label_2>grade_quebrada</g:custom_label_2>
     </item>
     <item>
       <g:id>1555463016</g:id>
@@ -18284,7 +18284,7 @@
       <g:product_type>Shop &gt; Camisetas &gt; Especiais</g:product_type>
       
       
-      <g:custom_label_2>grade_ok</g:custom_label_2>
+      <g:custom_label_2>grade_quebrada</g:custom_label_2>
     </item>
     <item>
       <g:id>1555463116</g:id>
@@ -29048,8 +29048,8 @@
       <g:id>1555517021</g:id>
       <g:title>Lazyshorts Lost Caramelo (G / Caramelo)</g:title>
       <g:description>Ref.: 22626001-CRM ·LINHA LOST BRANDING. Especificações do produto: · Modelagem Short elástico. · Cós com elástico. · Bolso traseiro. · Etiqueta lost personalizada acima do bolso. · Cadarço ajustador. · Bolso embutido nas laterais. · Tag personalizado Lost. Composição: 93% Poliéster 7% Elastano. Microfibra com Elastano.</g:description>
-      <g:availability>out of stock</g:availability>
-      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
+      <g:availability>in stock</g:availability>
+      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>279.00 BRL</g:price>
       <g:sale_price>150.90 BRL</g:sale_price>
@@ -47287,7 +47287,7 @@
       <g:title>Boardwalk Dynamic Preto (44 / Preto)</g:title>
       <g:description>Ref.: 22527101-PPP Especificações do produto: · Modelagem Boardwalk Com 51Cm. · Bolso faca nas laterais. · Etiqueta lost aplicada no cós. · Bolso traseiro embutido com malha furadinha. · Etiqueta termocolante saturno na lateral da barra. · Tag personalizado Lost. Composição: 95% Poliéster 5% Elastano</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>11</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>10</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>229.00 BRL</g:price>
       
